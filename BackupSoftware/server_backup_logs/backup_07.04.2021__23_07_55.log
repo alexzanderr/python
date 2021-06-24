@@ -1,0 +1,9 @@
+[ 07.04.2021-23:07:55.0989 - BackupClientRemoteServer - INFO ]
+checking server: http://192.168.1.190:9998/ ...
+
+[ 07.04.2021-23:07:55.0998 - BackupClientRemoteServer - INFO ]
+generating files ...
+
+[ 07.04.2021-23:07:56.0070 - BackupClientRemoteServer - INFO ]
+generated.
+

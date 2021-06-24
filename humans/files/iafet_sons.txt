@@ -1,0 +1,8 @@
+gomer
+magog
+madai
+iavan
+tubal
+mesheh
+tiras
+__END__

@@ -1,0 +1,76 @@
+
+
+
+
+r"""
+in order to copy to the server
+space left on server: 870.0139999999999 GB
+
+
+
+D:\Alexzander__\programming\python\BackupSoftware\BackupSoftware.py
+
+/root/alexzander/backup/asusroggl553vd \Alexzander__\programming\python\BackupSoftware
+
+/root/alexzander/backup/asusroggl553vd + /Alexzander__/programming/python/BackupSoftware
+
+/root/alexzander/backup/asusroggl553vd/Alexzander__/programming/python/BackupSoftware
+create the path
+
+
+pscp -q -P 22 -pw {password} {source_full_path} {username}@{ip}:{destination_folder}
+
+pscp -q -P 22 -pw uuu123 "D:\Alexzander__\programming\python\BackupSoftware\imports.py" root@192.168.1.234:"/root/alexzander"
+
+
+pscp -q -P 22 -pw uuu123 "D:\Alexzander__\programming\python\BackupSoftware\server\BackupSoftwareServer.py" root@192.168.1.234:"/root/alexzander"
+
+
+
+this is good when you want to copy the folder
+pscp -q -r -P 22 -pw uuu123 "D:\Alexzander__\Google" root@192.168.1.234:"/root/alexzander"
+(creates the Google folder at the other end-point)
+
+
+
+
+pscp -r -P 22 -pw uuu123 "D:\Alexzander__\PythonApplicationsAppData" alexzander@192.168.1.190:"/home/alexzander"
+
+pscp -r -P 22 -pw uuu123 "D:\Alexzander__\programming\python\BackupSoftware" alexzander@192.168.1.174:"/home/alexzander/programming/python/BackupSoftware"
+
+
+pscp -P 22 -pw uuu123 "D:\Alexzander__\programming\python\BackupSoftware\BackupRemoteServer.py" alexzander@192.168.1.174:"/home/alexzander/programming/python3/BackupSoftware"
+
+
+
+
+
+
+
+
+
+this command will overwrite the existing file
+    with the newest updates automatically
+
+
+you cant pass folder to PSCP
+
+
+pscp nu creeza foldere atunci cand nu exista
+https://stackoverflow.com/questions/12920947/does-scp-create-the-target-folder-if-it-does-not-exist/12921043
+
+putem sa facem un server si un client care sa comunice in timpul backupului si sa faca folderele care nu exista, dar trebuie sa deschid port pe server sau sa dau disable la firewall
+"""
+
+server_backup_folder = "/root/alexzander/asusroggl553vd_backup"
+
+# TODO
+# 1. make a list with all full paths, generated recursively on the folder that
+# you want to backup to the server
+
+
+"""
+
+pscp -P 22 -pw uuu123 D:\Alexzander__\Settings\VSCode root@192.168.1.234:/root/alexzander/asusroggl553vd_backup
+
+"""

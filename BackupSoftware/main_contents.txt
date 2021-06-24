@@ -1,0 +1,9 @@
+D:\Alexzander__
+D:\Movies
+C:\Users\dragonfire\.vscode
+C:\Users\dragonfire\sounds
+C:\Users\dragonfire\AppData\Roaming\Code
+C:\Users\dragonfire\AppData\Roaming\Telegram Desktop\tdata\shortcuts-default.json
+C:\Users\dragonfire\AppData\Roaming\Telegram Desktop\tdata\shortcuts-custom.json
+C:\Users\dragonfire\AppData\Local\BraveSoftware\Brave-Browser\User Data
+C:\Users\dragonfire\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json

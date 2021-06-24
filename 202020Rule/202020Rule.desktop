@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=202020Rule
+Comment=Application for eye health and monitoring.
+Keywords=eye;monitoring;20;20rule
+Icon=/home/alexzander/Applications__/PythonApplications/202020Rule/assets/icons/appicon.png_255x255_converted.ico
+Exec=/home/alexzander/Applications__/shell/202020Rule.sh
+StartupNotify=true
+Terminal=true
+X-GNOME-Autostart-Delay=5
+X-GNOME-Autostart-enabled=true
+X-GNOME-UsesNotifications=true

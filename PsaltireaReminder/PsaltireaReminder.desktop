@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=PsaltireaReminder
+Icon=/home/alexzander/Applications__/PythonApplications/PsaltireaReminder/icons/psaltirea-icon2.jpeg_128x128_converted.ico
+Exec=/home/alexzander/Applications__/shell/PsaltireaReminder.sh
+StartupNotify=true
+Terminal=true
+X-GNOME-Autostart-Delay=5
+X-GNOME-Autostart-enabled=true
+X-GNOME-UsesNotifications=true

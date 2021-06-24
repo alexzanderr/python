@@ -1,0 +1,33 @@
+
+<html>
+    <head>
+        <script src="eel.js"></script>
+    </head>
+
+    <body>
+        <h1> Eel application is functioning properly </h1>
+        <script>
+            function call_code_from_python() {
+                eel.python_to_javascript("its me mario")
+            }
+
+            @eel.expose(javascript_into_python)
+            function javascript_into_python() {
+                // eel.send("string_from_javascript")
+                return eel.send("string from javascript")
+            }
+
+        </script>
+        <button onclick="javascript_into_python()">
+            this is just a simple button
+        </button>
+        <br>
+        <h2> aking my own html code </h2>
+        <br>
+        <button>
+
+            making another button
+
+        </button>
+    </body>
+</html>

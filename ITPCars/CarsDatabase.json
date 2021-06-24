@@ -1,0 +1,6002 @@
+[
+    {
+        "numar_masina": "VS 17 LOC",
+        "telefon_detinator": "0712.676.973",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 89 CJE",
+        "telefon_detinator": "0723.516.253",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 94 EXH",
+        "telefon_detinator": "0778.512.581",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AB 74 IVV",
+        "telefon_detinator": "0716.643.027",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 39 UEN",
+        "telefon_detinator": "0728.126.393",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 51 YDH",
+        "telefon_detinator": "0720.249.623",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 73 CCJ",
+        "telefon_detinator": "0711.355.222",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 26 FGW",
+        "telefon_detinator": "0703.007.073",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 28 HLO",
+        "telefon_detinator": "0771.616.300",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 69 MPM",
+        "telefon_detinator": "0753.037.514",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 92 VXU",
+        "telefon_detinator": "0780.630.078",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 50 PWY",
+        "telefon_detinator": "0745.100.995",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 56 KIP",
+        "telefon_detinator": "0781.867.249",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 96 SBE",
+        "telefon_detinator": "0795.109.810",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 18 MLE",
+        "telefon_detinator": "0727.833.116",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 96 HRS",
+        "telefon_detinator": "0724.596.342",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 97 BTR",
+        "telefon_detinator": "0767.095.445",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 91 CYQ",
+        "telefon_detinator": "0753.508.855",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 80 ATG",
+        "telefon_detinator": "0780.812.614",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 95 NFR",
+        "telefon_detinator": "0735.149.472",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 44 PHN",
+        "telefon_detinator": "0723.762.489",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 26 VWB",
+        "telefon_detinator": "0798.132.346",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 35 SDM",
+        "telefon_detinator": "0757.786.830",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 58 XPX",
+        "telefon_detinator": "0750.970.361",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AB 14 QWW",
+        "telefon_detinator": "0729.111.101",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 31 BZG",
+        "telefon_detinator": "0704.401.644",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 66 ODI",
+        "telefon_detinator": "0723.150.763",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 81 ZOC",
+        "telefon_detinator": "0748.584.448",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 33 WOE",
+        "telefon_detinator": "0765.803.902",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 71 HLS",
+        "telefon_detinator": "0761.868.719",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 32 VMQ",
+        "telefon_detinator": "0725.088.061",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 60 MRX",
+        "telefon_detinator": "0762.015.964",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 93 TVS",
+        "telefon_detinator": "0745.826.877",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 28 XXU",
+        "telefon_detinator": "0706.013.250",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 87 ASE",
+        "telefon_detinator": "0793.461.753",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 93 COZ",
+        "telefon_detinator": "0717.797.697",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 84 TPC",
+        "telefon_detinator": "0703.520.895",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 43 CFR",
+        "telefon_detinator": "0747.896.114",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 45 QMA",
+        "telefon_detinator": "0790.101.677",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 23 NDD",
+        "telefon_detinator": "0775.917.949",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 84 ZEU",
+        "telefon_detinator": "0732.153.303",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 73 PTB",
+        "telefon_detinator": "0703.102.375",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 17 ENZ",
+        "telefon_detinator": "0721.650.758",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 11 DKK",
+        "telefon_detinator": "0713.926.569",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 22 BFN",
+        "telefon_detinator": "0773.615.606",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 20 EMY",
+        "telefon_detinator": "0706.450.601",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 79 SAY",
+        "telefon_detinator": "0783.716.379",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 49 HDO",
+        "telefon_detinator": "0794.445.092",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 70 JFC",
+        "telefon_detinator": "0733.075.572",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 43 LSZ",
+        "telefon_detinator": "0756.346.753",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 80 ZQS",
+        "telefon_detinator": "0772.691.538",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 34 NEP",
+        "telefon_detinator": "0781.579.618",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 81 MPM",
+        "telefon_detinator": "0704.809.689",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 95 BHJ",
+        "telefon_detinator": "0714.060.859",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 58 CDF",
+        "telefon_detinator": "0788.053.943",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 44 VGD",
+        "telefon_detinator": "0702.781.534",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 77 WNC",
+        "telefon_detinator": "0760.930.866",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 92 XBJ",
+        "telefon_detinator": "0707.509.552",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 16 YQB",
+        "telefon_detinator": "0761.046.995",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 90 XIM",
+        "telefon_detinator": "0723.617.076",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 46 SZQ",
+        "telefon_detinator": "0763.118.667",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 83 ZOC",
+        "telefon_detinator": "0723.590.000",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 81 KAW",
+        "telefon_detinator": "0719.868.837",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 29 VUQ",
+        "telefon_detinator": "0743.010.866",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 10 QPH",
+        "telefon_detinator": "0740.478.869",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 37 AYI",
+        "telefon_detinator": "0787.296.136",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 28 FCY",
+        "telefon_detinator": "0780.380.009",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 80 DHC",
+        "telefon_detinator": "0784.655.029",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 96 OFT",
+        "telefon_detinator": "0767.853.277",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 96 NOL",
+        "telefon_detinator": "0747.238.801",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 43 VVE",
+        "telefon_detinator": "0786.218.899",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 68 KWO",
+        "telefon_detinator": "0775.322.444",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 34 DGU",
+        "telefon_detinator": "0703.129.995",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 70 EZM",
+        "telefon_detinator": "0794.344.628",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 55 XFM",
+        "telefon_detinator": "0745.668.627",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 28 VBI",
+        "telefon_detinator": "0781.263.071",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 32 PIT",
+        "telefon_detinator": "0782.074.724",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 78 WHC",
+        "telefon_detinator": "0795.632.372",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 56 SOH",
+        "telefon_detinator": "0756.200.000",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 38 IQX",
+        "telefon_detinator": "0748.902.299",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 15 AGT",
+        "telefon_detinator": "0774.092.187",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 67 MCD",
+        "telefon_detinator": "0744.184.781",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 90 YYZ",
+        "telefon_detinator": "0716.674.353",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 33 PWN",
+        "telefon_detinator": "0747.500.453",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 75 TGL",
+        "telefon_detinator": "0776.717.422",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 67 CXO",
+        "telefon_detinator": "0705.034.056",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 26 VUX",
+        "telefon_detinator": "0755.382.325",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 87 OOP",
+        "telefon_detinator": "0747.099.105",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 16 WCX",
+        "telefon_detinator": "0747.057.118",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 98 JGG",
+        "telefon_detinator": "0739.535.798",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 61 DXQ",
+        "telefon_detinator": "0730.834.861",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 48 HYO",
+        "telefon_detinator": "0795.287.364",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 32 CAC",
+        "telefon_detinator": "0735.578.580",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 56 AIY",
+        "telefon_detinator": "0766.143.476",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 21 GIA",
+        "telefon_detinator": "0720.422.589",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 71 KTB",
+        "telefon_detinator": "0779.892.253",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 18 TVN",
+        "telefon_detinator": "0781.714.325",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 78 ZZD",
+        "telefon_detinator": "0770.159.164",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 16 JMV",
+        "telefon_detinator": "0788.399.591",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AB 10 AQU",
+        "telefon_detinator": "0717.254.019",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 49 SSC",
+        "telefon_detinator": "0784.762.385",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 90 FKR",
+        "telefon_detinator": "0799.352.899",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 26 DOM",
+        "telefon_detinator": "0796.254.628",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 94 MOL",
+        "telefon_detinator": "0774.841.085",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 69 IWV",
+        "telefon_detinator": "0719.159.498",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 95 UGO",
+        "telefon_detinator": "0731.498.026",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 31 LIE",
+        "telefon_detinator": "0701.035.328",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 94 YDU",
+        "telefon_detinator": "0763.546.637",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 91 AWZ",
+        "telefon_detinator": "0711.092.508",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 95 ELO",
+        "telefon_detinator": "0701.867.227",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 62 LHV",
+        "telefon_detinator": "0707.089.819",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 83 IBX",
+        "telefon_detinator": "0736.456.611",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 18 BJX",
+        "telefon_detinator": "0755.610.038",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 85 WTZ",
+        "telefon_detinator": "0742.671.839",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 42 MGP",
+        "telefon_detinator": "0767.889.803",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 40 VKL",
+        "telefon_detinator": "0797.054.632",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 55 RDZ",
+        "telefon_detinator": "0701.392.298",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 99 VEV",
+        "telefon_detinator": "0799.340.852",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 25 GHN",
+        "telefon_detinator": "0758.670.156",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 22 CII",
+        "telefon_detinator": "0743.739.844",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 39 HGY",
+        "telefon_detinator": "0799.042.164",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 96 YJE",
+        "telefon_detinator": "0735.832.560",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 39 BXV",
+        "telefon_detinator": "0753.188.675",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 45 HYE",
+        "telefon_detinator": "0714.386.034",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 97 VXZ",
+        "telefon_detinator": "0783.498.575",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 30 AZT",
+        "telefon_detinator": "0710.391.802",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 14 QHY",
+        "telefon_detinator": "0790.365.936",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 59 TGY",
+        "telefon_detinator": "0772.357.640",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 37 OXF",
+        "telefon_detinator": "0730.084.014",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 41 ILB",
+        "telefon_detinator": "0748.157.756",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 40 WYY",
+        "telefon_detinator": "0774.837.861",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 81 KCQ",
+        "telefon_detinator": "0772.459.903",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 51 YZR",
+        "telefon_detinator": "0787.244.686",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 27 VCN",
+        "telefon_detinator": "0735.350.162",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 91 CHR",
+        "telefon_detinator": "0756.335.617",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 53 EFN",
+        "telefon_detinator": "0708.494.020",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 61 RTL",
+        "telefon_detinator": "0765.191.425",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 55 JMD",
+        "telefon_detinator": "0700.813.286",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 62 EOO",
+        "telefon_detinator": "0791.230.379",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 46 NOA",
+        "telefon_detinator": "0730.510.911",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 40 PJH",
+        "telefon_detinator": "0753.833.243",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 70 MDW",
+        "telefon_detinator": "0751.324.738",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 77 VNM",
+        "telefon_detinator": "0720.013.468",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 21 HFQ",
+        "telefon_detinator": "0739.518.502",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 26 EXH",
+        "telefon_detinator": "0768.268.235",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 52 DTY",
+        "telefon_detinator": "0790.458.009",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 83 WTR",
+        "telefon_detinator": "0779.904.706",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 55 NJK",
+        "telefon_detinator": "0734.401.212",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 29 OVP",
+        "telefon_detinator": "0714.261.446",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 39 LJV",
+        "telefon_detinator": "0713.464.029",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 48 OFN",
+        "telefon_detinator": "0795.703.498",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 27 VHF",
+        "telefon_detinator": "0791.657.138",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 88 JLY",
+        "telefon_detinator": "0723.839.688",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 46 HHA",
+        "telefon_detinator": "0764.689.743",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 18 OEA",
+        "telefon_detinator": "0709.621.484",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 65 SYJ",
+        "telefon_detinator": "0735.042.024",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 45 SXF",
+        "telefon_detinator": "0717.165.312",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 33 YSC",
+        "telefon_detinator": "0790.134.047",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 86 HXP",
+        "telefon_detinator": "0744.781.559",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 83 XNS",
+        "telefon_detinator": "0726.161.197",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 98 BXF",
+        "telefon_detinator": "0712.609.805",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 69 NVU",
+        "telefon_detinator": "0780.807.215",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 51 UBS",
+        "telefon_detinator": "0771.179.082",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 95 NMK",
+        "telefon_detinator": "0763.085.453",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 83 GYH",
+        "telefon_detinator": "0717.213.874",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 27 ELX",
+        "telefon_detinator": "0790.635.777",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 90 ESR",
+        "telefon_detinator": "0758.637.238",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 83 EVU",
+        "telefon_detinator": "0707.061.704",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 74 AVW",
+        "telefon_detinator": "0716.504.547",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 36 MKZ",
+        "telefon_detinator": "0716.714.687",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 35 UCU",
+        "telefon_detinator": "0706.727.368",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 37 URI",
+        "telefon_detinator": "0749.286.512",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 51 EDG",
+        "telefon_detinator": "0774.638.054",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 83 ZCB",
+        "telefon_detinator": "0727.005.362",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 63 DTX",
+        "telefon_detinator": "0739.496.814",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 32 OXW",
+        "telefon_detinator": "0737.712.963",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 88 KLL",
+        "telefon_detinator": "0739.458.713",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 31 BTP",
+        "telefon_detinator": "0754.850.568",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 34 OFQ",
+        "telefon_detinator": "0760.768.669",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 45 VFN",
+        "telefon_detinator": "0750.419.559",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 97 HCF",
+        "telefon_detinator": "0779.864.744",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 69 CPG",
+        "telefon_detinator": "0793.242.636",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 18 LSJ",
+        "telefon_detinator": "0778.704.093",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 96 LJW",
+        "telefon_detinator": "0743.760.871",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 39 OSW",
+        "telefon_detinator": "0739.959.411",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 87 MUI",
+        "telefon_detinator": "0778.571.256",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 98 HUB",
+        "telefon_detinator": "0776.436.241",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 24 VSK",
+        "telefon_detinator": "0705.045.961",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 71 WLY",
+        "telefon_detinator": "0720.677.849",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 67 ABW",
+        "telefon_detinator": "0711.999.666",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 39 QPE",
+        "telefon_detinator": "0794.412.391",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 53 ZML",
+        "telefon_detinator": "0762.733.237",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 84 AID",
+        "telefon_detinator": "0716.067.089",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 25 MBD",
+        "telefon_detinator": "0768.120.616",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 93 ECL",
+        "telefon_detinator": "0746.785.714",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 67 AHX",
+        "telefon_detinator": "0724.221.953",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 73 MRA",
+        "telefon_detinator": "0777.240.163",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 63 FEQ",
+        "telefon_detinator": "0795.772.465",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 27 CIA",
+        "telefon_detinator": "0736.237.118",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 91 ATQ",
+        "telefon_detinator": "0791.882.941",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 40 ODS",
+        "telefon_detinator": "0711.511.610",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 11 NRV",
+        "telefon_detinator": "0746.263.153",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 78 LOX",
+        "telefon_detinator": "0750.028.901",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 93 SSU",
+        "telefon_detinator": "0744.408.714",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 38 PNV",
+        "telefon_detinator": "0732.182.409",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 94 ZFZ",
+        "telefon_detinator": "0789.702.592",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 14 NYK",
+        "telefon_detinator": "0762.209.276",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 90 QBP",
+        "telefon_detinator": "0761.164.561",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 86 BAD",
+        "telefon_detinator": "0719.368.297",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 11 IJS",
+        "telefon_detinator": "0773.766.205",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 73 VTS",
+        "telefon_detinator": "0721.066.847",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 23 EEX",
+        "telefon_detinator": "0757.063.147",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 64 DJW",
+        "telefon_detinator": "0784.698.485",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 77 SAS",
+        "telefon_detinator": "0763.078.524",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 90 KRG",
+        "telefon_detinator": "0753.550.076",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 44 NMU",
+        "telefon_detinator": "0706.726.211",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 68 PFB",
+        "telefon_detinator": "0741.600.597",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 57 EKS",
+        "telefon_detinator": "0771.079.215",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 45 ETM",
+        "telefon_detinator": "0779.427.965",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 35 BTC",
+        "telefon_detinator": "0702.457.421",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 39 STS",
+        "telefon_detinator": "0714.762.467",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 16 IPT",
+        "telefon_detinator": "0750.764.563",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 59 LBD",
+        "telefon_detinator": "0719.142.351",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 40 QOV",
+        "telefon_detinator": "0713.498.410",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 36 CMA",
+        "telefon_detinator": "0737.925.766",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 70 ONI",
+        "telefon_detinator": "0754.467.448",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 66 AUE",
+        "telefon_detinator": "0705.405.017",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 92 QNK",
+        "telefon_detinator": "0710.317.653",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 18 WUK",
+        "telefon_detinator": "0737.283.823",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 49 VGN",
+        "telefon_detinator": "0756.192.774",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 41 VRN",
+        "telefon_detinator": "0712.169.196",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 64 LGS",
+        "telefon_detinator": "0704.678.944",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AB 51 QUI",
+        "telefon_detinator": "0784.259.046",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 96 AVA",
+        "telefon_detinator": "0795.467.880",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 76 IAE",
+        "telefon_detinator": "0790.505.222",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 48 ZZV",
+        "telefon_detinator": "0730.568.716",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 27 EIG",
+        "telefon_detinator": "0761.550.690",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 25 CKD",
+        "telefon_detinator": "0719.973.908",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 24 DNV",
+        "telefon_detinator": "0772.542.974",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 89 GHO",
+        "telefon_detinator": "0766.684.039",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 60 BIV",
+        "telefon_detinator": "0745.633.369",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 16 OZI",
+        "telefon_detinator": "0744.093.686",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 56 EEF",
+        "telefon_detinator": "0794.488.156",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 27 NHQ",
+        "telefon_detinator": "0732.925.923",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 76 BPD",
+        "telefon_detinator": "0746.761.174",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 89 ZCH",
+        "telefon_detinator": "0792.099.138",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 77 TVM",
+        "telefon_detinator": "0707.993.559",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 87 FXC",
+        "telefon_detinator": "0723.123.470",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 92 XWA",
+        "telefon_detinator": "0748.001.014",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 87 MUI",
+        "telefon_detinator": "0751.009.697",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 36 ZBX",
+        "telefon_detinator": "0779.998.146",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 75 DYV",
+        "telefon_detinator": "0759.970.124",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 63 JHI",
+        "telefon_detinator": "0710.403.690",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 34 CDW",
+        "telefon_detinator": "0765.998.307",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 73 TLE",
+        "telefon_detinator": "0734.469.625",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 58 DHX",
+        "telefon_detinator": "0729.081.202",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 17 YMD",
+        "telefon_detinator": "0753.357.299",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 39 VNM",
+        "telefon_detinator": "0755.491.993",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 28 VVI",
+        "telefon_detinator": "0711.440.153",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 86 TVS",
+        "telefon_detinator": "0757.187.535",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 70 ACY",
+        "telefon_detinator": "0746.548.673",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 97 OQC",
+        "telefon_detinator": "0703.765.442",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 32 UYC",
+        "telefon_detinator": "0796.453.870",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 96 XAD",
+        "telefon_detinator": "0719.567.195",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 21 JQL",
+        "telefon_detinator": "0760.865.097",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 45 HVH",
+        "telefon_detinator": "0764.438.440",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 36 LOF",
+        "telefon_detinator": "0788.659.008",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 93 IRC",
+        "telefon_detinator": "0730.897.294",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 72 MFT",
+        "telefon_detinator": "0718.692.028",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 99 YKI",
+        "telefon_detinator": "0745.811.278",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 29 YBQ",
+        "telefon_detinator": "0795.158.051",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 17 HXD",
+        "telefon_detinator": "0724.296.428",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 64 ISQ",
+        "telefon_detinator": "0745.039.530",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 37 OWT",
+        "telefon_detinator": "0796.957.302",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 71 EIH",
+        "telefon_detinator": "0761.239.017",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 27 VYX",
+        "telefon_detinator": "0715.027.296",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 29 KPP",
+        "telefon_detinator": "0717.124.044",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 57 WUZ",
+        "telefon_detinator": "0793.013.333",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 26 JSQ",
+        "telefon_detinator": "0769.669.713",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 81 FQF",
+        "telefon_detinator": "0711.341.273",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 35 TCS",
+        "telefon_detinator": "0712.232.195",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 28 TOG",
+        "telefon_detinator": "0730.916.240",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 87 LHM",
+        "telefon_detinator": "0771.429.679",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 44 KIW",
+        "telefon_detinator": "0731.658.833",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 38 XUA",
+        "telefon_detinator": "0756.731.965",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 63 QQF",
+        "telefon_detinator": "0719.826.578",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 30 ZTH",
+        "telefon_detinator": "0788.350.856",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 34 XWR",
+        "telefon_detinator": "0700.623.530",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 49 LKL",
+        "telefon_detinator": "0705.419.386",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 23 JLS",
+        "telefon_detinator": "0770.749.254",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 16 OSQ",
+        "telefon_detinator": "0763.841.227",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 13 VVB",
+        "telefon_detinator": "0704.557.346",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 84 RZU",
+        "telefon_detinator": "0709.408.749",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 29 OYN",
+        "telefon_detinator": "0758.495.432",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 44 LWO",
+        "telefon_detinator": "0756.495.829",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 35 FXG",
+        "telefon_detinator": "0784.917.099",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 84 MKM",
+        "telefon_detinator": "0791.172.921",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 18 XKY",
+        "telefon_detinator": "0755.026.137",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 64 EPV",
+        "telefon_detinator": "0731.790.891",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 53 XZO",
+        "telefon_detinator": "0737.335.275",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 31 WIV",
+        "telefon_detinator": "0700.097.279",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 81 EQL",
+        "telefon_detinator": "0757.947.563",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 92 NAY",
+        "telefon_detinator": "0784.126.497",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 26 JKG",
+        "telefon_detinator": "0746.566.692",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 47 PJM",
+        "telefon_detinator": "0736.144.542",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 19 JEL",
+        "telefon_detinator": "0739.257.422",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 71 PKX",
+        "telefon_detinator": "0783.779.531",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 91 ATP",
+        "telefon_detinator": "0701.664.030",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 55 TFR",
+        "telefon_detinator": "0711.769.234",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 80 HZC",
+        "telefon_detinator": "0702.224.647",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 51 BRH",
+        "telefon_detinator": "0779.479.289",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 64 CTJ",
+        "telefon_detinator": "0789.296.171",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 28 XAK",
+        "telefon_detinator": "0789.750.500",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 43 IFP",
+        "telefon_detinator": "0753.800.691",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 53 FCF",
+        "telefon_detinator": "0759.749.817",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 61 XMN",
+        "telefon_detinator": "0771.893.061",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 84 AQV",
+        "telefon_detinator": "0776.449.504",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 86 TCU",
+        "telefon_detinator": "0728.838.261",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 43 QZI",
+        "telefon_detinator": "0779.907.863",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 21 FBY",
+        "telefon_detinator": "0784.223.347",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 88 CEW",
+        "telefon_detinator": "0773.783.283",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 64 SDY",
+        "telefon_detinator": "0757.324.808",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 66 KNX",
+        "telefon_detinator": "0792.610.549",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 90 UET",
+        "telefon_detinator": "0701.866.178",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 30 BGZ",
+        "telefon_detinator": "0769.411.261",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 63 BXU",
+        "telefon_detinator": "0754.384.081",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 74 THD",
+        "telefon_detinator": "0722.387.636",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 27 TKV",
+        "telefon_detinator": "0777.812.596",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 94 STG",
+        "telefon_detinator": "0744.684.824",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 32 WUZ",
+        "telefon_detinator": "0725.985.889",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 51 OQU",
+        "telefon_detinator": "0702.709.487",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 87 TEI",
+        "telefon_detinator": "0717.855.077",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 52 YMB",
+        "telefon_detinator": "0746.164.650",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 56 UBE",
+        "telefon_detinator": "0761.688.294",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 34 OVS",
+        "telefon_detinator": "0713.593.016",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 36 ZCT",
+        "telefon_detinator": "0720.100.781",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 26 EWE",
+        "telefon_detinator": "0736.883.423",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 96 XIS",
+        "telefon_detinator": "0701.352.770",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 62 PDP",
+        "telefon_detinator": "0741.609.534",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 90 TUV",
+        "telefon_detinator": "0728.242.469",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 72 XIX",
+        "telefon_detinator": "0799.411.593",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 72 LTS",
+        "telefon_detinator": "0714.934.026",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 68 XZD",
+        "telefon_detinator": "0772.386.198",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 92 TIR",
+        "telefon_detinator": "0718.407.524",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 43 NKE",
+        "telefon_detinator": "0797.024.239",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 46 OUJ",
+        "telefon_detinator": "0729.975.403",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 99 ZTR",
+        "telefon_detinator": "0758.206.106",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 62 YQX",
+        "telefon_detinator": "0711.860.366",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 41 BPK",
+        "telefon_detinator": "0700.493.713",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 76 EHD",
+        "telefon_detinator": "0747.356.197",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 28 GWN",
+        "telefon_detinator": "0719.675.292",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 96 WPA",
+        "telefon_detinator": "0767.441.264",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 77 WFF",
+        "telefon_detinator": "0714.610.593",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 84 QNF",
+        "telefon_detinator": "0701.938.901",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 19 RJI",
+        "telefon_detinator": "0779.956.296",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 78 TFW",
+        "telefon_detinator": "0735.131.861",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 53 SJE",
+        "telefon_detinator": "0770.643.678",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 54 SSE",
+        "telefon_detinator": "0756.641.019",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 25 CDE",
+        "telefon_detinator": "0740.474.574",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 56 SRH",
+        "telefon_detinator": "0785.677.142",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 56 YRA",
+        "telefon_detinator": "0764.100.345",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 15 XAJ",
+        "telefon_detinator": "0742.086.080",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 66 HKF",
+        "telefon_detinator": "0706.691.427",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 13 MZT",
+        "telefon_detinator": "0726.693.629",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 40 BIC",
+        "telefon_detinator": "0705.622.760",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 69 XAV",
+        "telefon_detinator": "0710.072.411",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 68 EOM",
+        "telefon_detinator": "0794.300.981",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 93 SRX",
+        "telefon_detinator": "0768.272.996",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 93 TXC",
+        "telefon_detinator": "0761.784.250",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 68 AKU",
+        "telefon_detinator": "0747.627.756",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 90 KPZ",
+        "telefon_detinator": "0750.471.970",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 61 UPY",
+        "telefon_detinator": "0732.549.798",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 25 THQ",
+        "telefon_detinator": "0758.966.338",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 25 OOC",
+        "telefon_detinator": "0782.125.455",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 34 ATM",
+        "telefon_detinator": "0717.931.301",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 66 URP",
+        "telefon_detinator": "0716.736.631",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 63 GAS",
+        "telefon_detinator": "0753.324.847",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 54 DJI",
+        "telefon_detinator": "0731.544.322",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 39 HKN",
+        "telefon_detinator": "0740.097.959",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 93 SEZ",
+        "telefon_detinator": "0734.314.250",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 88 GJJ",
+        "telefon_detinator": "0758.100.025",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 62 CIJ",
+        "telefon_detinator": "0768.012.858",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 72 GGC",
+        "telefon_detinator": "0722.336.248",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 47 MCN",
+        "telefon_detinator": "0747.779.215",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 38 MPD",
+        "telefon_detinator": "0719.352.457",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 61 ELL",
+        "telefon_detinator": "0713.504.968",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 31 PQE",
+        "telefon_detinator": "0701.987.544",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 12 XGC",
+        "telefon_detinator": "0734.196.644",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 71 OOQ",
+        "telefon_detinator": "0744.352.187",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 62 EWO",
+        "telefon_detinator": "0704.617.519",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 61 FDH",
+        "telefon_detinator": "0733.537.206",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 43 RNR",
+        "telefon_detinator": "0741.887.186",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 57 OAQ",
+        "telefon_detinator": "0731.958.081",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 90 HUZ",
+        "telefon_detinator": "0762.014.219",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 40 RJY",
+        "telefon_detinator": "0771.662.785",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 73 TFC",
+        "telefon_detinator": "0756.935.668",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 59 SAE",
+        "telefon_detinator": "0752.994.637",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 88 WQS",
+        "telefon_detinator": "0753.871.923",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 45 FKB",
+        "telefon_detinator": "0783.680.963",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 55 UZL",
+        "telefon_detinator": "0799.792.144",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 66 CLL",
+        "telefon_detinator": "0758.842.621",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 39 WHG",
+        "telefon_detinator": "0726.566.303",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 80 KYD",
+        "telefon_detinator": "0763.382.343",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 18 EEL",
+        "telefon_detinator": "0798.951.271",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 50 AOI",
+        "telefon_detinator": "0782.538.788",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 68 KJB",
+        "telefon_detinator": "0750.392.174",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 32 MJD",
+        "telefon_detinator": "0752.312.442",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 86 TAD",
+        "telefon_detinator": "0747.990.197",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 79 QLF",
+        "telefon_detinator": "0716.673.598",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 23 UAY",
+        "telefon_detinator": "0742.984.048",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 84 YTZ",
+        "telefon_detinator": "0728.522.073",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 96 HCI",
+        "telefon_detinator": "0740.380.623",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 90 DCH",
+        "telefon_detinator": "0758.052.186",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 81 FRF",
+        "telefon_detinator": "0796.713.106",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 63 NOM",
+        "telefon_detinator": "0795.504.641",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 85 VKY",
+        "telefon_detinator": "0749.315.407",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 88 VTE",
+        "telefon_detinator": "0771.305.042",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 39 NMY",
+        "telefon_detinator": "0794.162.709",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 32 WEB",
+        "telefon_detinator": "0798.523.910",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 68 CXP",
+        "telefon_detinator": "0713.664.258",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 87 RKP",
+        "telefon_detinator": "0779.474.812",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 79 DZS",
+        "telefon_detinator": "0701.701.269",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 89 FJL",
+        "telefon_detinator": "0792.257.931",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 25 XIS",
+        "telefon_detinator": "0715.847.653",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 51 OAC",
+        "telefon_detinator": "0752.568.380",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 76 QDC",
+        "telefon_detinator": "0734.657.462",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 80 RAY",
+        "telefon_detinator": "0735.704.007",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 43 VKY",
+        "telefon_detinator": "0786.813.291",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 96 PCW",
+        "telefon_detinator": "0712.259.184",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 26 DAJ",
+        "telefon_detinator": "0717.395.056",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 87 KHJ",
+        "telefon_detinator": "0730.630.721",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 34 BRV",
+        "telefon_detinator": "0734.067.454",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 67 ZLG",
+        "telefon_detinator": "0791.513.297",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 75 ZRZ",
+        "telefon_detinator": "0785.923.532",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 18 JWY",
+        "telefon_detinator": "0770.273.072",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 29 UJC",
+        "telefon_detinator": "0764.358.701",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 98 XVT",
+        "telefon_detinator": "0738.695.020",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 71 IUU",
+        "telefon_detinator": "0740.629.944",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 48 IOW",
+        "telefon_detinator": "0705.443.862",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 39 DNW",
+        "telefon_detinator": "0786.878.690",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 69 DKB",
+        "telefon_detinator": "0737.771.820",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 19 QEO",
+        "telefon_detinator": "0798.915.826",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 12 GVT",
+        "telefon_detinator": "0723.498.574",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 36 EOT",
+        "telefon_detinator": "0732.693.820",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 71 VGC",
+        "telefon_detinator": "0771.578.024",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 61 NXT",
+        "telefon_detinator": "0755.543.611",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 79 UVL",
+        "telefon_detinator": "0762.035.780",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 24 PLQ",
+        "telefon_detinator": "0727.843.736",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 34 AQI",
+        "telefon_detinator": "0755.988.346",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 80 VPZ",
+        "telefon_detinator": "0756.642.590",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 97 BKY",
+        "telefon_detinator": "0792.714.247",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 42 QTB",
+        "telefon_detinator": "0747.415.842",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 33 FML",
+        "telefon_detinator": "0711.079.855",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 92 YSQ",
+        "telefon_detinator": "0748.072.708",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 15 DHH",
+        "telefon_detinator": "0716.761.205",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 56 WVR",
+        "telefon_detinator": "0799.705.537",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 43 XBA",
+        "telefon_detinator": "0792.967.716",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AB 20 QRH",
+        "telefon_detinator": "0767.680.777",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 54 COI",
+        "telefon_detinator": "0786.898.571",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 93 HBE",
+        "telefon_detinator": "0795.238.554",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 89 DQJ",
+        "telefon_detinator": "0708.017.374",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 94 XKM",
+        "telefon_detinator": "0720.085.443",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 73 SME",
+        "telefon_detinator": "0785.076.725",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 87 FOH",
+        "telefon_detinator": "0728.343.404",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 63 STX",
+        "telefon_detinator": "0768.081.800",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 79 GHW",
+        "telefon_detinator": "0765.415.495",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 68 JAY",
+        "telefon_detinator": "0795.246.498",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 76 NVF",
+        "telefon_detinator": "0773.713.797",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 62 RNA",
+        "telefon_detinator": "0776.023.843",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 41 TDD",
+        "telefon_detinator": "0705.334.306",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 20 BBW",
+        "telefon_detinator": "0729.672.677",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 95 VQB",
+        "telefon_detinator": "0748.275.996",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 75 NKL",
+        "telefon_detinator": "0746.826.427",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 73 AML",
+        "telefon_detinator": "0730.593.343",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 20 YOD",
+        "telefon_detinator": "0740.395.719",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 51 ZEP",
+        "telefon_detinator": "0792.099.763",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 29 LSX",
+        "telefon_detinator": "0727.294.218",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 85 MBU",
+        "telefon_detinator": "0719.393.018",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 19 GRE",
+        "telefon_detinator": "0781.554.220",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 92 OJW",
+        "telefon_detinator": "0752.218.693",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 13 NHC",
+        "telefon_detinator": "0760.772.509",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 52 XSC",
+        "telefon_detinator": "0760.139.101",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 28 FNE",
+        "telefon_detinator": "0799.678.694",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 74 XVZ",
+        "telefon_detinator": "0774.181.959",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 83 OST",
+        "telefon_detinator": "0745.017.578",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 40 BBA",
+        "telefon_detinator": "0713.157.364",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 43 CZW",
+        "telefon_detinator": "0785.907.133",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 49 RBU",
+        "telefon_detinator": "0793.823.317",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 34 EEH",
+        "telefon_detinator": "0781.182.245",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 66 BAH",
+        "telefon_detinator": "0705.921.046",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 15 UFI",
+        "telefon_detinator": "0776.686.346",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 33 CKJ",
+        "telefon_detinator": "0719.646.824",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 58 BNF",
+        "telefon_detinator": "0735.471.431",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 29 ALM",
+        "telefon_detinator": "0766.656.264",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 83 FTL",
+        "telefon_detinator": "0747.433.330",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 96 JNM",
+        "telefon_detinator": "0756.785.092",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 47 PJA",
+        "telefon_detinator": "0753.631.190",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 84 MHL",
+        "telefon_detinator": "0749.158.599",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 85 APX",
+        "telefon_detinator": "0777.702.885",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 21 BMY",
+        "telefon_detinator": "0733.177.423",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 55 YQM",
+        "telefon_detinator": "0797.723.308",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 12 LBR",
+        "telefon_detinator": "0768.812.755",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 53 UQS",
+        "telefon_detinator": "0768.897.725",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AB 49 BRK",
+        "telefon_detinator": "0774.396.071",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 64 XGA",
+        "telefon_detinator": "0715.813.906",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 28 YDL",
+        "telefon_detinator": "0705.987.817",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 73 ADA",
+        "telefon_detinator": "0750.538.270",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 52 BHK",
+        "telefon_detinator": "0726.962.287",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 43 ABF",
+        "telefon_detinator": "0789.410.928",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 82 KUD",
+        "telefon_detinator": "0709.395.385",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 19 LUX",
+        "telefon_detinator": "0766.486.378",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 80 LVA",
+        "telefon_detinator": "0772.595.045",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 33 FEX",
+        "telefon_detinator": "0721.107.206",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 14 FHB",
+        "telefon_detinator": "0714.591.511",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 47 NZN",
+        "telefon_detinator": "0740.815.600",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 32 HLY",
+        "telefon_detinator": "0744.825.360",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 15 VNI",
+        "telefon_detinator": "0786.684.541",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 55 FGY",
+        "telefon_detinator": "0724.089.595",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 59 MZB",
+        "telefon_detinator": "0763.524.017",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 65 DDB",
+        "telefon_detinator": "0713.654.432",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 97 RYF",
+        "telefon_detinator": "0709.639.391",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 53 XRJ",
+        "telefon_detinator": "0714.912.835",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 49 EWC",
+        "telefon_detinator": "0783.776.587",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 90 JLE",
+        "telefon_detinator": "0770.859.290",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 19 OJV",
+        "telefon_detinator": "0720.880.311",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 59 VYD",
+        "telefon_detinator": "0755.445.742",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 20 PRX",
+        "telefon_detinator": "0714.522.073",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 77 CGH",
+        "telefon_detinator": "0744.154.649",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AB 80 EKP",
+        "telefon_detinator": "0736.518.536",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 31 HSI",
+        "telefon_detinator": "0764.559.237",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 42 MHY",
+        "telefon_detinator": "0765.259.468",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 66 LDP",
+        "telefon_detinator": "0782.667.093",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 65 JCH",
+        "telefon_detinator": "0723.737.265",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 97 LOC",
+        "telefon_detinator": "0727.807.432",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 19 DKB",
+        "telefon_detinator": "0742.916.768",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 56 QJY",
+        "telefon_detinator": "0745.350.464",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 96 PGU",
+        "telefon_detinator": "0725.380.943",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 51 STV",
+        "telefon_detinator": "0785.922.591",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 72 PTU",
+        "telefon_detinator": "0798.911.740",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 16 ZBC",
+        "telefon_detinator": "0706.473.248",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 46 PTU",
+        "telefon_detinator": "0782.882.400",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 60 YUC",
+        "telefon_detinator": "0784.837.002",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 24 QIR",
+        "telefon_detinator": "0712.774.092",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 16 EBH",
+        "telefon_detinator": "0773.351.831",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 12 FPP",
+        "telefon_detinator": "0796.634.072",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 70 VAB",
+        "telefon_detinator": "0770.844.544",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 76 ZIT",
+        "telefon_detinator": "0710.288.706",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 19 JRU",
+        "telefon_detinator": "0757.341.451",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 62 TBS",
+        "telefon_detinator": "0731.802.878",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 77 UBE",
+        "telefon_detinator": "0721.468.483",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 83 NNK",
+        "telefon_detinator": "0759.526.926",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 32 BCH",
+        "telefon_detinator": "0770.464.428",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 42 EML",
+        "telefon_detinator": "0759.056.336",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 66 NUZ",
+        "telefon_detinator": "0723.842.126",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 21 MBR",
+        "telefon_detinator": "0716.742.082",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 71 COU",
+        "telefon_detinator": "0731.168.278",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 68 VCD",
+        "telefon_detinator": "0717.895.269",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 83 JKQ",
+        "telefon_detinator": "0776.863.008",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 51 EAU",
+        "telefon_detinator": "0711.068.396",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 26 TCS",
+        "telefon_detinator": "0712.495.361",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 19 NOA",
+        "telefon_detinator": "0762.995.699",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 31 CUY",
+        "telefon_detinator": "0781.947.809",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 94 RUS",
+        "telefon_detinator": "0759.781.147",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 23 AGA",
+        "telefon_detinator": "0713.954.248",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 95 CXT",
+        "telefon_detinator": "0796.745.827",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 82 PMM",
+        "telefon_detinator": "0734.624.825",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 53 NUI",
+        "telefon_detinator": "0738.670.494",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 85 KCS",
+        "telefon_detinator": "0733.906.899",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 10 PXZ",
+        "telefon_detinator": "0764.351.762",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 44 XIO",
+        "telefon_detinator": "0771.619.334",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 27 KGQ",
+        "telefon_detinator": "0736.500.892",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 81 GUQ",
+        "telefon_detinator": "0756.602.370",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 20 OWB",
+        "telefon_detinator": "0766.425.391",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 57 FQD",
+        "telefon_detinator": "0702.196.993",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 65 ZXL",
+        "telefon_detinator": "0705.375.494",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 13 MII",
+        "telefon_detinator": "0728.388.554",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 74 XYN",
+        "telefon_detinator": "0713.227.106",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 67 OUC",
+        "telefon_detinator": "0772.150.431",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 76 XSQ",
+        "telefon_detinator": "0786.859.761",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 84 VOJ",
+        "telefon_detinator": "0750.253.496",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 47 HSZ",
+        "telefon_detinator": "0780.741.095",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 24 KFM",
+        "telefon_detinator": "0764.490.074",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 63 PVT",
+        "telefon_detinator": "0752.963.405",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 65 ZYQ",
+        "telefon_detinator": "0798.403.345",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 69 XOI",
+        "telefon_detinator": "0758.422.139",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 59 MEG",
+        "telefon_detinator": "0731.792.982",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 26 WRA",
+        "telefon_detinator": "0712.061.352",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 77 CDY",
+        "telefon_detinator": "0768.916.850",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 28 IEM",
+        "telefon_detinator": "0775.536.638",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 22 UFK",
+        "telefon_detinator": "0749.637.069",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 87 GRQ",
+        "telefon_detinator": "0747.367.930",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 44 LOT",
+        "telefon_detinator": "0726.333.839",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 82 CLW",
+        "telefon_detinator": "0710.703.037",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 43 AGC",
+        "telefon_detinator": "0715.924.746",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 81 DEE",
+        "telefon_detinator": "0789.054.290",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 56 ZEX",
+        "telefon_detinator": "0715.508.934",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 50 AGJ",
+        "telefon_detinator": "0748.140.752",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 87 KDI",
+        "telefon_detinator": "0759.292.435",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 42 MRK",
+        "telefon_detinator": "0776.196.176",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 90 VUQ",
+        "telefon_detinator": "0778.676.608",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 88 ZRY",
+        "telefon_detinator": "0737.212.374",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 64 SSV",
+        "telefon_detinator": "0783.142.785",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 12 ZZP",
+        "telefon_detinator": "0783.723.616",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 75 FQL",
+        "telefon_detinator": "0753.222.109",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 74 VEC",
+        "telefon_detinator": "0756.051.527",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 29 FKC",
+        "telefon_detinator": "0793.158.737",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 29 WHG",
+        "telefon_detinator": "0703.077.727",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 48 OZF",
+        "telefon_detinator": "0747.755.168",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 93 EDK",
+        "telefon_detinator": "0711.425.676",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 82 BAN",
+        "telefon_detinator": "0724.397.742",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 14 PCQ",
+        "telefon_detinator": "0761.380.194",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 98 VRG",
+        "telefon_detinator": "0724.333.102",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 37 WCT",
+        "telefon_detinator": "0749.771.746",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 51 YJD",
+        "telefon_detinator": "0702.262.756",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 84 KDN",
+        "telefon_detinator": "0707.458.319",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 48 FPD",
+        "telefon_detinator": "0771.495.068",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 33 HAI",
+        "telefon_detinator": "0781.671.549",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 66 UNN",
+        "telefon_detinator": "0773.335.843",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 71 EBX",
+        "telefon_detinator": "0755.020.497",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 40 HTA",
+        "telefon_detinator": "0754.069.646",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 10 YXF",
+        "telefon_detinator": "0788.775.423",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 57 AJE",
+        "telefon_detinator": "0740.388.374",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 74 WBR",
+        "telefon_detinator": "0710.227.042",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 58 OUA",
+        "telefon_detinator": "0753.469.590",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 23 UOC",
+        "telefon_detinator": "0719.385.000",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 97 DEY",
+        "telefon_detinator": "0790.301.529",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 14 HZH",
+        "telefon_detinator": "0741.579.124",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 66 DNT",
+        "telefon_detinator": "0703.589.613",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 99 DYH",
+        "telefon_detinator": "0721.025.058",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 86 IOW",
+        "telefon_detinator": "0714.006.946",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 53 BNC",
+        "telefon_detinator": "0735.921.089",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 97 JWH",
+        "telefon_detinator": "0712.551.121",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 84 ULZ",
+        "telefon_detinator": "0758.175.615",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 34 LTV",
+        "telefon_detinator": "0798.966.661",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 54 XYD",
+        "telefon_detinator": "0704.060.403",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 51 DIJ",
+        "telefon_detinator": "0771.534.320",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 77 VQC",
+        "telefon_detinator": "0737.950.885",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 19 DZO",
+        "telefon_detinator": "0750.714.169",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 74 XGD",
+        "telefon_detinator": "0793.089.102",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 11 ENO",
+        "telefon_detinator": "0764.623.775",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 99 PMD",
+        "telefon_detinator": "0741.008.285",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 17 RIN",
+        "telefon_detinator": "0773.428.242",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 37 NCI",
+        "telefon_detinator": "0788.862.725",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 83 CKM",
+        "telefon_detinator": "0709.823.485",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 64 QMX",
+        "telefon_detinator": "0719.443.613",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 66 VMD",
+        "telefon_detinator": "0761.237.792",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 44 OGB",
+        "telefon_detinator": "0778.989.873",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 14 DHX",
+        "telefon_detinator": "0730.820.712",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 56 JEH",
+        "telefon_detinator": "0728.298.454",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 19 ZRQ",
+        "telefon_detinator": "0771.394.630",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 17 HCQ",
+        "telefon_detinator": "0727.671.478",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 17 HLR",
+        "telefon_detinator": "0769.747.176",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 68 IWF",
+        "telefon_detinator": "0733.293.456",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 17 ZCP",
+        "telefon_detinator": "0798.869.497",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 85 WMC",
+        "telefon_detinator": "0768.662.795",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 71 ZKK",
+        "telefon_detinator": "0784.324.554",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 56 VFS",
+        "telefon_detinator": "0755.323.323",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 23 FJT",
+        "telefon_detinator": "0798.803.899",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 95 TQA",
+        "telefon_detinator": "0711.309.777",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 29 MOU",
+        "telefon_detinator": "0765.411.040",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 65 ZBJ",
+        "telefon_detinator": "0750.125.636",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 47 UZJ",
+        "telefon_detinator": "0770.140.461",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 52 XRT",
+        "telefon_detinator": "0757.218.924",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 83 DEX",
+        "telefon_detinator": "0775.283.655",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 49 BRI",
+        "telefon_detinator": "0765.677.654",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 32 DRW",
+        "telefon_detinator": "0781.147.326",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 36 GIF",
+        "telefon_detinator": "0700.540.958",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 18 NLF",
+        "telefon_detinator": "0794.999.692",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 27 LJL",
+        "telefon_detinator": "0712.688.296",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 17 OLW",
+        "telefon_detinator": "0759.669.345",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 27 MDX",
+        "telefon_detinator": "0709.453.155",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 20 CQI",
+        "telefon_detinator": "0760.888.586",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 37 GOA",
+        "telefon_detinator": "0720.385.916",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 50 BJV",
+        "telefon_detinator": "0791.468.122",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 19 OMG",
+        "telefon_detinator": "0790.346.887",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 47 NVK",
+        "telefon_detinator": "0709.398.133",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 15 OXE",
+        "telefon_detinator": "0783.453.555",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 80 KZQ",
+        "telefon_detinator": "0775.716.906",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 31 QHI",
+        "telefon_detinator": "0742.837.646",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 60 ETR",
+        "telefon_detinator": "0701.648.664",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 55 YZZ",
+        "telefon_detinator": "0762.167.354",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 14 YZP",
+        "telefon_detinator": "0712.178.488",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 74 VSV",
+        "telefon_detinator": "0768.664.561",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 23 SNB",
+        "telefon_detinator": "0737.253.635",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 37 TKM",
+        "telefon_detinator": "0716.389.358",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 16 LJX",
+        "telefon_detinator": "0794.457.344",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 16 MLA",
+        "telefon_detinator": "0747.411.468",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 56 IRT",
+        "telefon_detinator": "0795.268.527",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 93 UHN",
+        "telefon_detinator": "0727.156.977",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 96 QDF",
+        "telefon_detinator": "0734.231.346",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 33 EHS",
+        "telefon_detinator": "0700.016.720",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 83 GMU",
+        "telefon_detinator": "0752.922.054",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 35 UHZ",
+        "telefon_detinator": "0778.407.406",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 67 AJN",
+        "telefon_detinator": "0759.381.647",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 33 YKG",
+        "telefon_detinator": "0762.985.529",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 65 BBQ",
+        "telefon_detinator": "0757.270.751",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 89 BOO",
+        "telefon_detinator": "0722.166.249",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 53 WSY",
+        "telefon_detinator": "0716.152.513",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 93 LXR",
+        "telefon_detinator": "0785.819.562",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 36 WGR",
+        "telefon_detinator": "0716.776.214",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 10 GWN",
+        "telefon_detinator": "0777.545.723",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 91 FNF",
+        "telefon_detinator": "0722.765.050",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 73 IKQ",
+        "telefon_detinator": "0706.262.546",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 36 KTJ",
+        "telefon_detinator": "0707.973.352",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 79 QMY",
+        "telefon_detinator": "0728.785.022",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 19 KCX",
+        "telefon_detinator": "0755.661.812",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 77 KFB",
+        "telefon_detinator": "0799.009.732",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 86 DHW",
+        "telefon_detinator": "0778.916.575",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 59 JLP",
+        "telefon_detinator": "0729.293.962",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 10 MYQ",
+        "telefon_detinator": "0772.045.235",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 11 YSL",
+        "telefon_detinator": "0715.249.251",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 90 XTD",
+        "telefon_detinator": "0752.671.835",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 16 FUD",
+        "telefon_detinator": "0771.795.144",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 69 XFJ",
+        "telefon_detinator": "0769.554.406",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 45 LNP",
+        "telefon_detinator": "0758.309.880",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 78 ATV",
+        "telefon_detinator": "0766.616.838",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 62 FGU",
+        "telefon_detinator": "0748.551.741",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 60 YIW",
+        "telefon_detinator": "0710.354.054",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 71 XLQ",
+        "telefon_detinator": "0768.444.904",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 12 WSX",
+        "telefon_detinator": "0705.404.583",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 20 ILQ",
+        "telefon_detinator": "0720.507.170",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 43 KXF",
+        "telefon_detinator": "0782.753.523",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 85 IDU",
+        "telefon_detinator": "0738.759.331",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 23 OTH",
+        "telefon_detinator": "0776.344.782",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 60 FZZ",
+        "telefon_detinator": "0770.001.076",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 11 DQS",
+        "telefon_detinator": "0725.580.093",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 85 KYC",
+        "telefon_detinator": "0786.730.211",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 46 DVD",
+        "telefon_detinator": "0749.235.585",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 10 RYD",
+        "telefon_detinator": "0789.291.215",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 32 XOD",
+        "telefon_detinator": "0769.107.512",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 41 VVF",
+        "telefon_detinator": "0746.079.758",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 85 CYC",
+        "telefon_detinator": "0710.695.412",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 38 ZFY",
+        "telefon_detinator": "0729.773.698",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 29 PHA",
+        "telefon_detinator": "0788.474.525",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 29 TZC",
+        "telefon_detinator": "0700.738.115",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 97 MIQ",
+        "telefon_detinator": "0751.686.773",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 16 PEN",
+        "telefon_detinator": "0716.501.574",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 69 AED",
+        "telefon_detinator": "0720.996.893",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 28 YFD",
+        "telefon_detinator": "0785.628.775",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 22 CLZ",
+        "telefon_detinator": "0761.179.991",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 38 DQE",
+        "telefon_detinator": "0703.986.060",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 48 GNY",
+        "telefon_detinator": "0787.931.995",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 91 UVU",
+        "telefon_detinator": "0779.717.100",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 70 BOT",
+        "telefon_detinator": "0795.187.341",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 97 QVB",
+        "telefon_detinator": "0792.438.985",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 93 FMD",
+        "telefon_detinator": "0782.385.104",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 61 XQY",
+        "telefon_detinator": "0738.471.904",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 11 JVY",
+        "telefon_detinator": "0775.673.243",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 77 RXZ",
+        "telefon_detinator": "0701.517.249",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 93 XEA",
+        "telefon_detinator": "0792.429.098",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 87 DGJ",
+        "telefon_detinator": "0782.012.795",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 70 THO",
+        "telefon_detinator": "0729.082.706",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 46 VYT",
+        "telefon_detinator": "0710.728.524",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 99 OME",
+        "telefon_detinator": "0703.828.476",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 88 VLO",
+        "telefon_detinator": "0724.411.534",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 88 XCT",
+        "telefon_detinator": "0723.599.240",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 43 ACL",
+        "telefon_detinator": "0706.232.991",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AB 87 NHD",
+        "telefon_detinator": "0730.343.299",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 67 YIJ",
+        "telefon_detinator": "0728.831.998",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 57 TYF",
+        "telefon_detinator": "0709.137.465",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 25 JJW",
+        "telefon_detinator": "0738.835.451",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 30 RXO",
+        "telefon_detinator": "0736.277.156",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 31 UDS",
+        "telefon_detinator": "0750.534.386",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 66 CRN",
+        "telefon_detinator": "0735.714.712",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 75 ESE",
+        "telefon_detinator": "0737.576.587",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 94 VHZ",
+        "telefon_detinator": "0719.946.289",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 67 NWL",
+        "telefon_detinator": "0791.775.343",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 21 KYA",
+        "telefon_detinator": "0748.035.671",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 58 DIG",
+        "telefon_detinator": "0732.773.895",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 94 TFP",
+        "telefon_detinator": "0741.480.146",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 47 JET",
+        "telefon_detinator": "0752.824.015",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 92 NRG",
+        "telefon_detinator": "0790.200.362",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 47 CCT",
+        "telefon_detinator": "0770.492.797",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 75 XQM",
+        "telefon_detinator": "0700.692.490",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 50 ASN",
+        "telefon_detinator": "0724.810.699",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 66 JBN",
+        "telefon_detinator": "0784.781.085",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 45 JBG",
+        "telefon_detinator": "0719.546.923",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 82 NXC",
+        "telefon_detinator": "0718.090.836",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 96 VQJ",
+        "telefon_detinator": "0781.602.073",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 28 KXG",
+        "telefon_detinator": "0702.921.913",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 65 UGU",
+        "telefon_detinator": "0732.567.349",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 66 IWE",
+        "telefon_detinator": "0771.300.689",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 65 WQZ",
+        "telefon_detinator": "0729.357.096",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 75 WFT",
+        "telefon_detinator": "0713.429.492",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 84 EGJ",
+        "telefon_detinator": "0710.756.426",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 35 MNK",
+        "telefon_detinator": "0718.770.382",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 15 RNL",
+        "telefon_detinator": "0758.821.625",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 83 IFA",
+        "telefon_detinator": "0756.447.631",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 20 RDE",
+        "telefon_detinator": "0725.273.677",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 67 HTD",
+        "telefon_detinator": "0754.449.343",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 63 DPM",
+        "telefon_detinator": "0715.236.989",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 18 GPU",
+        "telefon_detinator": "0760.718.913",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 18 TIR",
+        "telefon_detinator": "0799.543.819",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 37 ZNQ",
+        "telefon_detinator": "0758.484.880",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 26 KXO",
+        "telefon_detinator": "0765.842.935",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 53 EFW",
+        "telefon_detinator": "0782.513.170",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 36 ZSL",
+        "telefon_detinator": "0775.347.157",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 39 ZPF",
+        "telefon_detinator": "0722.983.031",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 96 PXW",
+        "telefon_detinator": "0767.779.093",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 79 TYV",
+        "telefon_detinator": "0799.534.497",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AB 71 SOJ",
+        "telefon_detinator": "0740.411.779",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 83 MBQ",
+        "telefon_detinator": "0741.050.078",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 27 IDZ",
+        "telefon_detinator": "0794.557.309",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 51 GPJ",
+        "telefon_detinator": "0773.115.546",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 40 MSD",
+        "telefon_detinator": "0737.698.976",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 93 KJS",
+        "telefon_detinator": "0763.692.741",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 18 PLS",
+        "telefon_detinator": "0759.573.317",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 92 UWY",
+        "telefon_detinator": "0711.433.036",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 61 KQQ",
+        "telefon_detinator": "0724.573.492",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 45 GRJ",
+        "telefon_detinator": "0769.275.090",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 54 KQN",
+        "telefon_detinator": "0760.318.302",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 57 AIQ",
+        "telefon_detinator": "0765.248.124",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 49 SIZ",
+        "telefon_detinator": "0703.153.460",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 55 GMY",
+        "telefon_detinator": "0768.380.995",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 13 YBZ",
+        "telefon_detinator": "0743.574.476",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 94 OZE",
+        "telefon_detinator": "0761.200.323",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 24 NJJ",
+        "telefon_detinator": "0720.969.095",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 96 LGH",
+        "telefon_detinator": "0760.600.030",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 58 DWC",
+        "telefon_detinator": "0724.010.299",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 80 OPI",
+        "telefon_detinator": "0795.987.367",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 32 MAP",
+        "telefon_detinator": "0703.417.305",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 19 RIK",
+        "telefon_detinator": "0720.539.418",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 57 FJF",
+        "telefon_detinator": "0766.009.824",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 12 OZF",
+        "telefon_detinator": "0734.088.669",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 63 KDJ",
+        "telefon_detinator": "0738.563.656",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 71 LTQ",
+        "telefon_detinator": "0743.623.532",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AB 22 BOS",
+        "telefon_detinator": "0709.460.594",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 32 IFT",
+        "telefon_detinator": "0751.243.344",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 53 DHC",
+        "telefon_detinator": "0715.435.767",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 97 EMB",
+        "telefon_detinator": "0725.468.378",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 66 XJW",
+        "telefon_detinator": "0714.185.391",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 50 DIK",
+        "telefon_detinator": "0796.329.467",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 38 DQZ",
+        "telefon_detinator": "0710.730.999",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 38 SGJ",
+        "telefon_detinator": "0762.896.381",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 97 TUB",
+        "telefon_detinator": "0722.111.856",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 63 SUE",
+        "telefon_detinator": "0738.422.436",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 85 KGR",
+        "telefon_detinator": "0724.962.343",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 71 FKC",
+        "telefon_detinator": "0716.861.087",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 77 YAH",
+        "telefon_detinator": "0742.128.204",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 29 LNP",
+        "telefon_detinator": "0764.563.961",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 97 CMD",
+        "telefon_detinator": "0790.042.079",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 35 MDB",
+        "telefon_detinator": "0763.289.085",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 27 FCB",
+        "telefon_detinator": "0767.254.262",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 42 HLH",
+        "telefon_detinator": "0767.296.882",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 52 FVD",
+        "telefon_detinator": "0732.750.165",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TR 71 TWI",
+        "telefon_detinator": "0792.048.978",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 26 ISQ",
+        "telefon_detinator": "0722.085.849",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 23 QPP",
+        "telefon_detinator": "0761.060.356",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 96 EHO",
+        "telefon_detinator": "0725.873.740",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 47 SWO",
+        "telefon_detinator": "0741.844.453",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 22 EJC",
+        "telefon_detinator": "0781.159.694",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 95 LYH",
+        "telefon_detinator": "0749.891.652",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 92 EFO",
+        "telefon_detinator": "0791.277.061",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 97 YCB",
+        "telefon_detinator": "0766.522.462",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 62 KJW",
+        "telefon_detinator": "0738.217.145",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 37 IUN",
+        "telefon_detinator": "0747.873.396",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 60 EWY",
+        "telefon_detinator": "0764.014.694",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 42 JQH",
+        "telefon_detinator": "0714.988.069",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 46 XZF",
+        "telefon_detinator": "0744.078.530",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 22 UFV",
+        "telefon_detinator": "0795.788.153",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 53 LRI",
+        "telefon_detinator": "0769.713.086",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 17 MDP",
+        "telefon_detinator": "0769.753.113",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 28 HKN",
+        "telefon_detinator": "0726.025.513",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 68 QCG",
+        "telefon_detinator": "0756.849.008",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 18 IXO",
+        "telefon_detinator": "0728.618.592",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 94 HGN",
+        "telefon_detinator": "0744.445.557",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 92 RUJ",
+        "telefon_detinator": "0707.218.377",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 32 EEM",
+        "telefon_detinator": "0767.568.273",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DB 54 MXZ",
+        "telefon_detinator": "0746.186.208",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 71 SXA",
+        "telefon_detinator": "0749.020.364",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 11 CBC",
+        "telefon_detinator": "0798.831.121",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 98 RYQ",
+        "telefon_detinator": "0787.066.106",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 49 RDW",
+        "telefon_detinator": "0745.433.453",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 24 YBJ",
+        "telefon_detinator": "0729.884.177",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 32 JTA",
+        "telefon_detinator": "0744.010.151",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 63 XHT",
+        "telefon_detinator": "0700.924.191",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 96 GPL",
+        "telefon_detinator": "0714.552.959",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 49 AKS",
+        "telefon_detinator": "0729.469.354",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 67 IYZ",
+        "telefon_detinator": "0767.119.268",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 11 HFM",
+        "telefon_detinator": "0765.160.678",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BZ 80 NIM",
+        "telefon_detinator": "0705.974.037",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 33 SIL",
+        "telefon_detinator": "0701.045.460",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 12 GMO",
+        "telefon_detinator": "0739.079.366",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 22 HTI",
+        "telefon_detinator": "0755.707.780",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 13 BII",
+        "telefon_detinator": "0718.994.067",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 38 XNE",
+        "telefon_detinator": "0734.221.027",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "B 37 SKH",
+        "telefon_detinator": "0789.665.960",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 88 ANZ",
+        "telefon_detinator": "0759.139.237",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 19 TSO",
+        "telefon_detinator": "0708.101.195",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 33 NAP",
+        "telefon_detinator": "0774.272.480",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 38 GEE",
+        "telefon_detinator": "0736.867.383",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 49 GIZ",
+        "telefon_detinator": "0795.745.025",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 81 SFZ",
+        "telefon_detinator": "0799.970.601",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 11 TBS",
+        "telefon_detinator": "0779.880.664",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 85 SYC",
+        "telefon_detinator": "0761.184.115",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 25 KUU",
+        "telefon_detinator": "0741.694.813",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 72 VRF",
+        "telefon_detinator": "0773.360.264",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 12 GVN",
+        "telefon_detinator": "0721.722.753",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 22 FQN",
+        "telefon_detinator": "0768.157.030",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 50 PRF",
+        "telefon_detinator": "0754.083.478",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 29 TTL",
+        "telefon_detinator": "0725.510.646",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 44 RGL",
+        "telefon_detinator": "0749.422.544",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AB 62 SJV",
+        "telefon_detinator": "0778.179.829",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SV 53 HAK",
+        "telefon_detinator": "0730.519.313",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 61 LMV",
+        "telefon_detinator": "0788.957.094",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 58 IHA",
+        "telefon_detinator": "0770.076.829",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 54 EQX",
+        "telefon_detinator": "0719.391.482",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 57 NKC",
+        "telefon_detinator": "0793.173.823",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 85 ZZD",
+        "telefon_detinator": "0703.483.728",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BN 84 TFT",
+        "telefon_detinator": "0799.407.470",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 75 TLH",
+        "telefon_detinator": "0773.383.031",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 13 SKI",
+        "telefon_detinator": "0774.793.963",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 44 RBB",
+        "telefon_detinator": "0746.929.387",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 44 LVO",
+        "telefon_detinator": "0758.361.132",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 80 UDE",
+        "telefon_detinator": "0744.848.370",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 72 WOQ",
+        "telefon_detinator": "0793.621.547",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 75 DGU",
+        "telefon_detinator": "0729.962.330",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 39 FJZ",
+        "telefon_detinator": "0784.748.314",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 99 RBP",
+        "telefon_detinator": "0796.226.694",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 19 OWF",
+        "telefon_detinator": "0797.655.567",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 74 IEQ",
+        "telefon_detinator": "0788.266.875",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 65 JZR",
+        "telefon_detinator": "0751.675.349",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 98 DFN",
+        "telefon_detinator": "0747.054.856",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 16 VQK",
+        "telefon_detinator": "0748.471.388",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 53 LCF",
+        "telefon_detinator": "0758.838.720",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 17 ZVU",
+        "telefon_detinator": "0721.527.362",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 38 IUG",
+        "telefon_detinator": "0787.177.893",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 18 ZPD",
+        "telefon_detinator": "0772.908.309",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IL 23 ALT",
+        "telefon_detinator": "0710.248.822",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 61 SFH",
+        "telefon_detinator": "0795.793.824",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AB 88 ZWO",
+        "telefon_detinator": "0798.457.079",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 37 FZY",
+        "telefon_detinator": "0790.452.810",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 49 MUW",
+        "telefon_detinator": "0780.309.611",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "PH 30 CRU",
+        "telefon_detinator": "0734.355.091",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VS 34 EBX",
+        "telefon_detinator": "0738.227.351",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 32 FVY",
+        "telefon_detinator": "0741.332.234",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 26 VPL",
+        "telefon_detinator": "0786.537.541",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 60 XQI",
+        "telefon_detinator": "0709.393.277",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 72 DWT",
+        "telefon_detinator": "0795.922.232",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 53 UQN",
+        "telefon_detinator": "0771.568.028",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 67 NIN",
+        "telefon_detinator": "0792.607.991",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 84 KIY",
+        "telefon_detinator": "0728.115.178",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 79 ZWD",
+        "telefon_detinator": "0705.256.023",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 86 EDI",
+        "telefon_detinator": "0791.047.891",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 19 RXE",
+        "telefon_detinator": "0729.469.161",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 52 YQV",
+        "telefon_detinator": "0738.504.967",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 27 YER",
+        "telefon_detinator": "0731.503.064",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 95 UYA",
+        "telefon_detinator": "0712.601.690",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 64 VST",
+        "telefon_detinator": "0784.805.761",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 13 HVO",
+        "telefon_detinator": "0779.618.334",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MM 78 NDE",
+        "telefon_detinator": "0751.075.390",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 43 FAI",
+        "telefon_detinator": "0716.567.829",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CT 59 KPQ",
+        "telefon_detinator": "0791.552.700",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MS 83 HYK",
+        "telefon_detinator": "0762.077.745",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SB 48 CSB",
+        "telefon_detinator": "0756.444.191",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 51 UUV",
+        "telefon_detinator": "0719.429.771",
+        "data_ITP": "25.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IF 37 CYV",
+        "telefon_detinator": "0716.899.403",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BT 96 ZAB",
+        "telefon_detinator": "0729.791.784",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GL 14 TKB",
+        "telefon_detinator": "0765.314.788",
+        "data_ITP": "16.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 45 UPP",
+        "telefon_detinator": "0723.242.742",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BC 48 GCC",
+        "telefon_detinator": "0752.061.480",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 26 WNO",
+        "telefon_detinator": "0776.377.992",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "OT 91 ODC",
+        "telefon_detinator": "0718.325.924",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 46 UTI",
+        "telefon_detinator": "0763.833.475",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 32 YRB",
+        "telefon_detinator": "0708.947.504",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HD 11 SEB",
+        "telefon_detinator": "0727.140.432",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 32 NVT",
+        "telefon_detinator": "0739.722.582",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 41 JCL",
+        "telefon_detinator": "0716.553.643",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CS 12 DZF",
+        "telefon_detinator": "0725.757.757",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 55 EQE",
+        "telefon_detinator": "0782.716.250",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 76 WFN",
+        "telefon_detinator": "0761.525.663",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 89 XLM",
+        "telefon_detinator": "0700.898.977",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CL 68 UFQ",
+        "telefon_detinator": "0708.786.166",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VL 83 CLT",
+        "telefon_detinator": "0781.661.762",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AR 99 AID",
+        "telefon_detinator": "0704.028.385",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 74 ECR",
+        "telefon_detinator": "0733.117.308",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 20 XDH",
+        "telefon_detinator": "0796.970.139",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AG 83 DWY",
+        "telefon_detinator": "0710.352.303",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TL 52 SAK",
+        "telefon_detinator": "0771.218.794",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "Bucharest-Ilfov 62 DMJ",
+        "telefon_detinator": "0771.051.672",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "NT 80 OZD",
+        "telefon_detinator": "0710.450.918",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BH 82 IHO",
+        "telefon_detinator": "0777.852.789",
+        "data_ITP": "24.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "VN 86 NOS",
+        "telefon_detinator": "0730.594.118",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 98 KFU",
+        "telefon_detinator": "0755.515.788",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "MH 41 IGE",
+        "telefon_detinator": "0758.118.949",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 53 DJO",
+        "telefon_detinator": "0720.222.746",
+        "data_ITP": "17.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "DJ 14 PHQ",
+        "telefon_detinator": "0764.855.122",
+        "data_ITP": "28.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SM 67 BWJ",
+        "telefon_detinator": "0758.338.797",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 86 CBK",
+        "telefon_detinator": "0710.291.728",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "SJ 79 QCE",
+        "telefon_detinator": "0729.024.734",
+        "data_ITP": "22.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CJ 24 LJD",
+        "telefon_detinator": "0712.425.984",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "AB 53 EBP",
+        "telefon_detinator": "0706.670.582",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BV 11 SVI",
+        "telefon_detinator": "0725.958.476",
+        "data_ITP": "23.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "CV 27 BHA",
+        "telefon_detinator": "0725.200.730",
+        "data_ITP": "21.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "TM 15 FAY",
+        "telefon_detinator": "0732.716.415",
+        "data_ITP": "18.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GR 47 LVD",
+        "telefon_detinator": "0710.243.564",
+        "data_ITP": "26.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "GJ 67 QKJ",
+        "telefon_detinator": "0792.367.002",
+        "data_ITP": "29.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "HR 63 UOI",
+        "telefon_detinator": "0740.610.340",
+        "data_ITP": "27.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "BR 67 JCW",
+        "telefon_detinator": "0777.062.196",
+        "data_ITP": "20.04.2020",
+        "durata_ITP": 6
+    },
+    {
+        "numar_masina": "IS 86 RWO",
+        "telefon_detinator": "0705.014.148",
+        "data_ITP": "19.04.2020",
+        "durata_ITP": 6
+    }
+]

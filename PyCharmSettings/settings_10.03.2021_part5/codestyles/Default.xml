@@ -1,0 +1,40 @@
+<code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="80" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="FORMATTER_TAGS_ACCEPT_REGEXP" value="true" />
+  <option name="SOFT_MARGINS" value="80" />
+  <JSON>
+    <option name="KEEP_TRAILING_COMMA" value="true" />
+  </JSON>
+  <Properties>
+    <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
+  </Properties>
+  <Python>
+    <option name="SPACE_AROUND_EQ_IN_NAMED_PARAMETER" value="true" />
+    <option name="SPACE_AROUND_EQ_IN_KEYWORD_ARGUMENT" value="true" />
+    <option name="BLANK_LINE_AT_FILE_END" value="false" />
+    <option name="NEW_LINE_AFTER_COLON" value="true" />
+    <option name="SPACE_AFTER_NUMBER_SIGN" value="false" />
+    <option name="DICT_ALIGNMENT" value="2" />
+    <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
+    <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_SORT_BY_TYPE_FIRST" value="false" />
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
+    <option name="FROM_IMPORT_NEW_LINE_AFTER_LEFT_PARENTHESIS" value="true" />
+    <option name="FROM_IMPORT_NEW_LINE_BEFORE_RIGHT_PARENTHESIS" value="true" />
+    <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
+    <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
+  </Python>
+  <codeStyleSettings language="EditorConfig">
+    <option name="SPACE_AFTER_COLON" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
+  <codeStyleSettings language="Python">
+    <option name="RIGHT_MARGIN" value="80" />
+    <option name="WRAP_LONG_LINES" value="true" />
+    <option name="SOFT_MARGINS" value="80" />
+  </codeStyleSettings>
+</code_scheme>

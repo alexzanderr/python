@@ -1,0 +1,35 @@
+{
+    "wpm": [
+        88,
+        90,
+        83,
+        85,
+        81,
+        85,
+        86,
+        86,
+        84,
+        81
+    ],
+    "wpm_min": 81,
+    "wpm_max": 90,
+    "wpm_average": 84.9,
+    "accuracy": [
+        96,
+        96,
+        97,
+        97,
+        96,
+        95,
+        96,
+        95,
+        96,
+        96
+    ],
+    "accuracy_min": 95,
+    "accuracy_max": 97,
+    "accuracy_average": 96.0,
+    "date": "15.03.2021",
+    "url": "https://play.typeracer.com/",
+    "total_results": 10
+}

@@ -1,0 +1,10 @@
+<application>
+  <component name="DuplicatesDetector">
+    <entry key="Python">
+      <language>
+        <option name="anonymizeFunctions" value="true" />
+        <option name="anonymizeLiterals" value="true" />
+      </language>
+    </entry>
+  </component>
+</application>

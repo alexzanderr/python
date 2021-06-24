@@ -1,0 +1,7 @@
+
+when you have a module with the same name as something existing in python
+https://stackoverflow.com/questions/23418949/pygame-attributeerror-module-object-has-no-attribute-copy
+
+
+dont use circular imports
+python will raise that cannot import `that` from `that`

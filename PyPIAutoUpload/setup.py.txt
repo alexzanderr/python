@@ -1,0 +1,27 @@
+import setuptools
+
+with open("README.md", "r", encoding="utf-8") as f:
+    long_description = f.read()
+
+setuptools.setup(
+    name="{package_name}", # your package name
+    version="{package_version}", # your package version
+    author="{package_author}", # package author
+    author_email="{package_author_email}", # package author email
+    description="{package_description}", # package description
+    long_description=long_description, # package long description
+    long_description_content_type="text/markdown",
+    url="",
+    include_package_data=True,
+    install_requires=[ # all installed 3rd party modules
+        {package_requirements}
+    ],
+    platforms="any",
+    packages=setuptools.find_packages(),
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ],
+    python_requires='>=3.7',
+)

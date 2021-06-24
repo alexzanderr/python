@@ -1,0 +1,27 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-03-09T18:31:36</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2020.3.3.0.0</property>
+    <property name="modified">2021-03-09T18:43:06</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="JSON.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="6897bb" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="fac863" />
+      </value>
+    </option>
+    <option name="JSON.STRING">
+      <value>
+        <option name="FOREGROUND" value="7da764" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

@@ -1,0 +1,7 @@
+seba
+havila
+savta
+rama
+sabteca
+nimrod
+__END__

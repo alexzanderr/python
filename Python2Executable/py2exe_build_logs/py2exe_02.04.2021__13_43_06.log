@@ -1,0 +1,33 @@
+[ 02.04.2021-13:43:06.0857 - history.py - INFO ]
+all projects json read from:
+D:\Alexzander__\programming\python\Python2Executable\projects_history\all_projects.json
+
+[ 02.04.2021-13:43:06.0860 - history.py - INFO ]
+last project json read from:
+D:\Alexzander__\programming\python\Python2Executable\projects_history\last_project.json
+
+[ 02.04.2021-13:43:06.0860 - history.py - INFO ]
+all projects list with:
+ProjectSpecs objects
+created
+
+[ 02.04.2021-13:43:06.0905 - transfer.py - INFO ]
+shortcuts remote location:
+D:\Alexzander__\PythonApplicationsShortcuts
+
+[ 02.04.2021-13:43:06.0905 - transfer.py - INFO ]
+exe ignore:
+build
+	dist
+	__pycache__
+	*.spec
+	.idea
+	.vscode
+
+[ 02.04.2021-13:43:06.0908 - nsis.py - INFO ]
+nsis script template created
+
+[ 02.04.2021-13:43:06.0928 - Python2Executable - INFO ]
+logger_Python2Executable has format style:
+%d.%m.%Y-%H:%M:%S
+

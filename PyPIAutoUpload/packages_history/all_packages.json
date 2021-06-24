@@ -1,0 +1,12 @@
+[
+    {
+        "package-name": "core",
+        "package-folder": "D:\\Alexzander__\\programming\\python\\core",
+        "custom-name": "python-core"
+    },
+    {
+        "package-name": "bitcoin",
+        "package-folder": "D:\\Alexzander__\\programming\\python\\bitcoin",
+        "custom-name": "python-bitcoin-test"
+    }
+]

@@ -1,0 +1,96 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (PyCharmLearningProject)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="C:\Users\dragonfire\PycharmProjects\PyCharmLearningProject\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Alexzander__/programming/python" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PyCharmLearningProject/venv/Scripts" type="simple" />
+            <root url="file://C:/Applications__/python372/DLLs" type="simple" />
+            <root url="file://C:/Applications__/python372/Lib" type="simple" />
+            <root url="file://C:/Applications__/python372" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PyCharmLearningProject/venv" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/PyCharmLearningProject/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.3/python_stubs/165150923" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/PyCharmLearningProject" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="C:\Applications__\python372\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Alexzander__/programming/python" type="simple" />
+            <root url="file://C:/Applications__/python372" type="simple" />
+            <root url="file://C:/Applications__/python372/DLLs" type="simple" />
+            <root url="file://C:/Applications__/python372/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python37/site-packages" type="simple" />
+            <root url="file://C:/Applications__/python372/Lib/site-packages" type="simple" />
+            <root url="file://C:/Applications__/python372/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Applications__/python372/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Applications__/python372/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.3/python_stubs/2093794481" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (TestingPyCharm)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="D:\Alexzander__\programming\python\TestingPyCharm\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Alexzander__/programming/python" type="simple" />
+            <root url="file://D:/Alexzander__/programming/python/TestingPyCharm/venv/Scripts" type="simple" />
+            <root url="file://C:/Applications__/python372/DLLs" type="simple" />
+            <root url="file://C:/Applications__/python372/Lib" type="simple" />
+            <root url="file://C:/Applications__/python372" type="simple" />
+            <root url="file://D:/Alexzander__/programming/python/TestingPyCharm/venv" type="simple" />
+            <root url="file://D:/Alexzander__/programming/python/TestingPyCharm/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2020.3/python_stubs/464571005" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.7" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/Alexzander__/programming/python/TestingPyCharm" />
+    </jdk>
+  </component>
+</application>

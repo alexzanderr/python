@@ -1,0 +1,88 @@
+[ 02.03.2021-13:48:01.0981 - history.py - INFO ]
+all packages json read from:
+D:\Alexzander__\programming\python\PyPIAutoUpload\packages_history\all_packages.json
+
+[ 02.03.2021-13:48:01.0984 - history.py - INFO ]
+last package json read from:
+D:\Alexzander__\programming\python\PyPIAutoUpload\packages_history\last_package.json
+
+[ 02.03.2021-13:48:01.0985 - history.py - INFO ]
+all packages list with:
+PackageSpecs objects
+created
+
+[ 02.03.2021-13:48:07.0011 - prepare.py - INFO ]
+this is the tree representation of your package:
+D:\Alexzander__\programming\python\bitcoin
+
+[ 02.03.2021-13:48:07.0013 - prepare.py - INFO ]
+uploaded package folder:
+D:\Alexzander__\programming\python\PyPIAutoUpload\uploaded\package_bitcoin
+
+[ 02.03.2021-13:48:07.0032 - prepare.py - INFO ]
+deleting... contents from:
+D:\Alexzander__\programming\python\PyPIAutoUpload\uploaded\package_bitcoin
+
+[ 02.03.2021-13:48:07.0265 - prepare.py - INFO ]
+DELETED contents from:
+D:\Alexzander__\programming\python\PyPIAutoUpload\uploaded\package_bitcoin
+
+[ 02.03.2021-13:48:07.0267 - prepare.py - INFO ]
+inside package folder:
+D:\Alexzander__\programming\python\PyPIAutoUpload\uploaded\package_bitcoin\bitcoin
+
+[ 02.03.2021-13:48:07.0268 - prepare.py - INFO ]
+deleting... contents from:
+D:\Alexzander__\programming\python\PyPIAutoUpload\uploaded\package_bitcoin\bitcoin
+
+[ 02.03.2021-13:48:07.0400 - prepare.py - INFO ]
+
+DELETED contents from:
+D:\Alexzander__\programming\python\PyPIAutoUpload\uploaded\package_bitcoin\bitcoin
+
+[ 02.03.2021-13:48:08.0275 - prepare.py - INFO ]
+content copied from:
+D:\Alexzander__\programming\python\bitcoin
+to
+D:\Alexzander__\programming\python\PyPIAutoUpload\uploaded\package_bitcoin\bitcoin
+
+[ 02.03.2021-13:48:08.0280 - prepare.py - INFO ]
+calling `pigar` tool to generate requirements for this package
+
+[ 02.03.2021-13:48:08.0282 - prepare.py - INFO ]
+executing command:
+pigar -p D:\Alexzander__\programming\python\PyPIAutoUpload\uploaded\package_bitcoin\requirements.txt -P D:\Alexzander__\programming\python\bitcoin
+
+[ 02.03.2021-13:48:09.0038 - prepare.py - INFO ]
+tree represenation of what will be uploaded on PyPI
+
+[ 02.03.2021-13:48:09.0039 - upload.py - INFO ]
+
+executing command: python -m pip install --user --upgrade setuptools wheel
+
+
+[ 02.03.2021-13:48:12.0507 - upload.py - INFO ]
+
+executing command: python setup.py sdist bdist_wheel
+
+
+[ 02.03.2021-13:48:14.0406 - upload.py - INFO ]
+
+executing command: python -m pip install --user --upgrade twine
+
+
+[ 02.03.2021-13:48:17.0616 - upload.py - INFO ]
+
+executing command: python -m twine upload --verbose dist/*
+
+
+[ 02.03.2021-13:48:21.0910 - upload.py - INFO ]
+package: bitcoin | version: 0.2.9 was uploaded to pypi successfully!
+
+[ 02.03.2021-13:48:21.0911 - _PyPIAutoUpload.py - INFO ]
+no errors, PyPIAutoUpload() was successful
+
+[ 02.03.2021-13:48:32.0377 - _PyPIAutoUpload.py - INFO ]
+PyPI Package Auto Upload
+application closed from [ KeyboardInterrupt ]
+

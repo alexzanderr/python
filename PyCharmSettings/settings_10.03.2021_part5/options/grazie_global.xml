@@ -1,0 +1,20 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Romanian" />
+      </set>
+    </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="ARTICLE_MISSING" />
+      </set>
+    </option>
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="isCheckInStringLiteralsEnabled" value="true" />
+      </CheckingContext>
+    </option>
+  </component>
+</application>

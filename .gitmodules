@@ -1,0 +1,9 @@
+[submodule "CaptainsLog"]
+	path = CaptainsLog
+	url = ./CaptainsLog
+[submodule "Kratos"]
+	path = Kratos
+    url = ./discord_bots/Kratos
+[submodule "ManageGithubAccount"]
+    path = ManageGithubAccount
+    url = ./ManageGithubAccount

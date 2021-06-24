@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=Uptime
+Exec=/home/alexzander/Applications__/shell/uptime.sh
+StartupNotify=true
+Terminal=true
+X-GNOME-Autostart-Delay=5
+X-GNOME-Autostart-enabled=true
+X-GNOME-UsesNotifications=true

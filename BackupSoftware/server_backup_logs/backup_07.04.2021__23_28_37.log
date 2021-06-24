@@ -1,0 +1,31 @@
+[ 07.04.2021-23:28:37.0446 - BackupClientRemoteServer - INFO ]
+checking server: http://192.168.1.190:9998/ ...
+
+[ 07.04.2021-23:28:37.0454 - BackupClientRemoteServer - INFO ]
+generating files ...
+
+[ 07.04.2021-23:28:37.0466 - BackupClientRemoteServer - INFO ]
+generated.
+
+[ 07.04.2021-23:31:20.0399 - BackupClientRemoteServer - INFO ]
+checking server: http://192.168.1.190:9998/ ...
+
+[ 07.04.2021-23:31:20.0405 - BackupClientRemoteServer - INFO ]
+checking server: http://192.168.1.190:9998/ ...
+
+[ 07.04.2021-23:31:20.0416 - BackupClientRemoteServer - INFO ]
+
+Backup to: http://192.168.1.190:9998/ started at: 07.04.2021-23:28:37
+
+
+[ 07.04.2021-23:40:13.0631 - BackupClientRemoteServer - INFO ]
+tar.gz extracted on server successfully
+Backup to: http://192.168.1.190:9998/ ended at: 07.04.2021-23:40:13
+
+[ 07.04.2021-23:40:13.0633 - BackupClientRemoteServer - INFO ]
+less_24_files.tar.gz deleted
+
+[ 07.04.2021-23:40:13.0634 - BackupClientRemoteServer - INFO ]
+
+backup duration: Time(minutes=11, seconds=36)
+

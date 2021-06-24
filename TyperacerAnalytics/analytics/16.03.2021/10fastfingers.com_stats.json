@@ -1,0 +1,21 @@
+{
+    "wpm": [
+        85,
+        98,
+        72
+    ],
+    "wpm_min": 72,
+    "wpm_max": 98,
+    "wpm_average": 85.0,
+    "accuracy": [
+        90.83,
+        90.09,
+        77.47
+    ],
+    "accuracy_min": 77.47,
+    "accuracy_max": 90.83,
+    "accuracy_average": 86.13,
+    "date": "16.03.2021",
+    "url": "https://10fastfingers.com/",
+    "total_results": 3
+}

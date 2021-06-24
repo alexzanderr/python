@@ -1,0 +1,1742 @@
+[
+    {
+        "month_name": "Ianuarie",
+        "month_index": 1,
+        "events": [
+            {
+                "day": 1,
+                "event": "V\t\t\t(\u2020) T\u0103ierea \u00eemprejur cea dup\u0103 trup a Domnului; Sf. Ier. Vasile cel Mare, arhiepiscopul Cezareei Capadociei\t\t\n(Anul Nou) \t\t\n(Har\u0163i)"
+            },
+            {
+                "day": 2,
+                "event": "S\t\t\t\u00cenaintepr\u0103znuirea Botezului Domnului; Sf. Ier. Silvestru, Ep. Romei; Sf. Cuv. Serafim de Sarov\t\t\n(S\u00e2mb\u0103ta dinaintea Botezului Domnului)"
+            },
+            {
+                "day": 3,
+                "event": "D\t\t\tSf. Prooroc Maleahi; Sf. Mc. Gordie\nDuminica dinaintea Botezului Domnului (Botezul lui Ioan);\n\t\t\t\tAp. II Timotei IV, 5-8; Ev. Marcu I, 1-8; glas 5, voscr. 8"
+            },
+            {
+                "day": 3,
+                "event": "D\t\t\tSf. Prooroc Maleahi; Sf. Mc. Gordie"
+            },
+            {
+                "day": 4,
+                "event": "L\t\t\tSoborul Sf. 70 de Apostoli; Sf. Cuv. Teoctist, egumenul de la Cucumia Siciliei; Sf. Cuv. Apolinaria"
+            },
+            {
+                "day": 5,
+                "event": "M\t\t\tSf. Sfin\u0163it Mc. Teopempt \u015fi Sf. Mc. Teonas; Sf. Cuv. Sinclitichia\t\t\n(Ajunul Bobotezei) \t\t\n(Post negru)"
+            },
+            {
+                "day": 6,
+                "event": "M\t\t\t(\u2020) Botezul Domnului (Boboteaza)\t\t\n\n(Har\u0163i)"
+            },
+            {
+                "day": 7,
+                "event": "J\t\t\t\u2020) Soborul Sf. Prooroc Ioan Botez\u0103torul \u015fi \u00cenaintemerg\u0103torul Domnului"
+            },
+            {
+                "day": 8,
+                "event": "V\t\t\tSf. Cuv. Gheorghe Hozevitul \u015fi Emilian M\u0103rt.; Sf. Cuv. Domnica\t\t\n\n(Post)"
+            },
+            {
+                "day": 9,
+                "event": "S\t\t\tSf. Mc. Polieuct; Sf. Cuv. Eustratie; Sf. Ier. Petru, episcopul Sevastiei\t\t\n(S\u00e2mb\u0103ta dup\u0103 Botezul Domnului)\nDuminica dup\u0103 Botezul Domnului (\u00cenceputul propov\u0103duirii Domnului);\n\t\t\t\tAp. Efeseni IV, 7-13; Ev. Matei IV, 12-17; glas 6, voscr. 9"
+            },
+            {
+                "day": 10,
+                "event": "D\t\t\t\u2020) Sf. Sf. Cuv. Antipa de la Calapode\u015fti; Sf. Grigorie, Ep. Nissei; Sf. Ier. Dometian, episcopul Melitinei;"
+            },
+            {
+                "day": 10,
+                "event": "D\t\t\t\u2020) Sf. Sf. Cuv. Antipa de la Calapode\u015fti; Sf. Grigorie, Ep. Nissei; Sf. Ier. Dometian, episcopul Melitinei;"
+            },
+            {
+                "day": 11,
+                "event": "L\t\t\t\u2020 Sf. Cuv. Teodosie cel Mare, \u00eencep\u0103torul vie\u0163ii de ob\u015fte; Sf. Cuv. Vitalie"
+            },
+            {
+                "day": 12,
+                "event": "M\t\t\tSf. Mc. Tatiana diac. \u015fi Eutasia"
+            },
+            {
+                "day": 13,
+                "event": "M\t\t\tSf. Mc. Ermil \u015fi Stratonic; Sf. Ier. Iacob episcopul din Nisibe\t\t\n\n(Post)"
+            },
+            {
+                "day": 14,
+                "event": "J\t\t\tSf. Cuv. Mucenici din Sinai \u015fi Rait; Sf. Nina\t\t\n(Odovania Praznicului Botezului Domnului)"
+            },
+            {
+                "day": 15,
+                "event": "V\t\t\tSf. Cuv. Pavel Tebeul \u015fi Ioan Coliba\u015ful\t\t\n\n(Post)\nDuminica a XXIX-a dup\u0103 Rusalii (a celor 10 lepro\u0219i);\n\t\t\t\tAp. Coloseni III, 4-11; Ev. Luca XVII, 12-19; glas 7, voscr. 10"
+            },
+            {
+                "day": 16,
+                "event": "S\t\t\tCinstirea lan\u0163ului al Sf. Ap. Petru; Sf. Mc. Danact cite\u0163ul"
+            },
+            {
+                "day": 17,
+                "event": "D\t\t\t\u2020) Sf. Cuv. Antonie cel Mare; Sf. Cuv. Antonie cel nou din Veria"
+            },
+            {
+                "day": 17,
+                "event": "D\t\t\t\u2020) Sf. Cuv. Antonie cel Mare; Sf. Cuv. Antonie cel nou din Veria"
+            },
+            {
+                "day": 18,
+                "event": "L\t\t\t\u2020) Sf. Ier. Atanasie \u015fi Chiril, arhiepiscopii Alexandriei"
+            },
+            {
+                "day": 19,
+                "event": "M\t\t\tSf. Cuv. Macarie Egipteanul; Sf. Ier. Marcu, mitropolitul Efesului; Sf. Mc. Eufrasia"
+            },
+            {
+                "day": 20,
+                "event": "M\t\t\t\u2020 Sf. Cuv. Eftimie cel Mare; Sf. Mc. In, Pin \u015fi Rin; Sf. Mc. Vas \u015fi Eusebiu\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 21,
+                "event": "J\t\t\tSf. Cuv. Maxim M\u0103rturisitorul.; Sf. Mc. Neofit, Evghenie, Candid, Valerian \u015fi Achila\nDuminica a XXXI-a dup\u0103 Rusalii (Vindecarea orbului din Ierihon);\n\t\t\t\tAp. I Timotei I, 15-17; Ev. Luca XVIII, 35-43; glas 8, voscr. 11"
+            },
+            {
+                "day": 22,
+                "event": "V\t\t\tSf. Ap. Timotei; Sf. Sf. Cuv. Mc. Anastasie Persul\t\t\n\n(Post)"
+            },
+            {
+                "day": 23,
+                "event": "S\t\t\tSf. Sfin\u0163it Mc. Clement, episcopul Ancirei; Sf. Mc. Agatanghel; Sfin\u0163ii Parin\u0163i de la Sinodul al VI-lea Ecumenic"
+            },
+            {
+                "day": 24,
+                "event": "D\t\t\tSf. Cuv. Xenia; Sf. Ier. Filon, episcopul Carpasiei"
+            },
+            {
+                "day": 24,
+                "event": "D\t\t\tSf. Cuv. Xenia; Sf. Ier. Filon, episcopul Carpasiei"
+            },
+            {
+                "day": 25,
+                "event": "L\t\t\t\u2020) Sf. Ier. Grigorie Teologul, arhiepiscopul Constantinopolului;  \u2020) Sf. Bretanion episcopul Tomisului"
+            },
+            {
+                "day": 26,
+                "event": "M\t\t\t \u2020) Sf. Ier. Iosif cel Milostiv, Mitropolitul Moldovei, Sf. Cuv. Xenofont, Maria, Arcadie \u015fi Ioan"
+            },
+            {
+                "day": 27,
+                "event": "M\t\t\t\u2020 Aducerea moa\u015ftelor Sf. Ier. Ioan Gur\u0103 de Aur; Sf. Marciana \u00eemp\u0103r\u0103teasa\t\t\n\n(Dezlegare la ulei \u015fi vin)\nDuminica a XXXII-a dup\u0103 Rusalii (a lui Zaheu);\n\t\t\t\tAp. I Timotei IV, 9-15; Ev. Luca XIX, 1-10; glas 1, voscr. 1"
+            },
+            {
+                "day": 28,
+                "event": "J\t\t\tSf. Cuv. Efrem Sirul, Isaac Sirul, Paladie \u015fi Iacob Sihastrul; Sf. Muceni\u0163\u0103 Haris"
+            },
+            {
+                "day": 29,
+                "event": "V\t\t\tAducerea moa\u015ftelor Sf. Sfin\u0163it Mc. Ignatie Teoforul; Sf. Mc. Filotei\t\t\n\n(Post)"
+            },
+            {
+                "day": 30,
+                "event": "S\t\t\t\u2020) Sf. Trei Ierarhi: Vasile cel Mare, Grigorie Teologul \u015fi Ioan Gur\u0103 de Aur; Sf. Sfin\u0163it Mc. Ipolit, ep. Romei"
+            },
+            {
+                "day": 31,
+                "event": "D\t\t\tSf. Doctori f\u0103r\u0103 de argin\u0163i Chir \u015fi Ioan; Sf. Mc. Trifena"
+            },
+            {
+                "day": 31,
+                "event": "D\t\t\tSf. Doctori f\u0103r\u0103 de argin\u0163i Chir \u015fi Ioan; Sf. Mc. Trifena"
+            }
+        ]
+    },
+    {
+        "month_name": "Februarie",
+        "month_index": 2,
+        "events": [
+            {
+                "day": 1,
+                "event": "L\t\t\t\u00cenaintepr\u0103znuirea \u00cent\u00e2mpin\u0103rii Domnului; Sf. Mc. Trifon, Sf. Muceni\u0163e Perpetua \u015fi Felicitas"
+            },
+            {
+                "day": 2,
+                "event": "M\t\t\t(\u2020) \u00cent\u00e2mpinarea Domnului (Stratenia); Sf. Mc. Iordan \u015fi Gavriil"
+            },
+            {
+                "day": 3,
+                "event": "M\t\t\tSf. \u015fi Dreptul Simeon; Sf. Prooroci\u0163\u0103 Ana\t\t\n\n(Post)"
+            },
+            {
+                "day": 4,
+                "event": "J\t\t\tSf. Cuv. Isidor Pelusiotul; Sf. Sfin\u0163it Mc. Avramie"
+            },
+            {
+                "day": 5,
+                "event": "V\t\t\tSf. Mc. Agata \u015fi Teodula\t\t\n\n(Post)"
+            },
+            {
+                "day": 6,
+                "event": "S\t\t\tSf. Ier. Vucol, episcopul Smirnei si Fotie, patriarhul Constantinopolului; Sf. Cuv. Varsanufie cel Mare"
+            },
+            {
+                "day": 7,
+                "event": "D\t\t\tSf. Ier. Partenie, episcopul Lampsacului; Sf. Cuv. Luca din Elada\nDuminica a XVI-a dup\u0103 Rusalii (Pilda talan\u021bilor);\n\t\t\t\tAp. II Corinteni VI, 1-10; Ev. Matei XXV, 14-30; glas 2, voscr. 2"
+            },
+            {
+                "day": 7,
+                "event": "D\t\t\tSf. Ier. Partenie, episcopul Lampsacului; Sf. Cuv. Luca din Elada"
+            },
+            {
+                "day": 8,
+                "event": "L\t\t\tSf. Mare Mc. Teodor Stratilat; Sf. Prooroc Zaharia; Sf. Mc. surori Marta \u015fi Maria"
+            },
+            {
+                "day": 9,
+                "event": "M\t\t\tSf. Mc. Nichifor; Sf. Sfin\u0163i\u0163i Mc. Marcel \u015fi Pangratie\t\t\n(Odovania Praznicului \u00cent\u00e2mpin\u0103rii Domnului)"
+            },
+            {
+                "day": 10,
+                "event": "M\t\t\t\u2020) Sf. Sfin\u0163it Mc. Haralambie; Sf. Mc. Enata \u015fi Valentina\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 11,
+                "event": "J\t\t\tSf. Ier. Vlasie, episcopul Sevastiei; Sf. Teodora \u00eemp\u0103r\u0103teasa"
+            },
+            {
+                "day": 12,
+                "event": "V\t\t\tSf. Ier. Meletie, arhiepiscopul Antiohiei celei Mari; Sf. Antonie, patriarhul Constantinopolului; Sf. Mc. Hristea\t\t\n\n(Post)"
+            },
+            {
+                "day": 13,
+                "event": "S\t\t\tSf. Cuv. Martinian; Sf. Ap. \u015fi Mc. Acvila \u015fi so\u0163ia sa Priscila; Sf. Ier. Evloghie, patriarhul Alexandriei\nDuminica a XVII-a dup\u0103 Rusalii (a Cananeencii);\n\t\t\t\tAp. II Corinteni VI, 16-18; VII, 1; Ev. Matei XV, 21-28; glas 3, voscr. 3"
+            },
+            {
+                "day": 14,
+                "event": "D\t\t\tSf. Cuv. Auxen\u0163iu, Maron \u015fi Avraam; Sf. Filimon, Ep. Gazei"
+            },
+            {
+                "day": 14,
+                "event": "D\t\t\tSf. Cuv. Auxen\u0163iu, Maron \u015fi Avraam; Sf. Filimon, Ep. Gazei"
+            },
+            {
+                "day": 15,
+                "event": "L\t\t\tSf. Ap. Onisim; Sf. Mc. Maior; Sf. Cuv. Eusebiu din Siria"
+            },
+            {
+                "day": 16,
+                "event": "M\t\t\tSf. Sfin\u0163it Mc. Pamfil; Sf. Mc. Valent, Pavel \u015fi Seleuc; Sf. Cuv. Flavian, arhiepiscopul Constantinopolului"
+            },
+            {
+                "day": 17,
+                "event": "M\t\t\tSf. M. Mc. Teodor Tiron; Sf. Mariamna; Sf. \u00cemp\u0103ra\u0163i Marcian \u015fi Pulheria\t\t\n\n(Post)"
+            },
+            {
+                "day": 18,
+                "event": "J\t\t\tSf. Leon, Ep. Romei; Sf. Agapit, Ep. Sinadei"
+            },
+            {
+                "day": 19,
+                "event": "V\t\t\tSf. Ap. Arhip, Filimon \u015fi so\u0163ia sa, Apfia; Sf. Cuv. M\u0103rt. Evghenie \u015fi Macarie\t\t\n\n(Post)\nDuminica a XXXIII-a dup\u0103 Rusalii (a Vame\u0219ului \u0219i Fariseului);\n\t\t\t\tAp. II Timotei III, 10-15; Ev. Luca XVIII, 10-14; glas 4, voscr. 4"
+            },
+            {
+                "day": 20,
+                "event": "S\t\t\tSf. Leon, Ep. Cataniei; Sf. Agaton, Ep. Romei; Sf. Cuv. Visarion"
+            },
+            {
+                "day": 21,
+                "event": "D\t\t\tSf. Cuv. Timotei; Sf. Eustatie, Ep. Antiohiei\t\t\n(\u00cenceputul Triodului)"
+            },
+            {
+                "day": 21,
+                "event": "D\t\t\tSf. Cuv. Timotei; Sf. Eustatie, Ep. Antiohiei\t\t\n(\u00cenceputul Triodului)"
+            },
+            {
+                "day": 22,
+                "event": "L\t\t\tAflarea moa\u015ftelor Sf. Mc. din Evghenia; Sf. Cuv. Atanasie, Talasie \u015fi Limneu"
+            },
+            {
+                "day": 23,
+                "event": "M\t\t\t\u2020 Sf. Mc. Policarp, Ep. Smirnei; Sf. Cuv. Gorgonia"
+            },
+            {
+                "day": 24,
+                "event": "M\t\t\t\u2020 \u00cent\u00e2ia \u015fi a doua aflare a Capului Sf. Ioan \u00cenaintemerg\u0103torul \u015fi Botez\u0103torul Domnului"
+            },
+            {
+                "day": 25,
+                "event": "J\t\t\tSf. Tarasie, patriarhul Constantinopolului; Sf. Mc. Alexandru \u015fi Ipatie\nDuminica a XXXIV-a dup\u0103 Rusalii (a Fiului Risipitor);\n\t\t\t\tAp. I Corinteni VI, 12-20; Ev. Luca XV, 11-32; glas 5, voscr. 5"
+            },
+            {
+                "day": 26,
+                "event": "V\t\t\tSf. Porfirie, Arhiep. Gazei; Sf. Mc. Fotini; Sf. Teodor"
+            },
+            {
+                "day": 27,
+                "event": "S\t\t\tSf. Cuv. M\u0103rt. Procopie \u015fi Talaleu"
+            },
+            {
+                "day": 28,
+                "event": "D\t\t\t\u2020) Sf. Cuv. Ioan Casian Romanul \u015fi Gherman din Dobrogea; Sf. Cuv. Vasile M\u0103rturisitorul; Sf. Sfin\u0163it Mc. Nestor; Sf. Sfin\u0163it Mc. Proterie"
+            },
+            {
+                "day": 28,
+                "event": "D\t\t\t\u2020) Sf. Cuv. Ioan Casian Romanul \u015fi Gherman din Dobrogea; Sf. Cuv. Vasile M\u0103rturisitorul; Sf. Sfin\u0163it Mc. Nestor; Sf. Sfin\u0163it Mc. Proterie"
+            }
+        ]
+    },
+    {
+        "month_name": "Martie",
+        "month_index": 3,
+        "events": [
+            {
+                "day": 1,
+                "event": "L\t\t\tSf. Cuv. Mc. Evdochia; Sf. Cuv. Domnina; Sf. Mc. Antonina; Sf. Mc. Marcel \u015fi Antonie"
+            },
+            {
+                "day": 2,
+                "event": "M\t\t\tSf. Sfin\u0163it Mc. Teodot; Sf. Mc. Isihie \u015fi Nestor"
+            },
+            {
+                "day": 3,
+                "event": "M\t\t\tSf. Mc. Eutropie, Cleonic \u015fi Vasilisc\t\t\n\n(Post)"
+            },
+            {
+                "day": 4,
+                "event": "J\t\t\tSf. Cuv. Gherasim de la Iordan; Sf. Mc. Pavel \u015fi Iuliana, sora lui"
+            },
+            {
+                "day": 5,
+                "event": "V\t\t\tSf. Mc. Conon din Isauria; Sf. Mc. Conon Gr\u0103dinarul, Sf. Mc. Iraida; Sf. Cuv. Marcu Pusnicul\t\t\n\n(Post)"
+            },
+            {
+                "day": 6,
+                "event": "S\t\t\tSf. 42 de Mc. din Amoreea; Sf. Mc. Eufrosin; Aflarea Sfintei Cruci\t\t\n(Pomenirea mor\u021bilor - Mo\u0219ii de iarn\u0103)"
+            },
+            {
+                "day": 7,
+                "event": "D\t\t\tSf. Mc. Ep. din Cherson: Vasilevs, Efrem, Evghenie, Capiton, Eterie, Agatodor \u015fi Elpidie\nDuminica L\u0103satului sec de carne (a \u00cenfrico\u0219\u0103toarei Judec\u0103\u021bi);\n\t\t\t\tAp. I Corinteni VIII, 8-13; IX, 1-2; Ev. Matei XXV, 31-46; glas 6, voscr. 6"
+            },
+            {
+                "day": 7,
+                "event": "D\t\t\tSf. Mc. Ep. din Cherson: Vasilevs, Efrem, Evghenie, Capiton, Eterie, Agatodor \u015fi Elpidie"
+            },
+            {
+                "day": 8,
+                "event": "L\t\t\tSf. Ier. Teofilact M\u0103rt., Ep. Nicomidiei; Sf. Ier. Pavel M\u0103rt.; Sf. Mc. Dometie\t\t\n\n(Dezlegare la ou\u0103, lapte \u015fi br\u00e2nz\u0103)"
+            },
+            {
+                "day": 9,
+                "event": "M\t\t\t\u2020) Sf. 40 de Mc. din Sevastia; Sf. Mc. Urpasian\t\t\n\n(Dezlegare la ou\u0103, lapte \u015fi br\u00e2nz\u0103)"
+            },
+            {
+                "day": 10,
+                "event": "M\t\t\tSf. Mc. Codrat, Ciprian \u015fi Dionisie\t\t\n\t\t\t(Zi aliturgic\u0103)\n\t\t\n(Dezlegare la ou\u0103, lapte \u015fi br\u00e2nz\u0103)"
+            },
+            {
+                "day": 11,
+                "event": "J\t\t\tSf. Ier. Sofronie, Patr. Ierusalimului; Sf. Mc. Trofin \u015fi Talul Sf. Sfintit Mc.Pionie\t\t\n\n(Dezlegare la ou\u0103, lapte \u015fi br\u00e2nz\u0103)"
+            },
+            {
+                "day": 12,
+                "event": "V\t\t\tSf. Cuv. Teofan M\u0103rt.; Sf. Grigorie Dialogul, Ep. Romei; Sf. Cuv. Simeon Noul Teolog\t\t\n\t\t\t(Zi aliturgic\u0103)\n\t\t\n(Dezlegare la ou\u0103, lapte \u015fi br\u00e2nz\u0103)"
+            },
+            {
+                "day": 13,
+                "event": "S\t\t\tAducerea moa\u015ftelor Sf. Ier. Nichifor, Patr. Constantinopolului; Sf. Mc. Hristina din Persia\t\t\n\n(Dezlegare la ou\u0103, lapte \u015fi br\u00e2nz\u0103)\nDuminica L\u0103satului sec de br\u00e2nz\u0103 (a Izgonirii lui Adam din Rai);\n\t\t\t\tAp. Romani XIII, 11-14; XIV, 1-4; Ev. Matei VI, 14-21; glas 7, voscr. 7"
+            },
+            {
+                "day": 14,
+                "event": "D\t\t\tSf. Cuv. Benedict din Nursia; Sf. Mc. Alexandru din Pidna\t\t\n(L\u0103satul secului pentru Postul Mare) \t\t\n(Dezlegare la ou\u0103, lapte \u015fi br\u00e2nz\u0103)"
+            },
+            {
+                "day": 14,
+                "event": "D\t\t\tSf. Cuv. Benedict din Nursia; Sf. Mc. Alexandru din Pidna\t\t\n(L\u0103satul secului pentru Postul Mare) \t\t\n(Dezlegare la ou\u0103, lapte \u015fi br\u00e2nz\u0103)"
+            },
+            {
+                "day": 15,
+                "event": "L\t\t\tSf. Mc. Agapie, Plisie \u015fi Tirmolau\t\t\n(Canonul cel Mare, partea I; \u00cenceputul Postului Mare) \t\t\t(Zi aliturgic\u0103)\n\t\t\n(Numai seara, p\u00e2ine \u015fi ap\u0103)"
+            },
+            {
+                "day": 16,
+                "event": "M\t\t\tSf. Mc. Sabin Egipteanul, Papa \u015fi Roman, Sf. Cuv. Anin; Sf. Cuv Hristodul din Patmos\t\t\n(Canonul cel Mare, partea a II-a) \t\t\t(Zi aliturgic\u0103)\n\t\t\n(Numai seara, p\u00e2ine \u015fi ap\u0103)"
+            },
+            {
+                "day": 17,
+                "event": "M\t\t\tSf. Cuv. Alexie, omul lui Dumnezeu; Sf. Mc. Marin; Sf. Cuv. Teostirict imnograful\t\t\n(Canonul cel Mare, partea a III-a) \t\t\n(Post)"
+            },
+            {
+                "day": 18,
+                "event": "J\t\t\tSf. Chiril, Arhiep. Ierusalimului; Sf. Mc. Trofim \u015fi Evcarpion\t\t\n(Canonul cel Mare, partea a IV-a) \t\t\n(Post)"
+            },
+            {
+                "day": 19,
+                "event": "V\t\t\tSf. Mc. Hrisant, Daria \u015fi Ilaria; Sf. Mc. Marian diaconul\t\t\n\n(Post)\nDuminica I din Post (a Ortodoxiei);\n\t\t\t\tAp. Evrei XI, 24-26; 32-40; Ev. Ioan I, 43-51; glas 8, voscr. 8"
+            },
+            {
+                "day": 20,
+                "event": "S\t\t\tSf. Cuv. Mc. uci\u015fi \u00een M-rea Sf. Sava cel Sfin\u0163it; Sf. Ier. Nichita M\u0103rturisitorul\t\t\n(S\u00e2mb\u0103ta Sf. Teodor - Pomenirea mor\u021bilor) \t\t\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 21,
+                "event": "D\t\t\tSf. Ier. Iacob M\u0103rturisitorul; Sf. Ier. Toma; Sf. Cuv. Serapion\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 21,
+                "event": "D\t\t\tSf. Ier. Iacob M\u0103rturisitorul; Sf. Ier. Toma; Sf. Cuv. Serapion\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 22,
+                "event": "L\t\t\tSf. Sf. Cuv. Mc. Vasile, preotul din Ancira; Sf. Drosida, fiica \u00eemp\u0103ratului Traian\t\t\n\n(Post)"
+            },
+            {
+                "day": 23,
+                "event": "M\t\t\tSf. Sf. Cuv. Mc. Nicon \u015fi cei 199 ucenici ai lui\t\t\n\n(Post)"
+            },
+            {
+                "day": 24,
+                "event": "M\t\t\t\u00cenaintepr\u0103znuirea Bunei Vestiri; Sf. Cuv. Zaharia; Sf. Ier. Artemon\t\t\n\n(Post)"
+            },
+            {
+                "day": 25,
+                "event": "J\t\t\t(\u2020) Buna Vestire (Blagove\u015ftenia)\t\t\n\n(Dezlegare la pe\u015fte)\nDuminica a II-a din Post (a Sf. Grigorie Palama; Vindecarea sl\u0103b\u0103nogului din Capernaum);\n\t\t\t\tAp. Evrei I, 10-14; II, 1-3; VII, 26-28; VIII, 1-2; Ev. Marcu II, 1-12; Ioan X, 9-16; glas 1, voscr. 9"
+            },
+            {
+                "day": 26,
+                "event": "V\t\t\tSoborul Sf. Arhanghel Gavriil; Sf. Mc. Montanus pr. \u015fi so\u0163ia sa Maxima; Sfintii 26 de Mc. din Go\u0163ia\t\t\n(Odovania Praznicului Bunei Vestiri) \t\t\n(Post)"
+            },
+            {
+                "day": 27,
+                "event": "S\t\t\tSf. Mc. Matroana din Tesalonic; Sf. Prooroc Anania; Sf. Mc. Filit, Lidia \u015fi fiii lor\t\t\n(S\u00e2mb\u0103ta a II-a din Post - Pomenirea mor\u021bilor) \t\t\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 28,
+                "event": "D\t\t\tSf. Cuv. Ilarion cel Nou; Sf. Cuv. \u015etefan, f\u0103c\u0103torul de minuni\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 28,
+                "event": "D\t\t\tSf. Cuv. Ilarion cel Nou; Sf. Cuv. \u015etefan, f\u0103c\u0103torul de minuni\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 29,
+                "event": "L\t\t\tSf. Cuv. Mc. Marcu, Ep. Aretuselor; Sf. Mc. Chiril diac.; Sf. Mc. Iona si Varahisie\t\t\n\n(Post)"
+            },
+            {
+                "day": 30,
+                "event": "M\t\t\tSf. Cuv. Ioan Sc\u0103rarul; Sf. Prooroc Ioad; Sf. Euvula\t\t\n\n(Post)"
+            },
+            {
+                "day": 31,
+                "event": "M\t\t\tSf. Mc. Ipatie, Ep. Gangrei; Sf. Acachie M\u0103rt., Ep. Melitinei; Sf. Mc. Veniamin diac.\t\t\n\n(Post)"
+            }
+        ]
+    },
+    {
+        "month_name": "Aprilie",
+        "month_index": 4,
+        "events": [
+            {
+                "day": 1,
+                "event": "J\t\t\tSf. Cuv. Maria Egipteanca; Sf. Cuv. Macarie M\u0103rt.; Sf. Mc. Gherontie\t\t\n\n(Post)"
+            },
+            {
+                "day": 2,
+                "event": "V\t\t\tSf. Cuv. Tit, f\u0103c\u0103torul de minuni; Sf. Mc. Amfian \u015fi Edesie\t\t\n\n(Post)"
+            },
+            {
+                "day": 3,
+                "event": "S\t\t\tSf. Cuv. Nichita M\u0103rturisitorul si Ilirie; Sf. Mc. Elpidifor\t\t\n(S\u00e2mb\u0103ta a III-a din Post - Pomenirea mor\u021bilor) \t\t\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 4,
+                "event": "D\t\t\tSf. Cuv. Gheorghe de la Maleon, Zosima \u015fi Platon; Iosif, imnograful\t\t\n\n(Dezlegare la ulei \u015fi vin)\nDuminica a III-a din Post (a Sf. Cruci);\n\t\t\t\tAp. Evrei IV, 14-16; V, 1-6; Ev. Marcu VIII, 34-38; IX, 1; glas 2, voscr. 10"
+            },
+            {
+                "day": 4,
+                "event": "D\t\t\tSf. Cuv. Gheorghe de la Maleon, Zosima \u015fi Platon; Iosif, imnograful\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 5,
+                "event": "L\t\t\tSf. Mc. Claudie, Diodor, Nichifor, Serapion, Teodul \u015fi Agatopod\t\t\n\n(Post)"
+            },
+            {
+                "day": 6,
+                "event": "M\t\t\tSf. Mc. Irineu, Ep. de Sirmium; Sf. Eutihie, Patr. Constantinopolului; Sf. Cuv. Platonida; Sf. Cuv. Grigorie Sinaitul \u015fi Platonida\t\t\n\n(Post)"
+            },
+            {
+                "day": 7,
+                "event": "M\t\t\tSf. Mc. Gheorghe M\u0103rturisitorul, Ep. Mitilenei; Sf. Mc. Caliopie, Achilina \u015fi Rufin diac.\t\t\n\n(Post)"
+            },
+            {
+                "day": 8,
+                "event": "J\t\t\tSf. Ap. Irodion, Agav, Ruf, Flegon, Asincrit \u015fi Hermas; Sf. Ier. Celestin, episcopul Romei\t\t\n\n(Post)"
+            },
+            {
+                "day": 9,
+                "event": "V\t\t\tSf. Mc. Eupsihie din Cezareea; Sf. Mc. Vadim arhim.\t\t\n\n(Post)"
+            },
+            {
+                "day": 10,
+                "event": "S\t\t\tSf. Mc. Terentie, Pompie, African \u015fi Maxim; Sf. Mc. Dima\t\t\n(S\u00e2mb\u0103ta a IV-a din Post - Pomenirea mor\u021bilor) \t\t\n(Dezlegare la ulei \u015fi vin)\nDuminica a IV-a din Post (a Sf. Ioan Sc\u0103rarul; Vindecarea fiului lunatic);\n\t\t\t\tAp. Evrei VI, 13-20; Efeseni V, 8-19; Ev. Marcu IX, 17-32; Matei IV, 25; V, 1-12; glas 3, voscr. 11"
+            },
+            {
+                "day": 11,
+                "event": "D\t\t\t\u2020) Sf. Ier. Calinic de la Cernica, ep. Ramnicului; Sf. Sfin\u0163it Mc. Antipa; Sf. Cuv. Trifina\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 11,
+                "event": "D\t\t\t\u2020) Sf. Ier. Calinic de la Cernica, ep. Ramnicului; Sf. Sfin\u0163it Mc. Antipa; Sf. Cuv. Trifina\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 12,
+                "event": "L\t\t\t\u2020) Sf. Mc. Sava de la Buz\u0103u; Sf. Ier. Vasile M\u0103rturisitorul; Sf. Antuza\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 13,
+                "event": "M\t\t\tSf. Sfin\u0163it Mc. Artemon; Sf. Mc. Elefterie Persul\t\t\n\n(Post)"
+            },
+            {
+                "day": 14,
+                "event": "M\t\t\t\u2020) Sf. Ier. Pahomie de la Gledin, Ep. Romanului; Sf. Martin M\u0103rt., Ep. Romei; Sf. Mc. Tomaida\t\t\n(Denia Canonului cel Mare) \t\t\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 15,
+                "event": "J\t\t\tSf. Ap. Aristarh, Pud \u015fi Trofim; Sf. Mc. Crescent \u015fi Vasilisa\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 16,
+                "event": "V\t\t\tSf. Mc. fecioare Agapia, Irina \u015fi Hionia\t\t\n(Denia Acatistului Bunei Vestiri) \t\t\n(Post)\nDuminica a V-a din Post (a Cuv. Maria Egipteanca);\n\t\t\t\tAp. Evrei IX, 11-14; Galateni III, 23-29; Ev. Marcu X, 32-45; Luca VII, 36-50; glas 4, voscr. 1"
+            },
+            {
+                "day": 17,
+                "event": "S\t\t\tSf. Mc. Simeon, Ep. Persiei; Sf. Acachie, Ep. Melitinei\t\t\n(S\u00e2mb\u0103ta a V-a din Post - Pomenirea mor\u021bilor) \t\t\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 18,
+                "event": "D\t\t\tSf. Cuv. Ioan, ucenicul Sf. Grigorie Decapolitul; Sf. Ier. Cosma, Ep. Calcedonului; Sf. Mc Ioan din Ianina\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 18,
+                "event": "D\t\t\tSf. Cuv. Ioan, ucenicul Sf. Grigorie Decapolitul; Sf. Ier. Cosma, Ep. Calcedonului; Sf. Mc Ioan din Ianina\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 19,
+                "event": "L\t\t\tSf. Cuv. Ioan Paleolavritul; Sf. Sfin\u0163it Mc. Pafnutie\t\t\n\n(Post)"
+            },
+            {
+                "day": 20,
+                "event": "M\t\t\t\u2020) Sf. Teotim, Ep. Tomisului; Sf. Cuv. Teodor Trihina Atanasie si Ioasaf; Sf. Ap. Zaheu\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 21,
+                "event": "M\t\t\tSf. Sfin\u0163it Mc. Ianuarie; Sf. Mc. Alexandra, \u00eemp\u0103r\u0103teasa; Sf. Mc. Filipial; Sf. Mc. Teodor din Perga\t\t\n\n(Post)"
+            },
+            {
+                "day": 22,
+                "event": "J\t\t\tSf. Ier. Teodor Sicheotul, Ep. Anastasiopolei; Sf. Ap. Natanail\t\t\n\n(Post)\n(\u2020) Intrarea Domnului \u00een Ierusalim (Duminica a VI-a din Post - a Floriilor);\n\t\t\t\tAp. Filipeni IV, 4-9; Ev. Ioan XII, 1-18"
+            },
+            {
+                "day": 23,
+                "event": "V\t\t\t\u2020) Sf. M. Mc. Gheorghe, Purt\u0103torul de biruin\u0163\u0103; Sf. Mc. Valerie\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 24,
+                "event": "S\t\t\t\u2020) Sf. Ier. M\u0103rt.: Ilie Iorest, Sava Brancovici \u015fi Simion Stefan, Mitr. Transilvaniei; Sf. Ier. Iosif M\u0103rt. din Maramure\u015f; Sf. Mc. Pasicrat \u015fi Valentin din Durostorum; Sf. Cuv. Elisabeta\t\t\n(S\u00e2mb\u0103ta lui Laz\u0103r - Pomenirea mor\u021bilor) \t\t\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 25,
+                "event": "D\t\t\tSf. Ap. \u015fi Ev. Marcu; \u2020) Sf. Cuv. Vasile de la Poiana M\u0103rului \n(Denia Sf. \u0219i Marii Luni) \t\t\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 25,
+                "event": "D\t\t\tSf. Ap. \u015fi Ev. Marcu; \u2020) Sf. Cuv. Vasile de la Poiana M\u0103rului \n(Denia Sf. \u0219i Marii Luni) \t\t\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 26,
+                "event": "L\t\t\tSf. \u0219i Marea Luni; Sf. Mc. Vasile, Ep. Amasiei; Sf. Glafira; Sf. Mc. Chiril, Chindeu si Tasie din Axiopolis (Cernavod\u0103) \n(Denia Sf. \u0219i Marii Mar\u021bi) \t\t\n(Numai seara, p\u00e2ine \u015fi ap\u0103)"
+            },
+            {
+                "day": 27,
+                "event": "M\t\t\tSf. \u0219i Marea Mar\u021bi; Sf. Sfin\u0163it Mc. Simeon, ruda Domnului; Sf. Ap. Aristarh, Marcu \u015fi Zinon\t\t\n(Denia Sf. \u0219i Marii Miercuri) \t\t\n(Numai seara, p\u00e2ine \u015fi ap\u0103)"
+            },
+            {
+                "day": 28,
+                "event": "M\t\t\tSf. \u0219i Marea Miercuri; Sf. Ap. Iason \u015fi Sosipatru; Sf. Mc. Maxim, Cvintilian \u015fi Dadas din Ozovia \n(Denia Sf. \u0219i Marii Joi) \t\t\n(Numai seara, p\u00e2ine \u015fi ap\u0103)"
+            },
+            {
+                "day": 29,
+                "event": "J\t\t\tSf. \u0219i Marea Joi; Sf. 9 Mc. din Cizic; Sf. Cuv. Memnon M\u0103rt.\t\t\n(Pomenirea mor\u021bilor - Denia celor 12 Evanghelii, a Sf. \u0219i Marii Vineri) \t\t\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 30,
+                "event": "V\t\t\tSf. \u0219i Marea Vineri - Scoaterea Sf. Aer; Sf. Ap. Iacob, fiul lui Zevedeu; Sf. Ier. Donat, episcopul Evriei\t\t\n(Denia Prohodului Domnului, a Sf. \u0219i Marii S\u00e2mbete) \t\t\t(Zi aliturgic\u0103)\n\t\t\n(Post negru)"
+            }
+        ]
+    },
+    {
+        "month_name": "Mai",
+        "month_index": 5,
+        "events": [
+            {
+                "day": 1,
+                "event": "S\t\t\tSf. \u0219i Marea S\u00e2mb\u0103t\u0103; Sf. Prooroc Ieremia; Sf. Cuv. Mc. Eftimie, Ignatie \u015fi Acachie; Sf. Cuv. Isidora\t\t\n\n(Post negru)"
+            },
+            {
+                "day": 2,
+                "event": "D\t\t\t \n(Vecernia \u00cenvierii)\n(\u2020) \u00cenvierea Domnului (Sf. Pa\u0219ti);\n\t\t\t\tAp. Fapte I, 1-8; Ev. Ioan I, 1-17"
+            },
+            {
+                "day": 2,
+                "event": "D\t\t\t \n(Vecernia \u00cenvierii)"
+            },
+            {
+                "day": 3,
+                "event": "L\t\t\t(\u2020) A doua zi de Pa\u0219ti (M\u0103rturia lui Ioan Botez\u0103torul); \u2020) Sf. Cuv. Irodion de la Lainici; Sf. Mc. Timotei \u015fi so\u0163ia sa Mavra; Sf. Mc. Diodor \u015fi Rodopian, diac.; Sf. Cuv. Teodosie"
+            },
+            {
+                "day": 4,
+                "event": "M\t\t\t(\u2020) A treia zi de Pa\u0219ti (Drumul spre Emaus); Sf. Mc. Pelaghia; Sf. Cuv. Valerian \u015fi Nichifor"
+            },
+            {
+                "day": 5,
+                "event": "M\t\t\tSf. M. Mc. Irina; Sf. Mc. Neofit, Gaie \u015fi Gaian\t\t\n\n(Har\u0163i)"
+            },
+            {
+                "day": 6,
+                "event": "J\t\t\tSf. \u015fi Dreptul Iov; Sf. Cuv. Mamant, Pahomie \u015fi Ilarion"
+            },
+            {
+                "day": 7,
+                "event": "V\t\t\t\u2020) Izvorul T\u0103m\u0103duirii; Ar\u0103tarea semnului Sf. Cruci pe cer la Ierusalim; Sf. Mc. Acachie \u015fi Codrat\t\t\n\n(Har\u0163i)"
+            },
+            {
+                "day": 8,
+                "event": "S\t\t\t\u2020) Sf. Ap. \u015fi Ev. Ioan; Sf. Cuv. Arsenie cel Mare; Sf. Emilia\nDuminica a II-a dup\u0103 Pa\u0219ti (a Sf. Ap. Toma);\n\t\t\t\tAp. Fapte V, 12-20; Ev. Ioan XX, 19-31; glas 1, voscr. 1"
+            },
+            {
+                "day": 9,
+                "event": "D\t\t\tAducerea moa\u015ftelor Sf. Ier. Nicolae la Bari; Sf. Prooroc Isaia; Sf. Mc. Hristofor"
+            },
+            {
+                "day": 9,
+                "event": "D\t\t\tAducerea moa\u015ftelor Sf. Ier. Nicolae la Bari; Sf. Prooroc Isaia; Sf. Mc. Hristofor"
+            },
+            {
+                "day": 10,
+                "event": "L\t\t\tSf. Ap. Simon Zilotul; Sf. Cuv. Isihie M\u0103rt. \u015fi Lavrentie"
+            },
+            {
+                "day": 11,
+                "event": "M\t\t\tSf. Sfin\u0163it Mc. Mochie; Sf. Chiril \u015fi Metodie, apostolii slavilor"
+            },
+            {
+                "day": 12,
+                "event": "M\t\t\t\u2020) Sf. Mc. Ioan Valahul; Sf. Epifanie, Arhiep. Ciprului; Sf. Gherman, Patr. Constantinopolului\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 13,
+                "event": "J\t\t\tSf. Mc. Glicheria; Sf. Cuv. Serghie M\u0103rt."
+            },
+            {
+                "day": 14,
+                "event": "V\t\t\tSf. Mc. Isidor; Sf. Sfin\u0163it Mc. Terapont\t\t\n\n(Dezlegare la pe\u015fte)\nDuminica a III-a dup\u0103 Pa\u0219ti (a Mironosi\u021belor);\n\t\t\t\tAp. Fapte VI, 1-7; Ev. Marcu XV, 43-47; XVI, 1-8; glas 2, voscr. 4"
+            },
+            {
+                "day": 15,
+                "event": "S\t\t\tSf. Cuv. Pahomie cel Mare; Sf. Cuv. Ahile, Ep. Larisei"
+            },
+            {
+                "day": 16,
+                "event": "D\t\t\tSf. Cuv. Teodor cel Sfin\u0163it; Sf. Mc. Isachie, Simeon \u015fi Petru"
+            },
+            {
+                "day": 16,
+                "event": "D\t\t\tSf. Cuv. Teodor cel Sfin\u0163it; Sf. Mc. Isachie, Simeon \u015fi Petru"
+            },
+            {
+                "day": 17,
+                "event": "L\t\t\tSf. Ap. Andronic; Sf. Iunia; Sf. Cuv. Nectarie \u015fi Teofan"
+            },
+            {
+                "day": 18,
+                "event": "M\t\t\tSf. Mc. Petru, Dionisie \u015fi Hristina; Sf. Mc. Teodot \u015fi cele 7 Sf. Mc. fecioare"
+            },
+            {
+                "day": 19,
+                "event": "M\t\t\tSf. Sfin\u0163it Mc. Patrichie; Sf. Mc. Chiriachi; Sf. Cuv. Memnon\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 20,
+                "event": "J\t\t\tSf. Mc. Talaleu; Sf. Cuv. Talasie; Sf. Cuv. Marcu Pustnicul\nDuminica a IV-a dup\u0103 Pa\u0219ti (a sl\u0103b\u0103nogului de la Vitezda);\n\t\t\t\tAp. Fapte IX, 32-42; Ev. Ioan V, 1-15; glas 3, voscr. 5"
+            },
+            {
+                "day": 21,
+                "event": "V\t\t\t\u2020) Sf. \u00cemp\u0103ra\u0163i, \u00eentocmai cu Apostolii, Constantin \u015fi mama sa Elena\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 22,
+                "event": "S\t\t\tSf. Mc. Vasilisc \u015fi Marcel; Sf. P\u0103rin\u0163i de la Sinodul al II-lea Ecumenic; Sf. Mc. Sofia, doctori\u0163a"
+            },
+            {
+                "day": 23,
+                "event": "D\t\t\tSf. Cuv. Mihail M\u0103rt., Ep. Sinadei; Sf. Maria lui Cleopa"
+            },
+            {
+                "day": 23,
+                "event": "D\t\t\tSf. Cuv. Mihail M\u0103rt., Ep. Sinadei; Sf. Maria lui Cleopa"
+            },
+            {
+                "day": 24,
+                "event": "L\t\t\tSf. Cuv. Simeon; Sf. Mc. Serapion; Sf. Mc. Marciana"
+            },
+            {
+                "day": 25,
+                "event": "M\t\t\t\u2020 A treia aflare a Capului Sf. Prooroc Ioan Botez\u0103torul; Sf. Mc. Celestin"
+            },
+            {
+                "day": 26,
+                "event": "M\t\t\tSf. Ap. Carp \u015fi Alfeu, din cei 70; Sf. Mc. Averchie \u015fi Elena\t\t\n(\u00cenjum\u0103t\u0103\u021birea praznicului \u00cenvierii Domnului) \t\t\n(Dezlegare la pe\u015fte)\nDuminica a V-a dup\u0103 Pa\u0219ti (a Samarinencii);\n\t\t\t\tAp. Fapte XI, 19-30; Ev. Ioan IV, 5-42; glas 4, voscr. 7"
+            },
+            {
+                "day": 27,
+                "event": "J\t\t\tSf. Mc. Iuliu Veteranul; Sf. Sfin\u0163i\u0163i Mc. Terapont \u015fi Eladie; Sf. Mc. Alipie; Sf. Ioan Rusul"
+            },
+            {
+                "day": 28,
+                "event": "V\t\t\tSf. Sfintit Mc. Eutihie, Ep. Melitinei; Sf. Cuv. Nichita M\u0103rt., Ep. Calcedonului; Sf. Sfin\u0163it Mc. Eutihie\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 29,
+                "event": "S\t\t\tSf. Mc. Teodosia; Sf. Sfin\u0163it Mc. Olivian \u015fi Alexandru"
+            },
+            {
+                "day": 30,
+                "event": "D\t\t\tSf. Cuv. Isaachie M\u0103rt. \u015fi Varlaam; Sf. Mc. Natalie"
+            },
+            {
+                "day": 30,
+                "event": "D\t\t\tSf. Cuv. Isaachie M\u0103rt. \u015fi Varlaam; Sf. Mc. Natalie"
+            },
+            {
+                "day": 31,
+                "event": "L\t\t\tSf. Mc. Ermie; Sf. Mc. Eusebie \u015fi Haralambie"
+            }
+        ]
+    },
+    {
+        "month_name": "Iunie",
+        "month_index": 6,
+        "events": [
+            {
+                "day": 1,
+                "event": "M\t\t\tSf. Mc. Justin Martirul \u015fi Filosoful; Sf. Mc. Hariton, Firm \u015fi Valerian"
+            },
+            {
+                "day": 2,
+                "event": "M\t\t\t\u2020) Sf. M. Mc. Ioan cel Nou de la Suceava; Sf. Nichifor M\u0103rt., Patr. Constantinopolului\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 3,
+                "event": "J\t\t\tSf. Mc. Luchilian, Ipatie, Pavel, Dionisie \u015fi Claudie; Sf. Mc. Paula"
+            },
+            {
+                "day": 4,
+                "event": "V\t\t\t\u2020) Sf. Mc.: Zotic, Atal, Camasie \u015fi Filip de la Niculi\u0163el; Sf. Mitrofan, Patr. Constantinopolului\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 5,
+                "event": "S\t\t\tSf. Mc. Dorotei, Ep. Tirului; Sf. Mc. Marchian, Nicandru \u015fi Leonid"
+            },
+            {
+                "day": 6,
+                "event": "D\t\t\tSf. Cuv. Visarion \u015fi Ilarion cel Nou; Sf. Mc. Ghelasie \u015fi Valeria\nDuminica a VI-a dup\u0103 Pa\u0219ti (a orbului din na\u0219tere);\n\t\t\t\tAp. Fapte XVI, 16-34; Ev. Ioan IX, 1-38; glas 5, voscr. 8"
+            },
+            {
+                "day": 6,
+                "event": "D\t\t\tSf. Cuv. Visarion \u015fi Ilarion cel Nou; Sf. Mc. Ghelasie \u015fi Valeria"
+            },
+            {
+                "day": 7,
+                "event": "L\t\t\tSf. Sfin\u0163it Mc. Teodot; Sf. Mc. Zenaida; Sf. Cuv. Sebastiana; Sf. Cuv. Antim"
+            },
+            {
+                "day": 8,
+                "event": "M\t\t\tSf. Mc. Nicandru \u015fi Marcian; Aducerea moa\u015ftelor Sf. M. Mc. Teodor Stratilat"
+            },
+            {
+                "day": 9,
+                "event": "M\t\t\tOdovania praznicului \u00cenvierii Domnului; Sf. Chiril al Alexandriei; Sf. Mc. Tecla, Mariamni, Marta, Maria \u015fi Enata\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 10,
+                "event": "J\t\t\t(\u2020) \u00cen\u0103l\u021barea Domnului (Ispasul); Ziua Eroilor"
+            },
+            {
+                "day": 11,
+                "event": "V\t\t\tSf. Ap. Bartolomeu \u015fi Barnava; Sf. Ier. Luca, arhiep. Crimeii\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 12,
+                "event": "S\t\t\tSf. Cuv. Onufrie cel Mare \u015fi Petru Atonitul\nDuminica a VII-a dup\u0103 Pa\u0219ti (a Sf. P\u0103rin\u021bi de la Sinodul I Ecumenic);\n\t\t\t\tAp. Fapte XX, 16-18; 28-36; Ev. Ioan XVII, 1-13; glas 6, voscr. 10"
+            },
+            {
+                "day": 13,
+                "event": "D\t\t\tSf. Mc. Achilina; Sf. Trifilie, Ep. Levcosiei din Cipru"
+            },
+            {
+                "day": 13,
+                "event": "D\t\t\tSf. Mc. Achilina; Sf. Trifilie, Ep. Levcosiei din Cipru"
+            },
+            {
+                "day": 14,
+                "event": "L\t\t\tSf. Prooroc Elisei; Sf. Metodie, Patr. Constantinopolului; Sf. Cuv. Iulita"
+            },
+            {
+                "day": 15,
+                "event": "M\t\t\tSf. Prooroc Amos; Sf. Mc. Isihie; Fer. Ieronim \u015fi Augustin"
+            },
+            {
+                "day": 16,
+                "event": "M\t\t\tSf. Tihon, Ep. Amatundei; Sf. Sfin\u0163it Mc. Marcu\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 17,
+                "event": "J\t\t\tSf. Mc. Manuil, Savel \u015fi Ismail"
+            },
+            {
+                "day": 18,
+                "event": "V\t\t\tOdovania praznicului \u00cen\u0103l\u021b\u0103rii Domnului; Sf. Mc. Leontie, Ipatie \u015fi Teodul; Sf. Cuv. Erasm\t\t\n\n(Dezlegare la pe\u015fte)\n(\u2020) Pogor\u00e2rea Sf. Duh (Cincizecimea sau Rusaliile);\n\t\t\t\tAp. Fapte II, 1-11; Ev. Ioan VII, 37-53; VIII, 12"
+            },
+            {
+                "day": 19,
+                "event": "S\t\t\tSf. Ap. Iuda, ruda Domnului; Sf. Cuv. Paisie cel Mare\t\t\n(Pomenirea mor\u021bilor - Mo\u0219ii de var\u0103)"
+            },
+            {
+                "day": 20,
+                "event": "D"
+            },
+            {
+                "day": 20,
+                "event": "D"
+            },
+            {
+                "day": 21,
+                "event": "L\t\t\t(\u2020) Sf. Treime"
+            },
+            {
+                "day": 22,
+                "event": "M\t\t\t\u2020) Sf. Ier. Grigorie Dasc\u0103lu, Mitr. \u0162\u0103rii Rom\u00e2ne\u015fti; Sf. Sfin\u0163it Mc. Eusebie; Sf. Mc. Zenon, Zina \u015fi Galaction"
+            },
+            {
+                "day": 23,
+                "event": "M\t\t\tSf. Mc. Agripina; Sf. Mc. Aristocleu pr."
+            },
+            {
+                "day": 24,
+                "event": "J\t\t\t(\u2020) Na\u015fterea Sf. Ioan Botez\u0103torul (S\u00e2nzienele); \u2020) Sf. Niceta de Remesiana; Aducerea moa\u015ftelor Sf. M. Mc. Ioan cel Nou de la Suceava; \u2020)Sf. Ier. Niceta de Remesiana\nDuminica I dup\u0103 Rusalii (a Tuturor Sfin\u021bilor);\n\t\t\t\tAp. Evrei XI, 33-40; XII, 1-2; Ev. Matei X, 32-35; 37-38; XIX, 27-30; glas 8, voscr. 1"
+            },
+            {
+                "day": 25,
+                "event": "V\t\t\tSf. M. Mc. Fevronia; Sf. Cuv. Dionisie \u015fi Dometie"
+            },
+            {
+                "day": 26,
+                "event": "S\t\t\tOdovania praznicului Pogor\u00e2rii Sf. Duh; Sf. Cuv. David din Tesalonic; Sf. Ioan, Ep. Go\u0163iei"
+            },
+            {
+                "day": 27,
+                "event": "D\t\t\tSf. Cuv. Samson, primitorul de str\u0103ini; Sf. Mc. Anect; Sf. Ioana Mironosi\u0163a\t\t\n(L\u0103satul secului pentru Postul Sf. Ap. Petru \u0219i Pavel)"
+            },
+            {
+                "day": 27,
+                "event": "D\t\t\tSf. Cuv. Samson, primitorul de str\u0103ini; Sf. Mc. Anect; Sf. Ioana Mironosi\u0163a\t\t\n(L\u0103satul secului pentru Postul Sf. Ap. Petru \u0219i Pavel)"
+            },
+            {
+                "day": 28,
+                "event": "L\t\t\tAflarea moa\u015ftelor Sf. Mc., doctori f\u0103r\u0103 de argin\u0163i, Chir \u015fi Ioan; Sf. Mc. Papia\t\t\n(\u00cenceputul Postului Sf. Ap. Petru \u0219i Pavel) \t\t\n(Post)"
+            },
+            {
+                "day": 29,
+                "event": "M\t\t\t(\u2020) Sf. Ap. Petru \u015fi Pavel"
+            },
+            {
+                "day": 30,
+                "event": "M\t\t\t\u2020 Soborul celor 12 Sf. Ap.; .\u2020) Sf. Ier. Ghelasie de la R\u00e2me\u0163 \n\n(Post)"
+            }
+        ]
+    },
+    {
+        "month_name": "Iulie",
+        "month_index": 7,
+        "events": [
+            {
+                "day": 1,
+                "event": "J\t\t\t\u2020) Sf. Ier. Leontie de la R\u0103d\u0103u\u0163i; Sf. Mc., doctori f\u0103r\u0103 de argin\u0163i, Cosma \u015fi Damian"
+            },
+            {
+                "day": 2,
+                "event": "V\t\t\t\u2020 Aducerea ve\u015fm\u00e2ntului N\u0103sc\u0103toarei de Dumnezeu \u00een Vlaherne; \u2020) Sf. Voievod \u015etefan cel Mare; Sf. Ier. Iuvenalie, patriarhul Ierusalimului\t\t\n\n(Post)"
+            },
+            {
+                "day": 3,
+                "event": "S\t\t\tSf. Mc. Iachint; Sf. Anatolie, Patr. Constantinopolului"
+            },
+            {
+                "day": 4,
+                "event": "D\t\t\tSf. Andrei, Arhiep. Cretei; Sf. Cuv. Marta\nDuminica a II-a dup\u0103 Rusalii (a Sf. Rom\u00e2ni; Chemarea primilor Apostoli);\n\t\t\t\tAp. Romani II, 10-16; Ev. Matei IV, 18-23; glas 1, voscr. 2"
+            },
+            {
+                "day": 4,
+                "event": "D\t\t\tSf. Andrei, Arhiep. Cretei; Sf. Cuv. Marta"
+            },
+            {
+                "day": 5,
+                "event": "L\t\t\t\u2020 Sf. Cuv. Atanasie Atonitul; Sf. Cuv. Mc. Ciprian; Sf. Cuv. Lampadie"
+            },
+            {
+                "day": 6,
+                "event": "M\t\t\tSf. Cuv. Sisoe cel Mare; Sf. Mc. Lucia; Sf. Mc. Astie, episcopul Dirahiei"
+            },
+            {
+                "day": 7,
+                "event": "M\t\t\tSf. M. Mc. Chiriachi; Sf. Cuv. Toma din Maleon \u015fi Acachie; Sf. Mc. Evanghel\t\t\n\n(Post)"
+            },
+            {
+                "day": 8,
+                "event": "J\t\t\tSf. M. Mc. Procopie \u015fi Sf. Mc. Teodosia, mama sa; \u2020 Sf. Mc. Epictet \u015fi Astion"
+            },
+            {
+                "day": 9,
+                "event": "V\t\t\tSf. Sfin\u0163i\u0163i Mc. Pangratie \u015fi Chiril; Sf. Mc. Andrei \u015fi Prov\t\t\n\n(Post)"
+            },
+            {
+                "day": 10,
+                "event": "S\t\t\tSf. 45 de Mc. din Nicopolea Armeniei; Sf. Mc. Apolonie, Vianor \u015fi Siluan\nDuminica a III-a dup\u0103 Rusalii (Despre grijile vie\u021bii);\n\t\t\t\tAp. Romani V, 1-10; Ev. Matei VI, 22-23; glas 2, voscr. 3"
+            },
+            {
+                "day": 11,
+                "event": "D\t\t\tSf. M. Mc. Eufimia; Sf. Olga, \u00eemp\u0103r\u0103teasa Rusiei; Sf. Cuv. Leon din Mandra"
+            },
+            {
+                "day": 11,
+                "event": "D\t\t\tSf. M. Mc. Eufimia; Sf. Olga, \u00eemp\u0103r\u0103teasa Rusiei; Sf. Cuv. Leon din Mandra"
+            },
+            {
+                "day": 12,
+                "event": "L\t\t\t\u2020) Cinstirea Sfintei Icoane Prodromi\u0163a de la Muntele Athos; Sf. Mc. Proclu \u015fi Ilarie; Sf. Veronica; Sf. Cuv. Mihai Maleinul"
+            },
+            {
+                "day": 13,
+                "event": "M\t\t\tSoborul Sf. Arhanghel Gavriil; Sf. Cuv. \u015etefan Savaitul; Sf. Mc. Golinduhia din Persia; Sf. Cuv. Sara"
+            },
+            {
+                "day": 14,
+                "event": "M\t\t\tSf. Ap. Achila; Sf. Mc. Iust \u015fi Iraclie; Sf. Cuv. Nicodim Aghioritul\t\t\n\n(Post)"
+            },
+            {
+                "day": 15,
+                "event": "J\t\t\tSf. Mc. Chiric \u015fi Iulita; Sf. Cuv. Iosif, Arhiep. Tesalonicului; Sf. Vladimir, Lumin\u0103torul Rusiei"
+            },
+            {
+                "day": 16,
+                "event": "V\t\t\tSf. Sfin\u0163it Mc. Atinoghen cu cei 10 ucenici ai s\u0103i; Sf. Mc. Avudim \u015fi Faust\t\t\n\n(Post)\nDuminica a IV-a dup\u0103 Rusalii (a Sf. P\u0103rin\u0163i de la Sinodul al IV-lea Ecumenic; Vindecarea slugii suta\u0219ului);\n\t\t\t\tAp. Romani VI, 18-23; Ev. Matei VIII, 5-13; Ioan XVII, 1-13; glas 3, voscr. 4"
+            },
+            {
+                "day": 17,
+                "event": "S\t\t\tSf. M. Mc. Marina; Sf. Ier. Eufrasie"
+            },
+            {
+                "day": 18,
+                "event": "D\t\t\t\u2020) Sf. Mc. Emilian de la Durostor; Sf. Cuv. Pamvo; Sf. Mc. Iachint, Pavel \u015fi Valentina"
+            },
+            {
+                "day": 18,
+                "event": "D\t\t\t\u2020) Sf. Mc. Emilian de la Durostor; Sf. Cuv. Pamvo; Sf. Mc. Iachint, Pavel \u015fi Valentina"
+            },
+            {
+                "day": 19,
+                "event": "L\t\t\tSf. Cuv. Macrina, sora Sf. Vasile cel Mare; Sf. Cuv. Dias; Aflarea moa\u015ftelor Sf. Cuv. Serafim de Sarov"
+            },
+            {
+                "day": 20,
+                "event": "M\t\t\t\u2020) Sf. Sl\u0103vitul Prooroc Ilie Tesviteanul"
+            },
+            {
+                "day": 21,
+                "event": "M\t\t\tSf. Cuv. Simeon \u015fi Ioan Pustnicul; Sf. Prooroc Iezechiel; \u2020) Sf. Cuv. Rafail \u015fi Partenie de la Agapia \n\n(Post)"
+            },
+            {
+                "day": 22,
+                "event": "J\t\t\tSf. Mironosi\u0163\u0103, \u00eentocmai cu Apostolii, Maria Magdalena; Sf. Cuv. Mc. Marcela\nDuminica a V-a dup\u0103 Rusalii (Vindecarea celor doi demoniza\u021bi din \u021binutul Gadarei);\n\t\t\t\tAp. Romani X, 1-10; Ev. Matei VIII, 28-34; IX, 1; glas 4, voscr. 5"
+            },
+            {
+                "day": 23,
+                "event": "V\t\t\tAducerea Moa\u015ftelor Sf. Sfin\u0163it Mc. Foca; Sf. Mc. Apolinarie, episcopul Ravenei; Sf. Mc. Vitalie \u015fi Valeria; Sf. Mc. Trofim \u015fi Teofil\t\t\n\n(Post)"
+            },
+            {
+                "day": 24,
+                "event": "S\t\t\tSf. M. Mc. Hristina; Sf. Mc. Ermoghen"
+            },
+            {
+                "day": 25,
+                "event": "D\t\t\t\u2020 Adormirea Sf. Ana, mama Preasfintei N\u0103scatoare de Dumnezeu; Sfintii P\u0103rin\u0163i de la Sinodul al IV-lea Ecumenic; Sf. Cuv. Olimpiada \u015fi Eupraxia"
+            },
+            {
+                "day": 25,
+                "event": "D\t\t\t\u2020 Adormirea Sf. Ana, mama Preasfintei N\u0103scatoare de Dumnezeu; Sfintii P\u0103rin\u0163i de la Sinodul al IV-lea Ecumenic; Sf. Cuv. Olimpiada \u015fi Eupraxia"
+            },
+            {
+                "day": 26,
+                "event": "L\t\t\t\u2020) Sf. Cuv. Ioanichie cel Nou de la Muscel; Sf. Sfin\u0163it Mc. Ermolae; Sf. Mc. Paraschevi din Roma"
+            },
+            {
+                "day": 27,
+                "event": "M\t\t\t\u2020) Sf. M. Mc. \u015fi T\u0103m\u0103duitor Pantelimon; Sf. Cuv. Antuza"
+            },
+            {
+                "day": 28,
+                "event": "M\t\t\tSf. Ap. \u015fi diac. Prohor, Nicanor, Timon \u015fi Parmena, dintre cei 70; Sf. Cuv. Pavel de la Xiropotamu\t\t\n\n(Post)"
+            },
+            {
+                "day": 29,
+                "event": "J\t\t\tSf. Mc. Calinic, Mamant \u015fi Veniamin; Sf. Mc. Teodota cu fiii s\u0103i"
+            },
+            {
+                "day": 30,
+                "event": "V\t\t\tSf. Ap. Sila, Silvan, Crescent, Epenet \u015fi Andronic; Sf. Mc. Iulita; Sf. Mc. Valentin, Ep. Umbriei\t\t\n\n(Post)"
+            },
+            {
+                "day": 31,
+                "event": "S\t\t\t\u00cenaintepr\u0103znuirea scoaterii Sf. Cruci; Sf. \u015fi Dreptul Evdochim; Sf. Iosif din Arimateea"
+            }
+        ]
+    },
+    {
+        "month_name": "August",
+        "month_index": 8,
+        "events": [
+            {
+                "day": 1,
+                "event": "D\t\t\tScoaterea Sf. Cruci; Sf. 7 Mc. Macabei\t\t\n\n(Dezlegare la ulei \u015fi vin)\nDuminica a VI-a dup\u0103 Rusalii (Vindecarea sl\u0103b\u0103nogului din Capernaum);\n\t\t\t\tAp. Romani XII, 6-14; Ev. Matei IX, 1-8; glas 5, voscr. 6"
+            },
+            {
+                "day": 1,
+                "event": "D\t\t\tScoaterea Sf. Cruci; Sf. 7 Mc. Macabei\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 2,
+                "event": "L\t\t\tAducerea moa\u015ftelor Sf. \u00cent\u00e2iul Mc. \u015fi Arhid. \u015etefan; Dreptul Gamaliel; Binecredinciosul \u00cemp\u0103rat Justinian cel Mare\t\t\n\n(Post)"
+            },
+            {
+                "day": 3,
+                "event": "M\t\t\tSf. Cuv. Isaachie, Dalmat \u015fi Faust; Sf. Mironosi\u0163\u0103 Salomeea; Sf. Cuv. Teodora din Tesalonic\t\t\n\n(Post)"
+            },
+            {
+                "day": 4,
+                "event": "M\t\t\tSf. 7 tineri din Efes; Sf. Mc. Tatuil; Aducerea moa\u015ftelor Sf. Cuv. Mc. Evdochia\t\t\n\n(Post)"
+            },
+            {
+                "day": 5,
+                "event": "J\t\t\t\u00cenaintepr\u0103znuirea Schimb\u0103rii la Fa\u0163\u0103 a Domnului; \u2020) Sf. Cuv. Ioan Iacob de la Neam\u0163; Sf. Mc. Evsignie; Sf. Ier. Fabian, episcopul Romei\t\t\n\n(Post)"
+            },
+            {
+                "day": 6,
+                "event": "V\t\t\t(\u2020) Schimbarea la Fa\u0163\u0103 a Domnului (Pobrejenia)\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 7,
+                "event": "S\t\t\t\u2020) Sf. Cuv. Teodora de la Sihla; Sf. Cuv. Mc. Dometie Persul; Sf. Ier. Narcis, arhiepiscopul Ierusalimului; Sf. Irina \u00eemparateasa\t\t\n\n(Dezlegare la ulei \u015fi vin)\nDuminica a VII-a dup\u0103 Rusalii (Vindecarea a doi orbi \u0219i a unui mut din Capernaum);\n\t\t\t\tAp. Romani XV, 1-7; Ev. Matei IX, 27-35; Ioan XVII, 1-13; glas 6, voscr. 7"
+            },
+            {
+                "day": 8,
+                "event": "D\t\t\tSf. Emilian M\u0103rt. Ep. Cizicului; Sf. Miron, Ep. Cretei\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 8,
+                "event": "D\t\t\tSf. Emilian M\u0103rt. Ep. Cizicului; Sf. Miron, Ep. Cretei\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 9,
+                "event": "L\t\t\t\u2020 Sf. Ap. Matia; Sf. 10 Mc. M\u0103rt. pentru icoana lui Hristos; Sf. Mc. Antonin\t\t\n\n(Post)"
+            },
+            {
+                "day": 10,
+                "event": "M\t\t\tSf. Mc. Arhid. Lavrentie; Sf. Sfin\u0163it Mc. Sixt, Ep. Romei; Sf. Mc. Ipolit\t\t\n\n(Post)"
+            },
+            {
+                "day": 11,
+                "event": "M\t\t\t\u2020) Sf. Nifon, Patr. Constantinopolului; Sf. M. Mc. Evplu, arhid.\t\t\n\n(Post)"
+            },
+            {
+                "day": 12,
+                "event": "J\t\t\tSf. Mc. Fotie, Anichit, Pamfil \u015fi Capiton; Sf. Cuv. Palamon\t\t\n\n(Post)"
+            },
+            {
+                "day": 13,
+                "event": "V\t\t\tMutarea moa\u015ftelor Sf. Cuv. Maxim M\u0103rt.; Sf. Cuv. Dorotei \u015fi Dositei\t\t\n(Odovania Praznicului Schimb\u0103rii la Fa\u0163\u0103 a Domnului) \t\t\n(Post)\nDuminica a VIII-a dup\u0103 Rusalii (\u00cenmul\u021birea p\u00e2inilor);\n\t\t\t\tAp. Filipeni II, 5-11; I Corinteni I, 10-17; Ev. Luca X, 38-42; XI, 27-28; Matei XIV, 14-22; glas 7, voscr. 8"
+            },
+            {
+                "day": 14,
+                "event": "S\t\t\t\u00cenaintepr\u0103znuirea Adormirii Maicii Domnului; Sf. Prooroc Miheia\t\t\n(Prohodul Maicii Domnului) \t\t\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 15,
+                "event": "D\t\t\t(\u2020) Adormirea Maicii Domnului"
+            },
+            {
+                "day": 15,
+                "event": "D\t\t\t(\u2020) Adormirea Maicii Domnului"
+            },
+            {
+                "day": 16,
+                "event": "L\t\t\tSf. Mahram\u0103 a Domnului; \u2020) Sf. Martiri Br\u00e2ncoveni Constantin Vod\u0103 cu cei 4 fii ai s\u0103i: Constantin, \u015etefan, Radu, Matei \u015fi sfetnicul Ianache; \u2020) Sf. Cuv. Iosif de la V\u0103ratec"
+            },
+            {
+                "day": 17,
+                "event": "M\t\t\tSf. Sfin\u0163it Mc. Miron; Sf. Mc. Straton, Ciprian \u015fi Tirs"
+            },
+            {
+                "day": 18,
+                "event": "M\t\t\tSf. Mc. Flor, Lavru, Polien \u015fi Leon\t\t\n\n(Post)"
+            },
+            {
+                "day": 19,
+                "event": "J\t\t\tSf. Mc. Andrei Stratilat; Sf. Cuv. Timotei, Agapie \u015fi Tecla\nDuminica a IX-a dup\u0103 Rusalii (a Sf. P\u0103rin\u021bi de la primele \u0219ase Sinoade Ecumenice; Umblarea pe mare - potolirea furtunii);\n\t\t\t\tAp. I Corinteni III, 9-17; Ev. Matei XIV, 22-34; glas 8, voscr. 9"
+            },
+            {
+                "day": 20,
+                "event": "V\t\t\tSf. Prooroc Samuel; Sf. Mc. Sever , Eliodor \u015fi Teoharie\t\t\n\n(Post)"
+            },
+            {
+                "day": 21,
+                "event": "S\t\t\tSf. Ap. Tadeu; Sf. Mc. Vasa; Sf. Mc. Donat diac., Romul pr., Silvan diac. \u015fi Venust"
+            },
+            {
+                "day": 22,
+                "event": "D\t\t\tSf. Mc. Agatonic, Zotic, Zinon, Teoprepie, Achindin \u015fi Severian"
+            },
+            {
+                "day": 22,
+                "event": "D\t\t\tSf. Mc. Agatonic, Zotic, Zinon, Teoprepie, Achindin \u015fi Severian"
+            },
+            {
+                "day": 23,
+                "event": "L\t\t\tSf. Mc. Lup; Sf. Sfin\u0163it Mc. Irineu, episcopul de Lugdunum\t\t\n(Odovania Praznicului Adormirii Maicii Domnului)"
+            },
+            {
+                "day": 24,
+                "event": "M\t\t\tSf. Sfin\u0163it\u0163 Mc. Eutihie \u015fi Cosma Etolul; Sf. Mc. Tation"
+            },
+            {
+                "day": 25,
+                "event": "M\t\t\tAducerea moa\u015ftelor Sf. Ap. Bartolomeu; Sf. Ap. Tit\t\t\n\n(Post)\nDuminica a X-a dup\u0103 Rusalii (Vindecarea lunaticului);\n\t\t\t\tAp. Fapte XIII, 25-33; I Corinteni IV, 9-16; Ev. Marcu VI, 14-30; Matei XVII, 14-23; glas 1, voscr. 10"
+            },
+            {
+                "day": 26,
+                "event": "J\t\t\tSf. Mc. Adrian \u015fi Natalia, so\u0163ia sa; Sf. Mc. Atic"
+            },
+            {
+                "day": 27,
+                "event": "V\t\t\tSf. Cuv. Pimen cel Mare; Sf. Mc. Eutalia, Fanurie \u015fi Osie, Ep. Cordovei\t\t\n\n(Post)"
+            },
+            {
+                "day": 28,
+                "event": "S\t\t\tSf. Cuv. Moise Etiopianul; Dreptul Iezechia; Sf. Mc. Diomid; Sf. Ana Prooroci\u0163a, fiica lui Fanuel"
+            },
+            {
+                "day": 29,
+                "event": "D\t\t\t\u2020) T\u0103ierea Capului Sf. Prooroc Ioan Botez\u0103torul; Sf. Cuv. Teodora\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 29,
+                "event": "D\t\t\t\u2020) T\u0103ierea Capului Sf. Prooroc Ioan Botez\u0103torul; Sf. Cuv. Teodora\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 30,
+                "event": "L\t\t\t\u2020) Sf. Ier. Varlaam, Mitropolitul Moldovei \u015fi Sf. Cuv. Ioan de la R\u00e2\u015fca \u015fi Secu, episcopul Romanului; Sf. Ier. Alexandru, Ioan \u015fi Pavel cel Nou, Patr. Constantinopolului"
+            },
+            {
+                "day": 31,
+                "event": "M\t\t\tA\u015fezarea \u00een racl\u0103 a cinstitului br\u00e2u al Maicii Domnului; Sf. Mc. Andrei, Iraclie, Faust \u015fi Mina"
+            }
+        ]
+    },
+    {
+        "month_name": "Septembrie",
+        "month_index": 9,
+        "events": [
+            {
+                "day": 1,
+                "event": "M\t\t\t\u2020) Sf. Cuv. Dionisie Exiguul; Sf. Cuv. Simeon St\u00e2lpnicul \u015fi Marta, mama sa; Sf. 40 de Muceni\u0163e din Adrianopol\t\t\n(\u00cenceputul anului bisericesc) \t\t\n(Post)"
+            },
+            {
+                "day": 2,
+                "event": "J\t\t\tSf. Mc. Mamant; S. Ier. Ioan Postitorul, Patr. Constantinopolului"
+            },
+            {
+                "day": 3,
+                "event": "V\t\t\tSf. Mc. Antim, Ep. Nicomidiei; Sf. Cuv. Teoctist\t\t\n\n(Post)"
+            },
+            {
+                "day": 4,
+                "event": "S\t\t\tSf. Mc. Vavila, Ep. Antiohiei; Sf. Prooroc Moise; Sf. Mc. Petroniu"
+            },
+            {
+                "day": 5,
+                "event": "D\t\t\tSf. Prooroc Zaharia \u015fi Dreapta Elisabeta, p\u0103rin\u0163ii Sf. Ioan Botez\u0103torul; Sf. Mc. Urban\nDuminica a XI-a dup\u0103 Rusalii (Pilda datornicului nemilostiv);\n\t\t\t\tAp. I Corinteni IX, 2-12; Ev. Matei XVIII, 23-35; glas 2, voscr. 11"
+            },
+            {
+                "day": 5,
+                "event": "D\t\t\tSf. Prooroc Zaharia \u015fi Dreapta Elisabeta, p\u0103rin\u0163ii Sf. Ioan Botez\u0103torul; Sf. Mc. Urban"
+            },
+            {
+                "day": 6,
+                "event": "L\t\t\tPomenirea minunii Sf. Arhanghel Mihail \u00een Colose; Sf. Mc. Eudoxie \u015fi Macarie"
+            },
+            {
+                "day": 7,
+                "event": "M\t\t\t\u00cenaintepr\u0103znuirea Na\u015fterii Maicii Domnului; Sf. Mc. Sozont; \u2020) Sf. Cuv. Simeon \u015fi Amfilohie de la P\u00e2ng\u0103ra\u0163i"
+            },
+            {
+                "day": 8,
+                "event": "M\t\t\t(\u2020) Na\u015fterea Maicii Domnului\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 9,
+                "event": "J\t\t\tSf. \u015fi Drep\u0163ii p\u0103rin\u0163i Ioachim \u015fi Ana; \u2020) Sf. Sf. Cuv. Onufrie de la Vorona \u015fi Sf. Cuv. Chiriac de la Tazl\u0103u"
+            },
+            {
+                "day": 10,
+                "event": "V\t\t\tSf. Mc. Minodora, Mitrodora \u015fi Nimfodora; Sf. Pulheria \u00eemp\u0103r\u0103teasa\t\t\n\n(Post)"
+            },
+            {
+                "day": 11,
+                "event": "S\t\t\tSf. Cuv. Teodora din Alexandria; Sf. Cuv. Eufrosin\t\t\n(S\u00e2mb\u0103ta dinaintea \u00cen\u0103l\u021b\u0103rii Sf. Cruci)\nDuminica dinaintea \u00cen\u0103l\u021b\u0103rii Sf. Cruci (Convorbirea lui Iisus cu Nicodim);\n\t\t\t\tAp. Galateni VI, 11-18; Ev. Ioan III, 13-17; glas 3, voscr. 1"
+            },
+            {
+                "day": 12,
+                "event": "D\t\t\tSf. Mc. Avtonom, Macedonie \u015fi Teodul\t\t\n(Odovania Praznicului Na\u015fterii Maicii Domnului)"
+            },
+            {
+                "day": 12,
+                "event": "D\t\t\tSf. Mc. Avtonom, Macedonie \u015fi Teodul\t\t\n(Odovania Praznicului Na\u015fterii Maicii Domnului)"
+            },
+            {
+                "day": 13,
+                "event": "L\t\t\t\u00cenaintepr\u0103znuirea \u00cen\u0103l\u0163\u0103rii Sf. Cruci; Sf. Sfin\u0163i\u0163i Mc. Corneliu Suta\u015ful si Ciprian, episcopul Cartaginei; \u2020) Sf. Cuv. Ioan de la Prislop; Sf. Mc. din Dobrogea: Macrobie, Gordian, Ilie, Zotic, Lucian \u015fi Valerian"
+            },
+            {
+                "day": 14,
+                "event": "M\t\t\t(\u2020) \u00cen\u0103l\u0163area Sf. Cruci\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 15,
+                "event": "M\t\t\t\u2020) Sf. Ier. Iosif cel Nou de la Parto\u015f, mitropolitul Banatului; Sf. M. Mc. Nichita Romanul; Sf. Ier. Visarion, ep. Larisei\t\t\n\n(Post)"
+            },
+            {
+                "day": 16,
+                "event": "J\t\t\tSf. M. Mc. Eufimia; Sf. Mc. Meletina \u015fi Ludmila"
+            },
+            {
+                "day": 17,
+                "event": "V\t\t\tSf. Mc. Sofia \u015fi fiicele sale: Pistis, Elpis \u015fi Agapi\t\t\n\n(Post)\nDuminica dup\u0103 \u00cen\u0103l\u021barea Sf. Cruci (Luarea Crucii \u0219i urmarea lui Hristos);\n\t\t\t\tAp. Galateni II, 16-20; Ev. Marcu VIII, 34-38; IX, 1; glas 4, voscr. 2"
+            },
+            {
+                "day": 18,
+                "event": "S\t\t\tSf. Eumenie, Ep. Gortinei; Sf. Mc. Ariadna \u015fi Castor\t\t\n(S\u00e2mb\u0103ta dup\u0103 \u00cen\u0103l\u021barea Sf. Cruci)"
+            },
+            {
+                "day": 19,
+                "event": "D\t\t\tSf. Mc. Trofim, Savatie \u015fi Dorimedont"
+            },
+            {
+                "day": 19,
+                "event": "D\t\t\tSf. Mc. Trofim, Savatie \u015fi Dorimedont"
+            },
+            {
+                "day": 20,
+                "event": "L\t\t\tSf. M. Mc. Eustatie \u015fi so\u0163ia sa Teopista cu cei 2 fii: Agapie \u015fi Teopist"
+            },
+            {
+                "day": 21,
+                "event": "M\t\t\tSf. Ap. Codrat; Sf. Prooroc Iona\t\t\n(Odovania Praznicului \u00cen\u0103l\u0163\u0103rii Sf. Cruci)"
+            },
+            {
+                "day": 22,
+                "event": "M\t\t\t\u2020) Sf. Ier. Mc. Teodosie de M-rea Brazi, mitropolitul Moldovei; Sf. Sfin\u0163it Mc. Foca; Sf. Mc. Isaac; Sf. Martin\t\t\n\n(Post)"
+            },
+            {
+                "day": 23,
+                "event": "J\t\t\t\u2020 Z\u0103mislirea Sf. Prooroc Ioan Botez\u0103torul; Sf. Cuv. Xantipa \u015fi Polixenia\nDuminica a XVIII-a dup\u0103 Rusalii (Pescuirea minunat\u0103);\n\t\t\t\tAp. II Corinteni IX, 6-11; Ev. Luca V, 1-11; glas 5, voscr. 3"
+            },
+            {
+                "day": 24,
+                "event": "V\t\t\tSf. M. Mc., \u00eentocmai cu apostolii, Tecla; Sf. Cuv. Siluan Athonitul\t\t\n\n(Post)"
+            },
+            {
+                "day": 25,
+                "event": "S\t\t\tSf. Cuv. Eufrosina; Sf. Cuv. Pafnutie Egipteanul; Sf. Cuv. Serghie de la Radonej"
+            },
+            {
+                "day": 26,
+                "event": "D\t\t\t\u2020) Adormirea Sf. Ap. \u015fi Ev. Ioan; \u2020) Sf. Voievod Neagoe Basarab; Dreptul Ghedeon"
+            },
+            {
+                "day": 26,
+                "event": "D\t\t\t\u2020) Adormirea Sf. Ap. \u015fi Ev. Ioan; \u2020) Sf. Voievod Neagoe Basarab; Dreptul Ghedeon"
+            },
+            {
+                "day": 27,
+                "event": "L\t\t\t\u2020) Sf. Ier. Martir Antim Ivireanul, mitropolitul \u0162arii Romane\u015fti; Sf. Mc. Calistrat \u015fi Epiharia"
+            },
+            {
+                "day": 28,
+                "event": "M\t\t\t\u2020 Sf. Cuv. Hariton M\u0103rt.; Sf. Prooroc Baruh"
+            },
+            {
+                "day": 29,
+                "event": "M\t\t\tSf. Cuv. Chiriac Sihastrul; Sf. Mc. Trifon, Gudelia \u015fi Petronia\t\t\n\n(Post)"
+            },
+            {
+                "day": 30,
+                "event": "J\t\t\tSf. Mc. Grigorie Lumin\u0103torul, Ep. Armeniei; Sf. Mc. Ripsimia \u015fi Gaiani"
+            }
+        ]
+    },
+    {
+        "month_name": "Octombrie",
+        "month_index": 10,
+        "events": [
+            {
+                "day": 1,
+                "event": "V\t\t\t\u2020) Acoper\u0103m\u00e2ntul Maicii Domnului; Sf. Ap. Anania; Sf. Cuv. Roman Melodul; \u2020) Sf. Cuv. Iosif \u015fi Chiriac de la Bisericani \n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 2,
+                "event": "S\t\t\tSf. Sfin\u0163it Mc. Ciprian; Sf. Mc. Iustina fecioara"
+            },
+            {
+                "day": 3,
+                "event": "D\t\t\tSf. Sfin\u0163it Mc. Dionisie Areopagitul; Sf. Mc. Teoctist\nDuminica a XIX-a dup\u0103 Rusalii (Predica de pe munte - iubirea vr\u0103jma\u0219ilor);\n\t\t\t\tAp. II Corinteni XI, 31-33; XII, 1-9; Ev. Luca VI, 31-36; glas 6, voscr. 4"
+            },
+            {
+                "day": 3,
+                "event": "D\t\t\tSf. Sfin\u0163it Mc. Dionisie Areopagitul; Sf. Mc. Teoctist"
+            },
+            {
+                "day": 4,
+                "event": "L\t\t\tSf. Mc. Ierotei, Ep. Atenei; Sf. Mc. Domnina, Audact \u015fi Calistena"
+            },
+            {
+                "day": 5,
+                "event": "M\t\t\tSf. Mc. Haritina \u015fi Mamelta"
+            },
+            {
+                "day": 6,
+                "event": "M\t\t\t\u2020 Sf. Ap. Toma; Sf. Mc. Erotiida\t\t\n\n(Post)"
+            },
+            {
+                "day": 7,
+                "event": "J\t\t\t\u2020 Sf. M. Mc. Serghie \u015fi Vah; Sf. Mc. Iulian, Chesarie \u015fi Polihronie"
+            },
+            {
+                "day": 8,
+                "event": "V\t\t\tSf. Cuv. Pelaghia \u015fi Taisia\t\t\n\n(Post)"
+            },
+            {
+                "day": 9,
+                "event": "S\t\t\t\u2020 Sf. Ap. Iacob al lui Alfeu; Sf. Cuv. Andronic \u015fi Atanasia\nDuminica a XX-a dup\u0103 Rusalii (\u00cenvierea fiului v\u0103duvei din Nain);\n\t\t\t\tAp. Galateni I, 11-19; Ev. Luca VII, 11-16; glas 7, voscr. 5"
+            },
+            {
+                "day": 10,
+                "event": "D\t\t\tSf. Mc. Evlampie \u015fi Evlampia, sora lui; Sf. Cuv. Vasian \u015fi Teofil M\u0103rt."
+            },
+            {
+                "day": 10,
+                "event": "D\t\t\tSf. Mc. Evlampie \u015fi Evlampia, sora lui; Sf. Cuv. Vasian \u015fi Teofil M\u0103rt."
+            },
+            {
+                "day": 11,
+                "event": "L\t\t\tSf. Ap. Filip, unul din cei 7 diac.; Sf. Cuv. Teofan M\u0103rt.; Sf. Mc. Zenaida \u015fi Filonila"
+            },
+            {
+                "day": 12,
+                "event": "M\t\t\tSf. Mc. Prov, Tarah \u015fi Andronic; Sf. Cosma, Ep. Maiumei"
+            },
+            {
+                "day": 13,
+                "event": "M\t\t\t\u2020 Aducerea moa\u015ftelor Sf. Ap. Andrei la Ia\u015fi; Sf. Mc. Carp, Papil, Agatodor, Agatonica \u015fi Florentie\t\t\n\n(Post)"
+            },
+            {
+                "day": 14,
+                "event": "J\t\t\t\u2020) Sf. Cuv. Parascheva de la Ia\u015fi; Sf. Mc. Nazarie, Ghervasie, Protasie \u015fi Chelsie"
+            },
+            {
+                "day": 15,
+                "event": "V\t\t\tSf. Sfin\u0163it Mc. Luchian; Sf. Savin \u015fi Vars, Ep.; Sf. Cuv. Eftimie cel Nou\t\t\n\n(Post)\nDuminica a XXI-a dup\u0103 Rusalii (a Sf. P\u0103rin\u0163i de la Sinodul al VII-lea Ecumenic; Pilda Sem\u0103n\u0103torului);\n\t\t\t\tAp. Galateni II, 16-20; Tit III, 8-15; Ev. Luca VIII, 5-15; Ioan XVII, 1-13; glas 8, voscr. 6"
+            },
+            {
+                "day": 16,
+                "event": "S\t\t\tSf. Mc. Longhin Suta\u015ful; Sf. Mc. Domnin"
+            },
+            {
+                "day": 17,
+                "event": "D\t\t\tSf. Prooroc Oseea; Sf. Cuv. Mc. Andrei Criteanul"
+            },
+            {
+                "day": 17,
+                "event": "D\t\t\tSf. Prooroc Oseea; Sf. Cuv. Mc. Andrei Criteanul"
+            },
+            {
+                "day": 18,
+                "event": "L\t\t\t\u2020 Sf. Ap. \u015fi Ev. Luca; Sf. Mc. Marin cel B\u0103tr\u00e2n"
+            },
+            {
+                "day": 19,
+                "event": "M\t\t\tSf. Prooroc Ioil; Sf. Mc. Uar, Felix pr. \u015fi Eusebiu diac.; Sf. Cleopatra; Sf. Cuv. Ioan de la Rila"
+            },
+            {
+                "day": 20,
+                "event": "M\t\t\tSf. M. Mc. Artemie; Sf. Cuv. Matrona\t\t\n\n(Post)"
+            },
+            {
+                "day": 21,
+                "event": "J\t\t\t\u2020) Sf. Cuv. M\u0103rt. Visarion, Sofronie \u015fi Sf. Mc. Oprea; Sf. Pr. M\u0103rt. Ioan din Gale\u015f \u015fi Moise M\u0103cinic din Sibiel; Sf. Cuv. Ilarion cel Mare\nDuminica a XXIII-a dup\u0103 Rusalii (Vindecarea demoniza\u021bilor din \u021binutul Gherghesenilor);\n\t\t\t\tAp. Efeseni II, 4-10; Ev. Luca VIII, 26-39; glas 1, voscr. 7"
+            },
+            {
+                "day": 22,
+                "event": "V\t\t\tSf. Ier., \u00eentocmai cu apostolii, Averchie; Sf. 7 tineri din Efes\t\t\n\n(Post)"
+            },
+            {
+                "day": 23,
+                "event": "S\t\t\t\u2020 Sf. Ap. Iacob, ruda Domnului; Sf. Ignatie, Patr. Constantinopolului; Sf. Cuv. Petroniu"
+            },
+            {
+                "day": 24,
+                "event": "D\t\t\tSf. M. Mc. Areta; Sf. Mc. Sevastiana \u015fi Valentin"
+            },
+            {
+                "day": 24,
+                "event": "D\t\t\tSf. M. Mc. Areta; Sf. Mc. Sevastiana \u015fi Valentin"
+            },
+            {
+                "day": 25,
+                "event": "L\t\t\tSf. Mc. Marcian \u015fi Martirie, Valerie \u015fi Hrisaf; Sf. Tavita"
+            },
+            {
+                "day": 26,
+                "event": "M\t\t\t\u2020) Sf. Mare Mc. Dimitrie, Izvor\u00e2torul de mir"
+            },
+            {
+                "day": 27,
+                "event": "M\t\t\t\u2020) Sf. Cuv. Dimitrie cel Nou, Ocrotitorul Bucure\u015ftilor, ale c\u0103rui moa\u015fte se afl\u0103 \u00een Catedrala Patriarhal\u0103; Sf. Mc. Nestor\t\t\n\n(Post)\nDuminica a XXII-a dup\u0103 Rusalii (Bogatul nemilostiv \u0219i s\u0103racul Laz\u0103r);\n\t\t\t\tAp. Galateni VI, 11-18; Ev. Luca XVI, 19-31; glas 2, voscr. 8"
+            },
+            {
+                "day": 28,
+                "event": "J\t\t\t\u2020) Sf. Ier. Iachint, Mitropolitul \u0162\u0103rii Rom\u00e2ne\u015fti; Sf. Mc. Terentie, so\u0163ia sa Neonila \u015fi cei 7 fii; Sf. Ier. Firmilian, ep."
+            },
+            {
+                "day": 29,
+                "event": "V\t\t\tSf. Cuv. M. Mc. Anastasia Romana; Sf. Cuv. Avramie\t\t\n\n(Post)"
+            },
+            {
+                "day": 30,
+                "event": "S\t\t\tSf. Mc. Zenovie, Ep., \u015fi Zenovia, sora sa; Sf. Ap. Cleopa"
+            },
+            {
+                "day": 31,
+                "event": "D\t\t\tSf. Ap. Apelie, Stahie, Amplie, Urban, Aristobul \u015fi Narcis; Sf. Mc. Epimah"
+            },
+            {
+                "day": 31,
+                "event": "D\t\t\tSf. Ap. Apelie, Stahie, Amplie, Urban, Aristobul \u015fi Narcis; Sf. Mc. Epimah"
+            }
+        ]
+    },
+    {
+        "month_name": "Noiembrie",
+        "month_index": 11,
+        "events": [
+            {
+                "day": 1,
+                "event": "L\t\t\tSf. doctori f\u0103r\u0103 de argin\u0163i Cosma \u015fi Damian, din Asia"
+            },
+            {
+                "day": 2,
+                "event": "M\t\t\tSf. Mc. Achindin, Pigasie, Elpifidor, Aftonie \u015fi Anempodist"
+            },
+            {
+                "day": 3,
+                "event": "M\t\t\tSf. Mc. Achepsima Ep., Iosif pr. \u015fi Aitala diac.; A\u015fezarea moa\u015ftelor Sf. M. Mc. Gheorghe \u00een Lida\t\t\n\n(Post)"
+            },
+            {
+                "day": 4,
+                "event": "J\t\t\tSf. Cuv. Ioanichie cel Mare; Sf. Mc. Nicandru Ep. \u015fi Ermeu pr."
+            },
+            {
+                "day": 5,
+                "event": "V\t\t\tSf. Mc. Galaction \u015fi Epistimia; Sf. Ier. Grigorie, arhiepiscopul Alexandriei\t\t\n\n(Post)"
+            },
+            {
+                "day": 6,
+                "event": "S\t\t\tSf. Pavel M\u0103rt., Patr. Constantinopolului; Sf. Cuv. Luca din Sicilia"
+            },
+            {
+                "day": 7,
+                "event": "D\t\t\tSf. 33 de Mc. din Melitina; Sf. Cuv. Laz\u0103r din Muntele Galison\nDuminica a XXIV-a dup\u0103 Rusalii (\u00cenvierea fiicei lui Iair);\n\t\t\t\tAp. Efeseni II, 14-22; Ev. Luca VIII, 41-56; glas 3, voscr. 9"
+            },
+            {
+                "day": 7,
+                "event": "D\t\t\tSf. 33 de Mc. din Melitina; Sf. Cuv. Laz\u0103r din Muntele Galison"
+            },
+            {
+                "day": 8,
+                "event": "L\t\t\t\u2020) Soborul Sf. Arhangheli Mihail \u015fi Gavriil \u015fi al tuturor cere\u015ftilor puteri"
+            },
+            {
+                "day": 9,
+                "event": "M\t\t\tSf. Mc. Claudiu, Castor, Sempronian \u015fi Nicostrat; Sf. Mc. Onisifor \u015fi Porfirie; Sf. Ier. Nectarie din Eghina"
+            },
+            {
+                "day": 10,
+                "event": "M\t\t\tSf. Ap. Rodion, Olimp, Erast \u015fi Sosipatru, Ter\u0163iu \u015fi Cvart; Sf. Mc. Orest\t\t\n\n(Post)"
+            },
+            {
+                "day": 11,
+                "event": "J\t\t\tSf. M. Mc. Mina; Sf. Mc. Victor, Vichentie \u015fi \u015etefanida; Sf. Cuv. Teodor Studitul"
+            },
+            {
+                "day": 12,
+                "event": "V\t\t\t\u2020) Sf. Martiri \u015fi M\u0103rturisitori N\u0103s\u0103udeni: Atanasie Todoran din Bichigiu, Vasile din Mocod, Grigore din Zagra \u015fi Vasile din Telciu; Sf. Ioan cel Milostiv, Patr. Alexandriei; Sf. Cuv. Nil Pustnicul\t\t\n\n(Post)"
+            },
+            {
+                "day": 13,
+                "event": "S\t\t\t\u2020) Sf. Ier. Ioan Gur\u0103 de Aur, Arhiep. Constantinopolului; Sf. Cuv. Mc. Damaschin\nDuminica a XXV-a dup\u0103 Rusalii (Pilda samarineanului milostiv);\n\t\t\t\tAp. Efeseni IV, 1-7; Ev. Luca X, 25-37; glas 4, voscr. 10"
+            },
+            {
+                "day": 14,
+                "event": "D\t\t\t\u2020 Sf. Ap. Filip; Sf. Ier. Gridorie Palama, arhiep. Tesalonicului"
+            },
+            {
+                "day": 14,
+                "event": "D\t\t\t\u2020 Sf. Ap. Filip; Sf. Ier. Gridorie Palama, arhiep. Tesalonicului"
+            },
+            {
+                "day": 15,
+                "event": "L\t\t\t\u2020) Sf. Cuv. Paisie de la Neam\u0163; Sf. Mc. \u015fi M\u0103rt. Gurie, Samona \u015fi Aviv\t\t\n\n(Post)"
+            },
+            {
+                "day": 16,
+                "event": "M\t\t\t\u2020 Sf. Ap. \u015fi Ev. Matei\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 17,
+                "event": "M\t\t\tSf. Ier. Grigorie Taumaturgul, Ep. Neocezareei \u015fi Ghenadie, patriarhul Constantinopolului; Sf. Cuv. M\u0103rt. Laz\u0103r Zugravul\t\t\n\n(Post)"
+            },
+            {
+                "day": 18,
+                "event": "J\t\t\tSf. M. Mc. Platon; Sf. Mc. Roman \u015fi Zaheu, diac.\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 19,
+                "event": "V\t\t\tSf. Prooroc Avdie; Sf. Sfin\u0163it Mc. Varlaam\t\t\n\n(Post)\nDuminica a XXVI-a dup\u0103 Rusalii (Pilda bogatului c\u0103ruia i-a rodit \u021barina);\n\t\t\t\tAp. Evrei IX, 1-7; Efeseni V, 9-19; Ev. Luca X, 38-42; XI, 27-28; Luca XII, 16-21; glas 5, voscr. 11"
+            },
+            {
+                "day": 20,
+                "event": "S\t\t\t\u00cenaintepr\u0103znuirea intr\u0103rii \u00een Biseric\u0103 a Maicii Domnului; \u2020) Sf. Cuv. Grigorie Decapolitul; Sf. Mc. Dasie; Sf. Proclu, Patr. Constantinopolului\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 21,
+                "event": "D\t\t\t(\u2020) Intrarea \u00een Biseric\u0103 a Maicii Domnului (Vovidenia)\t\t\n\n(Post negru)"
+            },
+            {
+                "day": 21,
+                "event": "D\t\t\t(\u2020) Intrarea \u00een Biseric\u0103 a Maicii Domnului (Vovidenia)\t\t\n\n(Post negru)"
+            },
+            {
+                "day": 22,
+                "event": "L\t\t\tSf. Ap. Filimon, Arhip \u015fi Onisim; Sf. Mc. Cecilia\t\t\n\n(Post)"
+            },
+            {
+                "day": 23,
+                "event": "M\t\t\t\u2020) Sf. Cuv. Antonie de la Iezerul-V\u00e2lcea; Sf. Ier. Amfilohie, ep. Iconiei, \u015fi Grigorie, ep. Acragandelor\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 24,
+                "event": "M\t\t\tSf. Mc. Clement, Ep. Romei \u015fi Petru, Ep. Alexandriei\t\t\n\n(Post)"
+            },
+            {
+                "day": 25,
+                "event": "J\t\t\t\u2020) Sf. M. Mc. Ecaterina; Sf. M. Mc. Mercurie\t\t\n(Odovania Praznicului intr\u0103rii \u00een Biseric\u0103 a Maicii Domnului) \t\t\n(Dezlegare la pe\u015fte)\nDuminica a XXX-a dup\u0103 Rusalii (Dreg\u0103torul bogat - p\u0103zirea poruncilor);\n\t\t\t\tAp. Coloseni III, 12-16; Ev. Luca XVIII, 18-27; glas 6, voscr. 1"
+            },
+            {
+                "day": 26,
+                "event": "V\t\t\tSf. Cuv. Alipie St\u00e2lpnicul, Nicon \u015fi Stelian Paflagonul\t\t\n\n(Post)"
+            },
+            {
+                "day": 27,
+                "event": "S\t\t\tSf. M. Mc. Iacob Persul; Sf. Cuv. Natanail \u015fi Pinufrie\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 28,
+                "event": "D\t\t\tSf. Sf. Cuv. \u015etefan cel Nou; Sf. Mc. Irinarh\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 28,
+                "event": "D\t\t\tSf. Sf. Cuv. \u015etefan cel Nou; Sf. Mc. Irinarh\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 29,
+                "event": "L\t\t\tSf. Mc. Paramon \u015fi Filumen; Sf. Cuv. Pitirun\t\t\n\n(Post)"
+            },
+            {
+                "day": 30,
+                "event": "M\t\t\t\u2020) Sf. Ap. Andrei, cel \u00cent\u00e2i Chemat, Ocrotitorul Rom\u00e2niei; \u2020) Sf. Ier. Andrei \u015eaguna, mitropolitul Transilvaniei; Sf. Ier. Frumentie, Ep. Etiopiei\t\t\n\n(Dezlegare la pe\u015fte)"
+            }
+        ]
+    },
+    {
+        "month_name": "Decembrie",
+        "month_index": 12,
+        "events": [
+            {
+                "day": 1,
+                "event": "M\t\t\tSf. Prooroc Naum; Sf. Cuv. Filaret Milostivul\t\t\n(Ziua Na\u0163ional\u0103 a Rom\u00e2niei) \t\t\n(Post)"
+            },
+            {
+                "day": 2,
+                "event": "J\t\t\tSf. Prooroc Avacum; Sf. Mc. Miropa; Sf. Solomon, Arhiep. Efesului\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 3,
+                "event": "V\t\t\t\u2020) Sf. Sf. Cuv. Gheorghe de la Cernica \u015fi C\u0103ldaru\u015fani; Sf. Prooroc Sofronie; Sf. Mc. Teodor, Arhiep. Alexandriei\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 4,
+                "event": "S\t\t\t\u2020 Sf. M. Mc. Varvara; Sf. Cuv. Ioan Damaschin\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 5,
+                "event": "D\t\t\t\u2020) Sf. Cuv. Sava cel Sfin\u0163it; Sf. Mc. Anastasie; Sf. Cuv. Mc. Cosma Atonitul\t\t\n\n(Dezlegare la pe\u015fte)\nDuminica a XXVII-a dup\u0103 Rusalii (T\u0103m\u0103duirea femeii g\u00e2rbove);\n\t\t\t\tAp. Efeseni VI, 10-17; Ev. Luca XIII, 10-17; glas 7, voscr. 2"
+            },
+            {
+                "day": 5,
+                "event": "D\t\t\t\u2020) Sf. Cuv. Sava cel Sfin\u0163it; Sf. Mc. Anastasie; Sf. Cuv. Mc. Cosma Atonitul\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 6,
+                "event": "L\t\t\t\u2020) Sf. Ier. Nicolae, Arhiep. Mirelor Lichiei\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 7,
+                "event": "M\t\t\t\u2020) Sf. Mc. Filofteia de la Curtea de Arge\u015f; Sf. Ambrozie, Ep. Mediolanului\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 8,
+                "event": "M\t\t\tSf. Cuv. Patapie; Sf. Ier. Sofronie, ep. Ciprului; Sf. Ap. Tihic, Cezar \u015fi Onisifor\t\t\n\n(Post)"
+            },
+            {
+                "day": 9,
+                "event": "J\t\t\t\u2020 Z\u0103mislirea Sfintei Fecioare Maria de c\u0103tre Sf. Ana; Sf. Prooroci\u0163\u0103 Ana, mama Proorocului Samuel\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 10,
+                "event": "V\t\t\tSf. Mc. Mina, Ermoghen \u015fi Evgraf\t\t\n\n(Post)"
+            },
+            {
+                "day": 11,
+                "event": "S\t\t\tSf. Cuv. Daniil St\u00e2lpnicul \u015fi Luca cel Nou\t\t\n\n(Dezlegare la pe\u015fte)\nDuminica a XXVIII-a dup\u0103 Rusalii (a Sf. Str\u0103mo\u0219i; Pilda celor pofti\u021bi la cin\u0103);\n\t\t\t\tAp. Coloseni I, 12-18; Coloseni III, 4-11; Ev. Luca XIV, 16-24; glas 8, voscr. 3"
+            },
+            {
+                "day": 12,
+                "event": "D\t\t\t\u2020) Sf. Ier. Spiridon, Ep. Trimitundei;Sf. Mc. Sinet; Sf. Ier. Alexandru, ep. Ierusalimului\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 12,
+                "event": "D\t\t\t\u2020) Sf. Ier. Spiridon, Ep. Trimitundei;Sf. Mc. Sinet; Sf. Ier. Alexandru, ep. Ierusalimului\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 13,
+                "event": "L\t\t\t\u2020) Sf. Ier. Dosoftei, mitropolitul Moldovei; \u2020 Sf. M. Mc. Evstratie, Auxen\u0163ie, Evghenie, Mardarie \u015fi Orest; Sf. Mc. Lucia fecioara\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 14,
+                "event": "M\t\t\tSf. Mc. Tirs, Calinic, Filimon, Arian \u015fi Apolonie\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 15,
+                "event": "M\t\t\t\u2020 Sf. Sfin\u0163it Mc. Elefterie; Sf. Mc. Antia \u015fi Suzana\t\t\n\n(Post)"
+            },
+            {
+                "day": 16,
+                "event": "J\t\t\tSf. Prooroc Agheu; Sf. \u00cemp\u0103r\u0103teas\u0103 Teofana\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 17,
+                "event": "V\t\t\tSf. Prooroc Daniel \u015fi Sf. 3 tineri: Anania, Azaria \u015fi Misail\t\t\n\n(Post)\nDuminica dinaintea Na\u0219terii Domnului (a Sf. P\u0103rin\u021bi dup\u0103 trup ai Domnului; Genealogia M\u00e2ntuitorului);\n\t\t\t\tAp. Evrei XI, 9-10; 32-40; Ev. Matei I, 1-25; glas 1, voscr. 4"
+            },
+            {
+                "day": 18,
+                "event": "S\t\t\t\u2020) Sf. Cuv. Daniil Sihastrul; Sf. Mc. Sebastian \u015fi Zoe; Sf. Ier. Modest, patriarhul Ierusalimului\t\t\n(S\u00e2mb\u0103ta dinaintea Na\u0219terii Domnului) \t\t\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 19,
+                "event": "D\t\t\tSf. Mc. Bonifatie; Sf. Ier. Grichentie, ep. Etiopiei; Sf. Mc. Trifon; Sf. Cuv. Aglaia\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 19,
+                "event": "D\t\t\tSf. Mc. Bonifatie; Sf. Ier. Grichentie, ep. Etiopiei; Sf. Mc. Trifon; Sf. Cuv. Aglaia\t\t\n\n(Dezlegare la pe\u015fte)"
+            },
+            {
+                "day": 20,
+                "event": "L\t\t\t\u00cenaintepr\u0103znuirea Na\u015fterii Domnului; Sf. Sfin\u0163it Mc. Ignatie Teoforul, ep. Antiohiei\t\t\n\n(Post)"
+            },
+            {
+                "day": 21,
+                "event": "M\t\t\tSf. Mc. Iuliana din Nicomidia; Sf. Mc. Temistocle\t\t\n\n(Dezlegare la ulei \u015fi vin)"
+            },
+            {
+                "day": 22,
+                "event": "M\t\t\t\u2020) Sf. Ier. Petru Movil\u0103, Mitr. Kievului; Sf. M. Mc. Anastasia; Sf. Mc. Hrisogon \u015fi Teodota\t\t\n\n(Post)"
+            },
+            {
+                "day": 23,
+                "event": "J\t\t\tSf. 10 Mc. din Creta; Sf. Ier. Pavel, Arhiep. Neocezareei; Sf. Cuv. Naum\t\t\n\n(Dezlegare la ulei \u015fi vin)\nDuminica dup\u0103 Na\u0219terea Domnului (a Sf. Iosif, logodnicul Sf. Fecioare Maria, Sf. David Prorocul \u0219i Sf. Iacob, ruda Domnului);\n\t\t\t\tAp. Evrei II, 11-18; Galateni V, 22; VI, 2; Galateni I, 11-19; Ev. Matei II, 13-23; Matei XI, 27-30; Matei II, 13-23; glas 2, voscr. 5"
+            },
+            {
+                "day": 24,
+                "event": "V\t\t\tSf. Sf. Cuv. Mc. Eugenia\t\t\n(Ajunul Cr\u0103ciunului) \t\t\n(Numai seara, gr\u00e2u fiert \u00eendulcit cu miere, poame, covrigi sau turte de f\u0103in\u0103)"
+            },
+            {
+                "day": 25,
+                "event": "S\t\t\t(\u2020) Na\u015fterea Domnului (Cr\u0103ciunul)"
+            },
+            {
+                "day": 26,
+                "event": "D\t\t\tA doua zi de Cr\u0103ciun; (\u2020) Soborul Maicii Domnului; \u2020) Sf. Cuv. Nicodim de la Tismana; Sf. Ier. Eftimie Mart., ep. Sardei"
+            },
+            {
+                "day": 26,
+                "event": "D\t\t\tA doua zi de Cr\u0103ciun; (\u2020) Soborul Maicii Domnului; \u2020) Sf. Cuv. Nicodim de la Tismana; Sf. Ier. Eftimie Mart., ep. Sardei"
+            },
+            {
+                "day": 27,
+                "event": "L\t\t\tA treia zi de Cr\u0103ciun; \u2020) Sf. Ap. \u00cent\u00e2iul Mc. \u015fi Arhid. \u015etefan; Sf. Cuv. Teodor Marturisitorul"
+            },
+            {
+                "day": 28,
+                "event": "M\t\t\tSf. 20.000 de Mc. ar\u015fi \u00een Nicomidia; Sf. Sfin\u0163it Mc. Glicherie preotul"
+            },
+            {
+                "day": 29,
+                "event": "M\t\t\tSf. 14.000 de prunci uci\u015fi din porunca lui Irod; Sf. Cuv. Marcel \u015fi Tadeu\t\t\n\n(Har\u0163i)"
+            },
+            {
+                "day": 30,
+                "event": "J\t\t\tSf. Mc. Anisia; Sf. Cuv. Teodora din Cezareea; Sf. Cuv. Leon"
+            },
+            {
+                "day": 31,
+                "event": "V\t\t\tSf. Cuv. Melania Romana; Sf. Mc. Hermes \n(Odovania Praznicului Na\u015fterii Domnului) \t\t\n(Har\u0163i)"
+            }
+        ]
+    }
+]

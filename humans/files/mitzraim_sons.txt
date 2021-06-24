@@ -1,0 +1,8 @@
+ludim
+anamim
+lehabim
+naftuhim
+patrusim
+casluhim
+caftorim
+__END__

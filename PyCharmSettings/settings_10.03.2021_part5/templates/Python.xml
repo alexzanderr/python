@@ -1,0 +1,14 @@
+<templateSet group="Python">
+  <template name="read file" value="with open($FILE_PATH$, &quot;r+&quot;, encoding=&quot;utf-8&quot;) as file:&#10;    &#10;    $END$&#10;    # lines = file.readlines()&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE_PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="write file" value="with open($FILE_PATH$, &quot;w+&quot;, encoding=&quot;utf-8&quot;) as file:&#10;    file.truncate(0)&#10;    $END$&#10;    &#10;    # file.write()&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE_PATH" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

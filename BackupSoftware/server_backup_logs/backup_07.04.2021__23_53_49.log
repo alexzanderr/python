@@ -1,0 +1,20 @@
+[ 07.04.2021-23:53:49.0123 - BackupClientRemoteServer - INFO ]
+checking server: http://192.168.1.174:9999/ ...
+
+[ 07.04.2021-23:53:49.0131 - BackupClientRemoteServer - INFO ]
+generating files ...
+
+[ 07.04.2021-23:53:49.0139 - BackupClientRemoteServer - INFO ]
+generated.
+
+[ 07.04.2021-23:53:49.0140 - BackupClientRemoteServer - INFO ]
+checking server: http://192.168.1.174:9999/ ...
+
+[ 07.04.2021-23:53:49.0147 - BackupClientRemoteServer - INFO ]
+checking server: http://192.168.1.174:9999/ ...
+
+[ 07.04.2021-23:53:49.0154 - BackupClientRemoteServer - INFO ]
+
+Backup to: http://192.168.1.174:9999/ started at: 07.04.2021-23:53:49
+
+

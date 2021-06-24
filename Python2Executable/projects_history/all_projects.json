@@ -1,0 +1,155 @@
+[
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\Python2Executable\\simulate\\simple_package",
+        "python_file": "D:\\Alexzander__\\programming\\python\\Python2Executable\\simulate\\simple_package\\main.py",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\Python2Executable\\simulate\\simple_package\\icons\\exec.ico",
+        "project_name": "simple_package",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\Python2Executable\\simulate\\simple_package\\dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\Python2Executable\\simulate\\simple_package\\build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\Python2Executable\\simulate\\simple_package"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\Python2Executable",
+        "python_file": "D:\\Alexzander__\\programming\\python\\Python2Executable\\_Python2Executable.py",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\Python2Executable/icons/exec.ico",
+        "project_name": "Python2Executable",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\Python2Executable/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\Python2Executable/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\Python2Executable"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\FileHunter",
+        "python_file": "D:\\Alexzander__\\programming\\python\\FileHunter\\FileHunter.pyw",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\FileHunter/icons/exec.ico",
+        "project_name": "FileHunter",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\FileHunter/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\FileHunter/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\FileHunter"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\AutoQuotes",
+        "python_file": "D:\\Alexzander__\\programming\\python\\AutoQuotes\\AutoQuotes.pyw",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\AutoQuotes/icons/exec.ico",
+        "project_name": "AutoQuotes",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\AutoQuotes/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\AutoQuotes/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\AutoQuotes"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\PDFMerger",
+        "python_file": "D:\\Alexzander__\\programming\\python\\PDFMerger\\PDFMerger.py",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\PDFMerger/icons/exec.ico",
+        "project_name": "PDFMerger",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\PDFMerger/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\PDFMerger/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\PDFMerger"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\PDFCreator",
+        "python_file": "D:\\Alexzander__\\programming\\python\\PDFCreator\\PDFCreator.py",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\PDFCreator/icons/exec.ico",
+        "project_name": "PDFCreator",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\PDFCreator/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\PDFCreator/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\PDFCreator"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\WorkoutCounter",
+        "python_file": "D:\\Alexzander__\\programming\\python\\WorkoutCounter\\WorkoutCounter.pyw",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\WorkoutCounter/icons/exec.ico",
+        "project_name": "WorkoutCounter",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\WorkoutCounter/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\WorkoutCounter/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\WorkoutCounter"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\PasswordManager",
+        "python_file": "D:\\Alexzander__\\programming\\python\\PasswordManager\\PasswordManager.py",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\PasswordManager/icons/exec.ico",
+        "project_name": "PasswordManager",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\PasswordManager/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\PasswordManager/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\PasswordManager"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\ImageToPNG",
+        "python_file": "D:\\Alexzander__\\programming\\python\\ImageToPNG\\ImageToPNG.py",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\ImageToPNG/icons/exec.ico",
+        "project_name": "ImageToPNG",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\ImageToPNG/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\ImageToPNG/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\ImageToPNG"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\ImageToICO",
+        "python_file": "D:\\Alexzander__\\programming\\python\\ImageToICO\\ImageToICO.py",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\ImageToICO/icons/exec.ico",
+        "project_name": "ImageToICO",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\ImageToICO/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\ImageToICO/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\ImageToICO"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\SongsPlaylist",
+        "python_file": "D:\\Alexzander__\\programming\\python\\SongsPlaylist\\SongsPlaylist.py",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\SongsPlaylist/icons/exec.ico",
+        "project_name": "SongsPlaylist",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\SongsPlaylist/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\SongsPlaylist/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\SongsPlaylist"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\Timer",
+        "python_file": "D:\\Alexzander__\\programming\\python\\Timer\\Timer.pyw",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\Timer/icons/exec.ico",
+        "project_name": "Timer",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\Timer/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\Timer/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\Timer"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\Stopwatch",
+        "python_file": "D:\\Alexzander__\\programming\\python\\Stopwatch\\Stopwatch.pyw",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\Stopwatch/icons/exec.ico",
+        "project_name": "Stopwatch",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\Stopwatch/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\Stopwatch/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\Stopwatch"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\Clock",
+        "python_file": "D:\\Alexzander__\\programming\\python\\Clock\\Clock.pyw",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\Clock/icons/exec.ico",
+        "project_name": "Clock",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\Clock/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\Clock/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\Clock"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\PyPIAutoUpload",
+        "python_file": "D:\\Alexzander__\\programming\\python\\PyPIAutoUpload\\_PyPIAutoUpload.py",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\PyPIAutoUpload/icons/exec.ico",
+        "project_name": "PyPIAutoUpload",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\PyPIAutoUpload/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\PyPIAutoUpload/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\PyPIAutoUpload"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\202020_order",
+        "python_file": "D:\\Alexzander__\\programming\\python\\202020_order\\202020_order.py",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\202020_order/icons/exec.ico",
+        "project_name": "202020_order",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\202020_order/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\202020_order/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\202020_order"
+    },
+    {
+        "project_folder": "D:\\Alexzander__\\programming\\python\\FaceCamLog",
+        "python_file": "D:\\Alexzander__\\programming\\python\\FaceCamLog\\main.py",
+        "icon_file": "D:\\Alexzander__\\programming\\python\\FaceCamLog/icons/exec.ico",
+        "project_name": "FaceCamLog",
+        "dist_path": "D:\\Alexzander__\\programming\\python\\FaceCamLog/dist",
+        "work_path": "D:\\Alexzander__\\programming\\python\\FaceCamLog/build",
+        "spec_path": "D:\\Alexzander__\\programming\\python\\FaceCamLog"
+    }
+]

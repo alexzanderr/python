@@ -1,0 +1,842 @@
+{
+    "programming": [
+        {
+            "name": "stackoverflow",
+            "url": "https://stackoverflow.com/"
+        },
+        {
+            "name": "programiz",
+            "url": "https://www.programiz.com/"
+        },
+        {
+            "name": "problemeinfo",
+            "url": "http://info.mcip.ro/"
+        },
+        {
+            "name": "invatainfo",
+            "url": "https://invata.info"
+        },
+        {
+            "name": "toptaldeveloper",
+            "url": "https://www.toptal.com"
+        },
+        {
+            "name": "laboratoarepoli",
+            "url": "https://ocw.cs.pub.ro/courses/pa/laboratoare/laborator-01"
+        },
+        {
+            "name": "epoch1_2019",
+            "url": "https://colab.research.google.com/drive/1-4rZ7WshtGNTWjD-26aMlUMEQS9_ldRG#scrollTo=AMaIhqC8Ws2D"
+        },
+        {
+            "name": "geeks4geeks",
+            "url": "https://www.geeksforgeeks.org/"
+        },
+        {
+            "name": "pbinfo",
+            "url": "https://www.pbinfo.ro"
+        },
+        {
+            "name": "softpedia",
+            "url": "https://forum.softpedia.com/topic/1094222-unibuc-2017-admitere-informatica/"
+        },
+        {
+            "name": "andreiciorba",
+            "url": "http://andrei.clubcisco.ro/cursuri/"
+        },
+        {
+            "name": "rossetacode",
+            "url": "https://rosettacode.org/wiki/Category:Programming_Tasks"
+        },
+        {
+            "name": "cplusplus",
+            "url": "http://www.cplusplus.com"
+        },
+        {
+            "name": "fmisubrezolvate",
+            "url": "http://fmi.unibuc.ro/ro/pdf/2017/admitere/licenta/FMI_Rezolvari_admitere_2017.pdf"
+        },
+        {
+            "name": "hackthebox",
+            "url": "https://www.hackthebox.eu/home"
+        },
+        {
+            "name": "microsoftdocs",
+            "url": "https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types-and-variables"
+        },
+        {
+            "name": "infoarena",
+            "url": "https://infoarena.ro/operatii-pe-biti"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com"
+        },
+        {
+            "name": "w3schools",
+            "url": "https://www.w3schools.com"
+        },
+        {
+            "name": "codinggame",
+            "url": "https://www.codingame.com/start"
+        },
+        {
+            "name": "support_ntp",
+            "url": "http://support.ntp.org/bin/view/Servers/StratumOneTimeServers"
+        },
+        {
+            "name": "real python.com",
+            "url": "https://realpython.com/"
+        },
+        {
+            "name": "hacker noon.com",
+            "url": "https://hackernoon.com/"
+        },
+        {
+            "name": "comet.ml supercharging machine learning",
+            "url": "https://www.comet.ml/"
+        },
+        {
+            "name": "oracle.com",
+            "url": "https://docs.oracle.com/en/"
+        },
+        {
+            "name": "tutoriale pe net",
+            "url": "https://tutoriale-pe.net/"
+        },
+        {
+            "name": "best of alogritmi elementari",
+            "url": "https://eniavlad.wordpress.com/"
+        },
+        {
+            "name": "codecademy",
+            "url": "https://www.codecademy.com/"
+        },
+        {
+            "name": "hackerrank(problem solving)",
+            "url": "https://www.hackerrank.com/"
+        },
+        {
+            "name": "programarea alogritmilor",
+            "url": "https://sites.google.com/site/fiicoursepa/curriculum"
+        },
+        {
+            "name": "pa politehnica",
+            "url": "https://ocw.cs.pub.ro/courses/pa"
+        },
+        {
+            "name": "tehnici web fmi",
+            "url": "https://sites.google.com/site/fmitehniciweb/"
+        },
+        {
+            "name": "python.org",
+            "url": "https://www.python.org/"
+        },
+        {
+            "name": "ai script mihai sturza",
+            "url": "https://github.com/sturzamihai?fbclid=IwAR3PHk-HawAU3D8UXaubcexOq3xZG7kf9jUn3QOHb4045-kDZdFt9QP5P7M"
+        },
+        {
+            "name": "sturza depo github",
+            "url": "https://github.com/sturzamihai/unleashing-ml?fbclid=IwAR1j58DGi1gMIn5PFLyFJZgcpSpzuVDuKrj1frEVYnCC2tSyCXLPn4MPOf4"
+        },
+        {
+            "name": "netacad.com",
+            "url": "https://www.netacad.com/"
+        },
+        {
+            "name": "ntp site",
+            "url": "http://support.ntp.org/bin/view/Servers/StratumOneTimeServers"
+        },
+        {
+            "name": "repl.it online c++ compiler",
+            "url": "https://repl.it/languages/cpp"
+        },
+        {
+            "name": "codeforces.com",
+            "url": "https://codeforces.com/?fbclid=IwAR2lFTj6_0VXSzlr4mEcOGIlEVRI5cJ8yTkjPjm79utZbv93yNyyyI47QQI"
+        },
+        {
+            "name": "regex simulator.com",
+            "url": "https://regexr.com/"
+        },
+        {
+            "name": "crypting and decrypting site",
+            "url": "https://www.dcode.fr/"
+        },
+        {
+            "name": "wikipython.org",
+            "url": "https://wiki.python.org/"
+        },
+        {
+            "name": "djangocentral.com",
+            "url": "https://djangocentral.com/python-program-to-check-if-a-number-is-perfect-square/"
+        },
+        {
+            "name": "c onlinecompiler(repl.it)",
+            "url": "https://repl.it/languages/c"
+        },
+        {
+            "name": "supreme knowledge(620 free online courses)",
+            "url": "https://www.freecodecamp.org/news/new-online-courses/"
+        },
+        {
+            "name": "google/careers/students",
+            "url": "https://careers.google.com/students/"
+        },
+        {
+            "name": "codeforces",
+            "url": "https://codeforces.com/"
+        },
+        {
+            "name": "techlead ex-google, ex-facebook",
+            "url": "https://www.techseries.dev/"
+        },
+        {
+            "name": "leetcode programming for big tech companies",
+            "url": "https://leetcode.com/"
+        },
+        {
+            "name": "rhino python guides",
+            "url": "https://developer.rhino3d.com/guides/rhinopython/"
+        }
+    ],
+    "software": [
+        {
+            "name": "jetbrains account page => license",
+            "url": "https://account.jetbrains.com/licenses/assets"
+        },
+        {
+            "name": "ab4 systems => they build software that impact society",
+            "url": "https://ab4.systems/"
+        }
+    ],
+    "hardware": [
+        {
+            "name": "video card benchmark",
+            "url": "https://www.videocardbenchmark.net/"
+        },
+        {
+            "name": "cpu benchmark",
+            "url": "https://www.cpubenchmark.net"
+        },
+        {
+            "name": "game debate.com (useful site for comparing hardware)",
+            "url": "https://www.game-debate.com/"
+        },
+        {
+            "name": "ardushop.ro -- magazin de placute interesante",
+            "url": "https://ardushop.ro/ro/"
+        },
+        {
+            "name": "thingspeak.com connecting the iot",
+            "url": "https://thingspeak.com/"
+        }
+    ],
+    "hacking": [
+        {
+            "name": "nullbyte yt channel",
+            "url": "https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g"
+        },
+        {
+            "name": "nullbyte",
+            "url": "https://null-byte.wonderhowto.com/"
+        },
+        {
+            "name": "ctf boilers",
+            "url": "https://ctf.b01lers.net/"
+        }
+    ],
+    "warnings => insecure": [
+        {
+            "name": "curs dl mate",
+            "url": "http://math.ucv.ro/~gorunescu/courses/en/CS/indexcs.html"
+        },
+        {
+            "name": "elem de calcul stiintific",
+            "url": "http://math.ucv.ro/~gorunescu/courses/CS/indexcs.html"
+        },
+        {
+            "name": "calcul numeric",
+            "url": "http://math.ubbcluj.ro/~tradu/cn.htm"
+        },
+        {
+            "name": "tehnici de programare",
+            "url": "https://sites.google.com/site/razvanaciu/tehnici-de-programare"
+        }
+    ],
+    "computers": [
+        {
+            "name": "howtogeek",
+            "url": "https://www.howtogeek.com/"
+        },
+        {
+            "name": "filelist",
+            "url": "https://filelist.ro/browse.php"
+        },
+        {
+            "name": "dwavesys quantum computing",
+            "url": "https://www.dwavesys.com/home"
+        },
+        {
+            "name": "templeos",
+            "url": "https://www.templeos.org/"
+        },
+        {
+            "name": "speedtest.net",
+            "url": "https://www.speedtest.net/"
+        },
+        {
+            "name": "wikipedia of programmers",
+            "url": "https://www.howtoanswer.com/category"
+        }
+    ],
+    "dating": [
+        {
+            "name": "tinder",
+            "url": "https://tinder.com/app/recs"
+        },
+        {
+            "name": "tender dating",
+            "url": "https://tendersingles.ch/en/search"
+        }
+    ],
+    "news": [
+        {
+            "name": "hackernews",
+            "url": "https://news.ycombinator.com/"
+        },
+        {
+            "name": "slashdot",
+            "url": "https://slashdot.org/recent"
+        },
+        {
+            "name": "ziarulnatiunea.ro",
+            "url": "https://www.ziarulnatiunea.ro/"
+        },
+        {
+            "name": "techspot",
+            "url": "https://www.techspot.com/"
+        },
+        {
+            "name": "teslarati.com",
+            "url": "https://www.teslarati.com/"
+        },
+        {
+            "name": "codeburst.io",
+            "url": "https://codeburst.io/"
+        },
+        {
+            "name": "live science.com",
+            "url": "https://www.livescience.com/"
+        },
+        {
+            "name": "the verge.com",
+            "url": "https://www.theverge.com/"
+        },
+        {
+            "name": "the verge.com",
+            "url": "https://www.theverge.com/"
+        },
+        {
+            "name": "medium.com",
+            "url": "https://medium.com/"
+        },
+        {
+            "name": "business insider.com",
+            "url": "https://www.businessinsider.com/"
+        },
+        {
+            "name": "space.com",
+            "url": "https://www.space.com/"
+        },
+        {
+            "name": "romania insider.com",
+            "url": "https://www.romania-insider.com/"
+        },
+        {
+            "name": "the things.com",
+            "url": "https://www.thethings.com/"
+        },
+        {
+            "name": "daily express.co.uk",
+            "url": "https://www.express.co.uk/"
+        },
+        {
+            "name": "jet brains blog",
+            "url": "https://blog.jetbrains.com/"
+        },
+        {
+            "name": "the register.co.uk",
+            "url": "https://www.theregister.co.uk/"
+        },
+        {
+            "name": "phys.org",
+            "url": "https://phys.org/"
+        },
+        {
+            "name": "gadgets ndtv",
+            "url": "https://gadgets.ndtv.com/"
+        },
+        {
+            "name": "extreme tech.com",
+            "url": "https://www.extremetech.com/"
+        },
+        {
+            "name": "the conversation.com/uk",
+            "url": "https://theconversation.com/uk"
+        },
+        {
+            "name": "news 18.com",
+            "url": "https://www.news18.com/"
+        },
+        {
+            "name": "visual studio blog.com",
+            "url": "https://devblogs.microsoft.com/visualstudio/"
+        },
+        {
+            "name": "scitech europa.eu",
+            "url": "https://www.scitecheuropa.eu/"
+        },
+        {
+            "name": "wccftech.com",
+            "url": "https://wccftech.com/"
+        },
+        {
+            "name": "zdnet.com",
+            "url": "https://www.zdnet.com/"
+        },
+        {
+            "name": "towards data science.com",
+            "url": "https://towardsdatascience.com/"
+        },
+        {
+            "name": "dexerto.com",
+            "url": "https://www.dexerto.com/"
+        },
+        {
+            "name": "forbes.com",
+            "url": "https://www.forbes.com/#6f6709b2254c"
+        },
+        {
+            "name": "stack overflow blog",
+            "url": "https://stackoverflow.blog/"
+        },
+        {
+            "name": "cnbc.com",
+            "url": "https://www.cnbc.com/world/?region=world"
+        },
+        {
+            "name": "malware tips.com",
+            "url": "https://malwaretips.com/"
+        },
+        {
+            "name": "dev.to",
+            "url": "https://dev.to/"
+        },
+        {
+            "name": "product hunt.com",
+            "url": "https://www.producthunt.com/"
+        },
+        {
+            "name": "quanta magazine.org",
+            "url": "https://www.quantamagazine.org/"
+        },
+        {
+            "name": "wabeta info.com",
+            "url": "https://wabetainfo.com/"
+        },
+        {
+            "name": "bbc news",
+            "url": "https://www.bbc.com/"
+        },
+        {
+            "name": "cnn news",
+            "url": "https://edition.cnn.com/"
+        },
+        {
+            "name": "idevice.ro news site",
+            "url": "https://www.idevice.ro/"
+        },
+        {
+            "name": "economica.net",
+            "url": "https://www.economica.net/"
+        }
+    ],
+    "math": [
+        {
+            "name": "derivativecalculator",
+            "url": "https://www.derivative-calculator.net/"
+        },
+        {
+            "name": "integralcalculator",
+            "url": "https://www.integral-calculator.com"
+        },
+        {
+            "name": "variantemate",
+            "url": "https://variante-mate.ro/"
+        },
+        {
+            "name": "wolframalpha",
+            "url": "https://www.wolframalpha.com"
+        },
+        {
+            "name": "mathisfun",
+            "url": "https://www.mathsisfun.com"
+        },
+        {
+            "name": "stackexchangemath",
+            "url": "https://math.stackexchange.com"
+        },
+        {
+            "name": "symbolab",
+            "url": "https://www.symbolab.com"
+        },
+        {
+            "name": "mateonline",
+            "url": "https://www.mateonline.net"
+        },
+        {
+            "name": "matepedia",
+            "url": "https://matepedia.ro/determinarea-punctelor-de-inflexiune/"
+        },
+        {
+            "name": "wikibooks",
+            "url": "https://ro.wikibooks.org/wiki/Probleme_cu_derivate_\u0219i_nu_numai/Teoreme_importante"
+        },
+        {
+            "name": "math stackexchange.com",
+            "url": "https://math.stackexchange.com/"
+        },
+        {
+            "name": "mate blog spot",
+            "url": "http://problemerezolvatedematematica02.blogspot.com/2014/10/lista-temelor.html?m=1"
+        }
+    ],
+    "games": [
+        {
+            "name": "typeracer",
+            "url": "https://play.typeracer.com/"
+        },
+        {
+            "name": "leauge of legends.com",
+            "url": "https://na.leagueoflegends.com/en/news/champions-skins/champion-preview/champion-insights-jhin"
+        },
+        {
+            "name": "10fastfingers",
+            "url": "https://10fastfingers.com/typing-test/romanian"
+        }
+    ],
+    "educational": [
+        {
+            "name": "edu",
+            "url": "https://www.edu.ro/"
+        },
+        {
+            "name": "scribd",
+            "url": "https://www.scribd.com/"
+        },
+        {
+            "name": "fmi",
+            "url": "http://fmi.unibuc.ro/ro/admitere_licenta/examen_admitere_iulie_2019/"
+        },
+        {
+            "name": "briliant",
+            "url": "https://brilliant.org/courses/#recent"
+        },
+        {
+            "name": "dexonline",
+            "url": "https://dexonline.ro"
+        },
+        {
+            "name": "wikipedia",
+            "url": "https://ro.wikipedia.org/wiki"
+        },
+        {
+            "name": "algoexpert",
+            "url": "https://www.algoexpert.io/devon"
+        },
+        {
+            "name": "lexicotranslate",
+            "url": "https://www.lexico.com/en/definition/witness"
+        },
+        {
+            "name": "cambridgedex",
+            "url": "https://dictionary.cambridge.org/dictionary/english/witness"
+        },
+        {
+            "name": "acm",
+            "url": "http://acm.ro/"
+        },
+        {
+            "name": "subiecteedu",
+            "url": "http://subiecte.edu.ro/2019/"
+        },
+        {
+            "name": "stackexchange",
+            "url": "https://stackexchange.com/sites"
+        },
+        {
+            "name": "concursuri informatica si tic.ro",
+            "url": "http://webserv.lgrcat.ro/ci/Concursuri/default.html"
+        },
+        {
+            "name": "skill share.com",
+            "url": "https://www.skillshare.com/"
+        },
+        {
+            "name": "simulator fizica[warning: insecure site!]",
+            "url": "http://www.walter-fendt.de/html5/phro/inclinedplane_ro.htm"
+        },
+        {
+            "name": "andrei ciorba.ro[warning: insecure site!]",
+            "url": "http://andrei.clubcisco.ro/cursuri/misc.html"
+        },
+        {
+            "name": "cambridge english",
+            "url": "https://www.cambridgeenglish.org/"
+        },
+        {
+            "name": "ielts practice",
+            "url": "https://www.ielts.org/about-the-test/sample-test-questions"
+        },
+        {
+            "name": "patreon.com",
+            "url": "https://www.patreon.com/"
+        },
+        {
+            "name": "lexico(explaining meaning of expressions)",
+            "url": "https://www.lexico.com/en"
+        },
+        {
+            "name": "cambridge dictionary",
+            "url": "https://dictionary.cambridge.org/dictionary/english/"
+        },
+        {
+            "name": "cursuri unibuc(warning)",
+            "url": "https://cs.unibuc.ro//~lleustean/Teaching/2018-LOGICINFO/index.html"
+        },
+        {
+            "name": "moodlefmi",
+            "url": "http://moodle.fmi.unibuc.ro/"
+        },
+        {
+            "name": "cursuri spiru haret google drive",
+            "url": "https://docs.google.com/spreadsheets/d/1wNCexWci2KFw_KIR67149mVruFb1tX1nW4gI6bnO5UU/edit#gid=0"
+        },
+        {
+            "name": "fmi unibuc admitere 2020",
+            "url": "http://fmi.unibuc.ro/ro/admitere_licenta/examen_admitere_iulie_2020/"
+        }
+    ],
+    "social": [
+        {
+            "name": "google",
+            "url": "https://www.google.com/"
+        },
+        {
+            "name": "googletranslate",
+            "url": "https://www.google.ro/search?q=translate"
+        },
+        {
+            "name": "tumblr",
+            "url": "https://www.tumblr.com/dashboard"
+        },
+        {
+            "name": "facebook",
+            "url": "https://www.facebook.com/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/elonmusk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+        },
+        {
+            "name": "9gag.com",
+            "url": "https://9gag.com/"
+        },
+        {
+            "name": "reddit.com",
+            "url": "https://www.reddit.com/"
+        },
+        {
+            "name": "youtube.com",
+            "url": "https://www.youtube.com/"
+        },
+        {
+            "name": "twitch.tv",
+            "url": "https://www.twitch.tv/"
+        },
+        {
+            "name": "catalog virtual fmi",
+            "url": "https://ums.unibuc.ro/ums/do/secure/j_security_check"
+        },
+        {
+            "name": "what'sapp.com",
+            "url": "https://web.whatsapp.com/"
+        },
+        {
+            "name": "discord programming servers list",
+            "url": "https://disboard.org/servers/tag/coding"
+        },
+        {
+            "name": "meetup => events site",
+            "url": "https://www.meetup.com/explore"
+        },
+        {
+            "name": "skype with miron stanciuuuuu",
+            "url": "https://web.skype.com/19:dee8bea6501041b2873bb835b3e483a3@thread.skype"
+        }
+    ],
+    "brands": [
+        {
+            "name": "corsair.com",
+            "url": "https://www.corsair.com/ww/en/"
+        },
+        {
+            "name": "intel.com",
+            "url": "https://www.intel.com/content/www/us/en/homepage.html"
+        },
+        {
+            "name": "asus.ro",
+            "url": "https://www.asus.com/ro/"
+        },
+        {
+            "name": "asus rog.com",
+            "url": "https://rog.asus.com/"
+        },
+        {
+            "name": "luxoft",
+            "url": "https://career.luxoft.com/referral/"
+        },
+        {
+            "name": "ultra-rare",
+            "url": "https://ultrarare.com/"
+        },
+        {
+            "name": "fan-courier tracking",
+            "url": "https://www.fancourier.ro/en/awb-tracking/"
+        },
+        {
+            "name": "infoacademy.net",
+            "url": "https://www.infoacademy.net/"
+        },
+        {
+            "name": "binatex.com",
+            "url": "https://binatex.com/"
+        },
+        {
+            "name": "gotech world",
+            "url": "https://gotech.world/"
+        },
+        {
+            "name": "rinf tech",
+            "url": "https://www.rinftech.com/"
+        },
+        {
+            "name": "nextcloud.com for cloud computing",
+            "url": "https://nextcloud.com/"
+        }
+    ],
+    "romania politics": [
+        {
+            "name": "camera deputatilor",
+            "url": "http://www.cdep.ro/pls/dic/site.page?id=339"
+        },
+        {
+            "name": "constitutia romaniei",
+            "url": "https://www.constitutiaromaniei.ro/"
+        }
+    ],
+    "organisations": [
+        {
+            "name": "ejobs.ro",
+            "url": "https://www.ejobs.ro/"
+        },
+        {
+            "name": "olx.ro",
+            "url": "https://www.olx.ro/"
+        }
+    ],
+    "util": [
+        {
+            "name": "windowscentral",
+            "url": "https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10"
+        },
+        {
+            "name": "bit.ly",
+            "url": "https://bitly.com/"
+        },
+        {
+            "name": "corona virus tracker",
+            "url": "https://www.coronatracker.com/"
+        },
+        {
+            "name": "coloana infinitului [site pentru suflet]",
+            "url": "https://coloana-infinitului.com/"
+        },
+        {
+            "name": "program de rugaciune in comunitate",
+            "url": "http://www.paraclisuluniversitar.ro/Program-de-vietuire-in-comuniune-cu-fratii-nostri-intr-o-perioada-de-criza-v157-ro.htm"
+        }
+    ],
+    "cryptocurrency": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/all/views/all/"
+        },
+        {
+            "name": "tether",
+            "url": "https://app.tether.to/"
+        }
+    ],
+    "music": [
+        {
+            "name": "web spotify",
+            "url": "https://open.spotify.com/"
+        }
+    ],
+    "romania news": [
+        {
+            "name": "libertatea.ro [secure]",
+            "url": "https://www.libertatea.ro/stiri"
+        },
+        {
+            "name": "digi24.ro",
+            "url": "https://www.digi24.ro/stiri/actualitate"
+        },
+        {
+            "name": "biziday.ro",
+            "url": "https://www.biziday.ro/"
+        },
+        {
+            "name": "hotnews.ro",
+            "url": "https://www.hotnews.ro/"
+        },
+        {
+            "name": "mediafax.ro",
+            "url": "https://www.mediafax.ro/"
+        },
+        {
+            "name": "stirileprotv.ro",
+            "url": "https://stirileprotv.ro/stiri-despre/romania/"
+        },
+        {
+            "name": "cancan.ro",
+            "url": "https://www.cancan.ro/stiri"
+        },
+        {
+            "name": "news.ro",
+            "url": "https://www.news.ro/"
+        }
+    ],
+    "cs16": [
+        {
+            "name": "cs 1.6 servers list",
+            "url": "https://www.gametracker.com/search/cs/?search_by=map&query=fy_snow"
+        },
+        {
+            "name": "cs 1.6 perfect sounds free download",
+            "url": "https://www.youtube.com/watch?v=u7YXsUiBmAw"
+        }
+    ]
+}

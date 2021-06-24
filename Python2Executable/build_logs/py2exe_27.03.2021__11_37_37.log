@@ -1,0 +1,94 @@
+[ 27.03.2021-11:37:37.0772 - history.py - INFO ]
+all projects json read from:
+D:\Alexzander__\programming\python\Python2Executable\projects_history\all_projects.json
+
+[ 27.03.2021-11:37:37.0774 - history.py - INFO ]
+last project json read from:
+D:\Alexzander__\programming\python\Python2Executable\projects_history\last_project.json
+
+[ 27.03.2021-11:37:37.0776 - history.py - INFO ]
+all projects list with:
+ProjectSpecs objects
+created
+
+[ 27.03.2021-11:37:37.0785 - transfer.py - INFO ]
+shortcuts remote location:
+D:\Alexzander__\PythonApplicationsShortcuts
+
+[ 27.03.2021-11:37:37.0786 - transfer.py - INFO ]
+exe ignore:
+build
+	dist
+	__pycache__
+	*.spec
+	.idea
+	.vscode
+
+[ 27.03.2021-11:37:37.0793 - nsis.py - INFO ]
+nsis script template created
+
+[ 27.03.2021-11:37:37.0798 - Python2Executable - INFO ]
+logger_Python2Executable has format style:
+%d.%m.%Y-%H:%M:%S
+
+[ 27.03.2021-11:37:48.0501 - history.py - INFO ]
+project:
+D:\Alexzander__\programming\python\FaceCamLog
+not found in database
+
+[ 27.03.2021-11:37:48.0502 - history.py - INFO ]
+adding project:
+D:\Alexzander__\programming\python\FaceCamLog...
+
+[ 27.03.2021-11:37:48.0503 - history.py - INFO ]
+all_projects list updated with:
+D:\Alexzander__\programming\python\FaceCamLog
+
+[ 27.03.2021-11:37:48.0504 - history.py - INFO ]
+all_projects json updated with:
+D:\Alexzander__\programming\python\FaceCamLog
+
+[ 27.03.2021-11:37:48.0602 - history.py - INFO ]
+project:
+D:\Alexzander__\programming\python\FaceCamLog
+added to database
+
+[ 27.03.2021-11:37:48.0604 - build.py - INFO ]
+current working dir:
+D:\Alexzander__\programming\python\Python2Executable
+(Python2Executable project)
+
+[ 27.03.2021-11:37:48.0605 - build.py - INFO ]
+project folder path:
+D:\Alexzander__\programming\python\FaceCamLog
+
+[ 27.03.2021-11:37:48.0606 - build.py - INFO ]
+project folder name:
+FaceCamLog
+
+[ 27.03.2021-11:37:48.0607 - build.py - INFO ]
+file name:
+main.py
+path:
+D:\Alexzander__\programming\python\FaceCamLog
+
+[ 27.03.2021-11:37:48.0609 - build.py - INFO ]
+in function:
+PyinstallerScript()
+param @file:
+D:\Alexzander__\programming\python\FaceCamLog\main.py
+is a python file
+
+[ 27.03.2021-11:37:48.0611 - build.py - INFO ]
+icon for project doesnt exist. aborted.
+
+[ 27.03.2021-11:37:48.0613 - Python2Executable - ERROR ]
+exception!!!!!!!!!
+Traceback (most recent call last):
+  File ".\_Python2Executable.py", line 230, in Python2Executable
+    auto
+  File ".\_Python2Executable.py", line 68, in ProjectBuild
+    PyinstallerScript(python_file, project_folder, project_name)
+  File "D:\Alexzander__\programming\python\Python2Executable\build.py", line 83, in PyinstallerScript
+    raise core.exceptions.NotFoundError(f"icon: {icon_file_path} doesnt exist!")
+core.exceptions.NotFoundError: icon: D:\Alexzander__\programming\python\FaceCamLog\icons\exec.ico doesnt exist!

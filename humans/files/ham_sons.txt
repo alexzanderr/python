@@ -1,0 +1,4 @@
+cush
+mitzraim
+put
+__END__
